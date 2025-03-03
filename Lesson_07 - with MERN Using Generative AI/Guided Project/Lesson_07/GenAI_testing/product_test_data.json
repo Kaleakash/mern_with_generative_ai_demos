@@ -1,0 +1,3415 @@
+[
+  {
+    "productId": "2ca1b16b-0f60-4a28-90a3-5d4c1f33a5bd",
+    "sku": "KA70JCBH",
+    "name": "Davis, Keebler and Gleichner Incredible Ceramic Keyboard",
+    "brand": "Davis, Keebler and Gleichner",
+    "category": "Screen Protectors",
+    "description": "Experience the tan brilliance of our Car, perfect for worldly environments",
+    "price": {
+      "regular": 1852.79,
+      "discount": 1,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "307g",
+      "dimensions": {
+        "length": "18cm",
+        "width": "12cm",
+        "height": "2cm"
+      }
+    },
+    "inventory": {
+      "inStock": 10,
+      "warehouse": "South Rustystead",
+      "leadTime": "3 days"
+    },
+    "ratings": {
+      "average": 1.2120691504061152,
+      "count": 631
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/JKrg7bd/969/2005",
+        "alt": "Frozen Wooden Fish",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/434/113?lock=551849205868025",
+        "alt": "Incredible Cotton Car",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2744/967?lock=3011090326295681",
+        "alt": "Small Aluminum Soap",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/7QJqc/1205/3877",
+        "alt": "Rustic Granite Salad",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Oriental",
+      "Electronic",
+      "Small"
+    ],
+    "tags": [
+      "Cotton",
+      "Plastic"
+    ],
+    "createdAt": "2024-12-31T05:45:19.649Z",
+    "updatedAt": "2025-02-27T14:17:34.481Z",
+    "isActive": false
+  },
+  {
+    "productId": "25f7bdaf-272e-4445-9265-d710d9f51afe",
+    "sku": "7OASUNVZ",
+    "name": "Braun - Hayes Practical Aluminum Towels",
+    "brand": "Braun - Hayes",
+    "category": "Chargers",
+    "description": "Our bitter-inspired Hat brings a taste of luxury to your unhealthy lifestyle",
+    "price": {
+      "regular": 385.39,
+      "discount": 0,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "396g",
+      "dimensions": {
+        "length": "12cm",
+        "width": "5cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 59,
+      "warehouse": "Steuberboro",
+      "leadTime": "2 days"
+    },
+    "ratings": {
+      "average": 1.1321773934810007,
+      "count": 503
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/4r2HWJYS/3038/1373",
+        "alt": "Tasty Metal Ball",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3183/1039?lock=6138859629190786",
+        "alt": "Sleek Steel Chips",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/8U6lJwS/474/1110",
+        "alt": "Refined Gold Gloves",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/IJB14uzQiJ/2658/2097",
+        "alt": "Practical Silk Tuna",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Soft",
+      "Generic",
+      "Rustic",
+      "Gorgeous"
+    ],
+    "tags": [
+      "Rubber",
+      "Bronze",
+      "Granite",
+      "Metal",
+      "Bamboo"
+    ],
+    "createdAt": "2025-02-20T05:21:13.714Z",
+    "updatedAt": "2025-02-27T20:40:07.649Z",
+    "isActive": false
+  },
+  {
+    "productId": "074e549e-8242-4bf5-8c5d-07ee6f281d41",
+    "sku": "PFFUBCJL",
+    "name": "Bednar Inc Gorgeous Wooden Table",
+    "brand": "Bednar Inc",
+    "category": "Power Banks",
+    "description": "Unbranded Car designed with Marble for rural performance",
+    "price": {
+      "regular": 1466.95,
+      "discount": 25,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "493g",
+      "dimensions": {
+        "length": "19cm",
+        "width": "10cm",
+        "height": "5cm"
+      }
+    },
+    "inventory": {
+      "inStock": 61,
+      "warehouse": "East Tavares",
+      "leadTime": "10 days"
+    },
+    "ratings": {
+      "average": 4.572808161509471,
+      "count": 745
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/b9CUrS/2272/1668",
+        "alt": "Recycled Ceramic Soap",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/TUthu6/131/1494",
+        "alt": "Handcrafted Silk Shirt",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/YjTVJ7Ffl/1851/2773",
+        "alt": "Rustic Silk Gloves",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/fflBu/1976/642",
+        "alt": "Oriental Steel Computer",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Unbranded",
+      "Ergonomic",
+      "Electronic",
+      "Fantastic",
+      "Intelligent"
+    ],
+    "tags": [
+      "Bronze",
+      "Granite",
+      "Steel"
+    ],
+    "createdAt": "2025-01-03T01:38:28.594Z",
+    "updatedAt": "2025-02-27T14:21:14.807Z",
+    "isActive": false
+  },
+  {
+    "productId": "4e23906a-7473-41f5-86b9-07e97d33fc7a",
+    "sku": "Z2RPIJAL",
+    "name": "Quigley, Rempel and Hoeger Oriental Aluminum Cheese",
+    "brand": "Quigley, Rempel and Hoeger",
+    "category": "Storage Devices",
+    "description": "Featuring Selenium-enhanced technology, our Soap offers unparalleled evil performance",
+    "price": {
+      "regular": 510.55,
+      "discount": 8,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "144g",
+      "dimensions": {
+        "length": "30cm",
+        "width": "13cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 44,
+      "warehouse": "Verdaside",
+      "leadTime": "5 days"
+    },
+    "ratings": {
+      "average": 3.7436755654889073,
+      "count": 933
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/jUbd8tP0o/2122/1903",
+        "alt": "Recycled Silk Shirt",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1820/3341?lock=6576758625337394",
+        "alt": "Sleek Cotton Bike",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3717/3620?lock=7094756295855641",
+        "alt": "Unbranded Silk Pizza",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/7EzaLr8Bal/1071/3036",
+        "alt": "Handmade Rubber Ball",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Licensed",
+      "Frozen",
+      "Sleek",
+      "Handmade",
+      "Handcrafted"
+    ],
+    "tags": [
+      "Plastic",
+      "Bamboo"
+    ],
+    "createdAt": "2024-11-16T16:45:38.166Z",
+    "updatedAt": "2025-02-28T05:35:59.656Z",
+    "isActive": true
+  },
+  {
+    "productId": "a4920b5e-6d0b-4dc9-8fd0-ddc922725322",
+    "sku": "VEBRTVOI",
+    "name": "Conroy, Jacobs and O'Connell Frozen Rubber Chair",
+    "brand": "Conroy, Jacobs and O'Connell",
+    "category": "Accessories",
+    "description": "Professional-grade Chair perfect for unusual training and recreational use",
+    "price": {
+      "regular": 1194.19,
+      "discount": 1,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Silver",
+      "weight": "137g",
+      "dimensions": {
+        "length": "19cm",
+        "width": "12cm",
+        "height": "2cm"
+      }
+    },
+    "inventory": {
+      "inStock": 75,
+      "warehouse": "Lake Destany",
+      "leadTime": "5 days"
+    },
+    "ratings": {
+      "average": 3.424772936100004,
+      "count": 361
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/hlJIeLczor/2551/2423",
+        "alt": "Generic Rubber Soap",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/489/3934?lock=4550334851609193",
+        "alt": "Rustic Granite Car",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/mBj4WZV/1606/105",
+        "alt": "Handcrafted Rubber Chicken",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2011/1491?lock=800854236673534",
+        "alt": "Recycled Concrete Tuna",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Gorgeous",
+      "Fantastic",
+      "Tasty"
+    ],
+    "tags": [
+      "Bamboo",
+      "Silk",
+      "Silk",
+      "Bamboo",
+      "Gold"
+    ],
+    "createdAt": "2024-12-18T07:59:50.193Z",
+    "updatedAt": "2025-02-27T12:54:37.384Z",
+    "isActive": false
+  },
+  {
+    "productId": "e166c571-0487-4456-8b67-3379ea32e46f",
+    "sku": "LRB5LRNK",
+    "name": "Leannon Inc Small Plastic Chips",
+    "brand": "Leannon Inc",
+    "category": "Storage Devices",
+    "description": "Our tender-inspired Chicken brings a taste of luxury to your memorable lifestyle",
+    "price": {
+      "regular": 1988.69,
+      "discount": 27,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "497g",
+      "dimensions": {
+        "length": "17cm",
+        "width": "6cm",
+        "height": "2cm"
+      }
+    },
+    "inventory": {
+      "inStock": 80,
+      "warehouse": "Port Alishashire",
+      "leadTime": "4 days"
+    },
+    "ratings": {
+      "average": 4.831978404649933,
+      "count": 494
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/KpCh2/1744/1431",
+        "alt": "Soft Wooden Computer",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/636/1698?lock=6920540107822943",
+        "alt": "Electronic Cotton Computer",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3291/3279?lock=8356166016008590",
+        "alt": "Handmade Marble Shoes",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/u4cz6wp6Gi/952/2074",
+        "alt": "Ergonomic Bronze Salad",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Handmade",
+      "Soft",
+      "Gorgeous",
+      "Intelligent",
+      "Incredible",
+      "Unbranded"
+    ],
+    "tags": [
+      "Marble",
+      "Wooden",
+      "Bronze"
+    ],
+    "createdAt": "2024-06-11T19:59:20.706Z",
+    "updatedAt": "2025-02-28T02:22:47.842Z",
+    "isActive": true
+  },
+  {
+    "productId": "ba1b75a5-243c-445d-8aa2-763a5a380899",
+    "sku": "LXURGX7T",
+    "name": "Ward and Sons Fresh Marble Keyboard",
+    "brand": "Ward and Sons",
+    "category": "Mobile Cases",
+    "description": "Introducing the Mexico-inspired Soap, blending recent style with local craftsmanship",
+    "price": {
+      "regular": 627.95,
+      "discount": 12,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "482g",
+      "dimensions": {
+        "length": "19cm",
+        "width": "13cm",
+        "height": "1cm"
+      }
+    },
+    "inventory": {
+      "inStock": 57,
+      "warehouse": "Lake Tyree",
+      "leadTime": "8 days"
+    },
+    "ratings": {
+      "average": 2.630335111342152,
+      "count": 735
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/598/1635?lock=6884175888948292",
+        "alt": "Generic Steel Keyboard",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2704/27?lock=2396157384248812",
+        "alt": "Fresh Bronze Cheese",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/BZQ09e7bJ/3733/2845",
+        "alt": "Ergonomic Steel Chips",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3108/3691?lock=1463146668865165",
+        "alt": "Awesome Rubber Shoes",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Tasty",
+      "Electronic",
+      "Rustic",
+      "Modern",
+      "Intelligent",
+      "Handmade"
+    ],
+    "tags": [
+      "Granite",
+      "Metal",
+      "Metal",
+      "Steel"
+    ],
+    "createdAt": "2024-08-13T16:18:39.406Z",
+    "updatedAt": "2025-02-27T10:55:09.930Z",
+    "isActive": true
+  },
+  {
+    "productId": "58aad148-cb02-4e4c-a471-523a93fd59d7",
+    "sku": "JS9I7VTV",
+    "name": "O'Keefe LLC Recycled Steel Chips",
+    "brand": "O'Keefe LLC",
+    "category": "Storage Devices",
+    "description": "The sleek and mindless Chips comes with azure LED lighting for smart functionality",
+    "price": {
+      "regular": 1679.6,
+      "discount": 26,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Silver",
+      "weight": "207g",
+      "dimensions": {
+        "length": "12cm",
+        "width": "12cm",
+        "height": "4cm"
+      }
+    },
+    "inventory": {
+      "inStock": 3,
+      "warehouse": "Windlerfort",
+      "leadTime": "6 days"
+    },
+    "ratings": {
+      "average": 1.248289655472802,
+      "count": 617
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/HHDccxHxsj/2683/3847",
+        "alt": "Fantastic Concrete Salad",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3472/1079?lock=4705361738550731",
+        "alt": "Practical Granite Cheese",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/GUc2DX7Eb0/812/3164",
+        "alt": "Ergonomic Plastic Shirt",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3656/1707?lock=3059646582236256",
+        "alt": "Elegant Plastic Tuna",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Generic",
+      "Small",
+      "Elegant"
+    ],
+    "tags": [
+      "Cotton",
+      "Wooden"
+    ],
+    "createdAt": "2024-07-29T06:59:40.070Z",
+    "updatedAt": "2025-02-28T02:38:21.423Z",
+    "isActive": true
+  },
+  {
+    "productId": "20196741-732e-4dee-a9a9-c98cc152aa59",
+    "sku": "0ZTJXG41",
+    "name": "Glover, Watsica and Kertzmann Practical Plastic Keyboard",
+    "brand": "Glover, Watsica and Kertzmann",
+    "category": "Power Banks",
+    "description": "Featuring Chlorine-enhanced technology, our Salad offers unparalleled crowded performance",
+    "price": {
+      "regular": 682.05,
+      "discount": 18,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Silver",
+      "weight": "469g",
+      "dimensions": {
+        "length": "29cm",
+        "width": "10cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 63,
+      "warehouse": "Lake Olenview",
+      "leadTime": "8 days"
+    },
+    "ratings": {
+      "average": 4.3824050206852005,
+      "count": 783
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/X55IK/898/2413",
+        "alt": "Small Concrete Shoes",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/fqokB/994/434",
+        "alt": "Ergonomic Aluminum Shirt",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/748/3348?lock=8655712987202898",
+        "alt": "Frozen Silk Car",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/L5jR5o/2613/2391",
+        "alt": "Small Gold Soap",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Ergonomic",
+      "Fresh",
+      "Frozen",
+      "Refined",
+      "Small",
+      "Elegant"
+    ],
+    "tags": [
+      "Silk",
+      "Concrete",
+      "Steel"
+    ],
+    "createdAt": "2024-04-22T16:44:58.658Z",
+    "updatedAt": "2025-02-28T07:17:44.720Z",
+    "isActive": true
+  },
+  {
+    "productId": "d0bacbd0-e39e-4550-a6ad-78406941c517",
+    "sku": "FKJRK0O1",
+    "name": "O'Connell and Sons Soft Wooden Keyboard",
+    "brand": "O'Connell and Sons",
+    "category": "Wearables",
+    "description": "New olive Tuna with ergonomic design for tight comfort",
+    "price": {
+      "regular": 358.39,
+      "discount": 23,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "258g",
+      "dimensions": {
+        "length": "21cm",
+        "width": "14cm",
+        "height": "4cm"
+      }
+    },
+    "inventory": {
+      "inStock": 32,
+      "warehouse": "Port Kenya",
+      "leadTime": "5 days"
+    },
+    "ratings": {
+      "average": 3.5918202164539754,
+      "count": 833
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/l64ZrCW/2911/67",
+        "alt": "Licensed Marble Chair",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/c2aNf0/2855/3451",
+        "alt": "Small Cotton Chair",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/444/627?lock=1019168901934830",
+        "alt": "Unbranded Rubber Tuna",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3279/2684?lock=2444174889365868",
+        "alt": "Intelligent Metal Cheese",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Modern",
+      "Unbranded",
+      "Fresh"
+    ],
+    "tags": [
+      "Silk",
+      "Silk",
+      "Ceramic",
+      "Granite",
+      "Concrete"
+    ],
+    "createdAt": "2024-10-06T01:23:06.615Z",
+    "updatedAt": "2025-02-27T23:29:30.058Z",
+    "isActive": false
+  },
+  {
+    "productId": "995b8801-cc0a-49eb-b4cf-168545a69f42",
+    "sku": "HUZNPMPM",
+    "name": "Thiel, Kozey and Gerhold Recycled Wooden Pizza",
+    "brand": "Thiel, Kozey and Gerhold",
+    "category": "Audio Devices",
+    "description": "Ergonomic Sausages made with Marble for all-day wealthy support",
+    "price": {
+      "regular": 1884.05,
+      "discount": 14,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "324g",
+      "dimensions": {
+        "length": "28cm",
+        "width": "5cm",
+        "height": "4cm"
+      }
+    },
+    "inventory": {
+      "inStock": 40,
+      "warehouse": "Port Berta",
+      "leadTime": "9 days"
+    },
+    "ratings": {
+      "average": 1.662921645361283,
+      "count": 926
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/3829/2688?lock=3370990572951239",
+        "alt": "Sleek Metal Chair",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/524/2485?lock=4394867182505465",
+        "alt": "Oriental Bronze Tuna",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/p5gGPpCw/3539/3471",
+        "alt": "Ergonomic Metal Cheese",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3608/2123?lock=1114443157803307",
+        "alt": "Tasty Gold Chips",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Practical",
+      "Fresh",
+      "Generic",
+      "Ergonomic"
+    ],
+    "tags": [
+      "Granite",
+      "Concrete",
+      "Steel",
+      "Gold",
+      "Steel"
+    ],
+    "createdAt": "2024-10-20T19:56:05.901Z",
+    "updatedAt": "2025-02-27T08:10:52.348Z",
+    "isActive": true
+  },
+  {
+    "productId": "379dea8e-61c3-4710-a055-1b1017d8993c",
+    "sku": "HMSZDABH",
+    "name": "Hettinger Group Handcrafted Rubber Chicken",
+    "brand": "Hettinger Group",
+    "category": "Mobile Cases",
+    "description": "Discover the wavy new Car with an exciting mix of Marble ingredients",
+    "price": {
+      "regular": 1408.05,
+      "discount": 28,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "263g",
+      "dimensions": {
+        "length": "10cm",
+        "width": "15cm",
+        "height": "5cm"
+      }
+    },
+    "inventory": {
+      "inStock": 80,
+      "warehouse": "Marquardtworth",
+      "leadTime": "6 days"
+    },
+    "ratings": {
+      "average": 1.6073812496515973,
+      "count": 823
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/1629/1623?lock=27204159177071",
+        "alt": "Handcrafted Aluminum Mouse",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1522/3873?lock=4529402165748621",
+        "alt": "Awesome Plastic Cheese",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/cbj5OcL/395/1328",
+        "alt": "Soft Rubber Cheese",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1863/553?lock=6628379352220347",
+        "alt": "Elegant Granite Pants",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Licensed",
+      "Fantastic",
+      "Generic",
+      "Modern"
+    ],
+    "tags": [
+      "Plastic",
+      "Granite",
+      "Cotton",
+      "Silk",
+      "Ceramic"
+    ],
+    "createdAt": "2024-05-28T03:41:39.597Z",
+    "updatedAt": "2025-02-28T01:42:15.398Z",
+    "isActive": true
+  },
+  {
+    "productId": "66b95342-f3ce-4b2f-a1c9-f100f1155bdf",
+    "sku": "5PC6NFWX",
+    "name": "Jerde, Kohler and Gorczany Ergonomic Bamboo Chips",
+    "brand": "Jerde, Kohler and Gorczany",
+    "category": "Chargers",
+    "description": "Discover the shark-like agility of our Ball, perfect for elementary users",
+    "price": {
+      "regular": 814.95,
+      "discount": 22,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "192g",
+      "dimensions": {
+        "length": "30cm",
+        "width": "13cm",
+        "height": "5cm"
+      }
+    },
+    "inventory": {
+      "inStock": 61,
+      "warehouse": "Fort Cathyshire",
+      "leadTime": "7 days"
+    },
+    "ratings": {
+      "average": 4.497073372847503,
+      "count": 103
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/qiDjoh6C/3582/3573",
+        "alt": "Luxurious Metal Table",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/7P7V9i/3733/237",
+        "alt": "Rustic Bronze Salad",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1610/1414?lock=8558585395493001",
+        "alt": "Oriental Silk Pants",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/64oXO/3014/2702",
+        "alt": "Refined Marble Tuna",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Small",
+      "Small",
+      "Soft",
+      "Electronic",
+      "Gorgeous",
+      "Gorgeous"
+    ],
+    "tags": [
+      "Rubber",
+      "Wooden",
+      "Ceramic",
+      "Bamboo",
+      "Silk"
+    ],
+    "createdAt": "2024-06-16T17:26:38.958Z",
+    "updatedAt": "2025-02-27T16:06:55.610Z",
+    "isActive": false
+  },
+  {
+    "productId": "ec048fea-c9b6-432a-9212-03d319bcae24",
+    "sku": "BZML2D8C",
+    "name": "Raynor and Sons Practical Bamboo Chair",
+    "brand": "Raynor and Sons",
+    "category": "Wearables",
+    "description": "The sleek and tinted Soap comes with blue LED lighting for smart functionality",
+    "price": {
+      "regular": 1420.69,
+      "discount": 11,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "249g",
+      "dimensions": {
+        "length": "10cm",
+        "width": "7cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 17,
+      "warehouse": "Fort Zolaton",
+      "leadTime": "6 days"
+    },
+    "ratings": {
+      "average": 1.677956163341427,
+      "count": 839
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/930/450?lock=4886395233510182",
+        "alt": "Luxurious Bronze Tuna",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3555/354?lock=4960928622594107",
+        "alt": "Luxurious Marble Pants",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/939/745?lock=7692570150821625",
+        "alt": "Handmade Silk Towels",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2455/3465?lock=1419081000598402",
+        "alt": "Handcrafted Bamboo Computer",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Luxurious",
+      "Ergonomic",
+      "Refined"
+    ],
+    "tags": [
+      "Cotton",
+      "Silk",
+      "Granite"
+    ],
+    "createdAt": "2024-08-23T19:14:53.268Z",
+    "updatedAt": "2025-02-27T08:56:50.487Z",
+    "isActive": false
+  },
+  {
+    "productId": "786493d5-20e3-4db1-ad9a-7a099b9d6b29",
+    "sku": "6LIXKQUI",
+    "name": "Lynch, Powlowski and Walker Awesome Concrete Mouse",
+    "brand": "Lynch, Powlowski and Walker",
+    "category": "Smartphones",
+    "description": "Discover the immaculate new Chicken with an exciting mix of Steel ingredients",
+    "price": {
+      "regular": 377.95,
+      "discount": 4,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "124g",
+      "dimensions": {
+        "length": "14cm",
+        "width": "10cm",
+        "height": "4cm"
+      }
+    },
+    "inventory": {
+      "inStock": 14,
+      "warehouse": "Fort Ralphside",
+      "leadTime": "6 days"
+    },
+    "ratings": {
+      "average": 1.407471789404175,
+      "count": 576
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/Ee6fHP8te/2788/1844",
+        "alt": "Handmade Wooden Soap",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/paGFogx/3696/1619",
+        "alt": "Recycled Granite Mouse",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/4Q5ql/1998/1599",
+        "alt": "Incredible Aluminum Pizza",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/vflTB/3988/3370",
+        "alt": "Elegant Cotton Mouse",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Rustic",
+      "Recycled",
+      "Intelligent",
+      "Modern",
+      "Modern"
+    ],
+    "tags": [
+      "Marble",
+      "Marble",
+      "Gold",
+      "Bronze"
+    ],
+    "createdAt": "2024-06-24T00:34:17.648Z",
+    "updatedAt": "2025-02-27T09:08:11.029Z",
+    "isActive": true
+  },
+  {
+    "productId": "169a451e-5ff8-4e6e-8669-e4d7ade50fef",
+    "sku": "E2JPZHBG",
+    "name": "Ritchie, Ryan and Kunze Sleek Ceramic Hat",
+    "brand": "Ritchie, Ryan and Kunze",
+    "category": "Tablets",
+    "description": "Practical Shoes designed with Bamboo for well-to-do performance",
+    "price": {
+      "regular": 1697.45,
+      "discount": 0,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "415g",
+      "dimensions": {
+        "length": "27cm",
+        "width": "9cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 95,
+      "warehouse": "San Bruno",
+      "leadTime": "9 days"
+    },
+    "ratings": {
+      "average": 4.330411247755142,
+      "count": 811
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/1922/3833?lock=8018014093593991",
+        "alt": "Electronic Marble Pizza",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/dYowW9iA/1006/1997",
+        "alt": "Soft Concrete Table",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/oCcE3sA3/926/2749",
+        "alt": "Fresh Wooden Bacon",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1806/1326?lock=2940396847444905",
+        "alt": "Generic Marble Chips",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Luxurious",
+      "Unbranded",
+      "Oriental",
+      "Elegant",
+      "Incredible",
+      "Tasty"
+    ],
+    "tags": [
+      "Gold",
+      "Granite",
+      "Granite",
+      "Marble",
+      "Rubber"
+    ],
+    "createdAt": "2024-10-10T04:13:45.907Z",
+    "updatedAt": "2025-02-27T23:57:21.845Z",
+    "isActive": true
+  },
+  {
+    "productId": "6b7c66ea-4eeb-4289-a3ad-5697cd5976d0",
+    "sku": "VOSLUAYK",
+    "name": "Renner - Mraz Frozen Aluminum Shirt",
+    "brand": "Renner - Mraz",
+    "category": "Audio Devices",
+    "description": "Experience the sky blue brilliance of our Car, perfect for splendid environments",
+    "price": {
+      "regular": 1677.19,
+      "discount": 28,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "183g",
+      "dimensions": {
+        "length": "28cm",
+        "width": "8cm",
+        "height": "2cm"
+      }
+    },
+    "inventory": {
+      "inStock": 13,
+      "warehouse": "Port Nestor",
+      "leadTime": "1 days"
+    },
+    "ratings": {
+      "average": 3.1643233561027784,
+      "count": 154
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/1504/2462?lock=1810931438266355",
+        "alt": "Licensed Bamboo Mouse",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/65XIU/2515/1669",
+        "alt": "Bespoke Rubber Chicken",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/dYE4W/838/288",
+        "alt": "Elegant Steel Shoes",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3127/2858?lock=6886642288232126",
+        "alt": "Electronic Bronze Computer",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Incredible",
+      "Handmade",
+      "Generic"
+    ],
+    "tags": [
+      "Gold",
+      "Ceramic",
+      "Rubber",
+      "Plastic",
+      "Metal"
+    ],
+    "createdAt": "2024-07-27T13:16:10.814Z",
+    "updatedAt": "2025-02-27T09:58:18.396Z",
+    "isActive": false
+  },
+  {
+    "productId": "1a635aa8-f6a8-4139-9f1b-f1db93020d08",
+    "sku": "CQEDEL5U",
+    "name": "Streich Group Fresh Steel Gloves",
+    "brand": "Streich Group",
+    "category": "Smartphones",
+    "description": "Professional-grade Hat perfect for cloudy training and recreational use",
+    "price": {
+      "regular": 1340.85,
+      "discount": 11,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "413g",
+      "dimensions": {
+        "length": "28cm",
+        "width": "13cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 24,
+      "warehouse": "Raleighchester",
+      "leadTime": "2 days"
+    },
+    "ratings": {
+      "average": 4.014514797986676,
+      "count": 292
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/210/3556?lock=2389511438875355",
+        "alt": "Incredible Silk Pants",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3958/2201?lock=79939728066481",
+        "alt": "Practical Granite Ball",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1429/174?lock=3521359839283440",
+        "alt": "Fresh Wooden Chair",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1297/305?lock=4605987862743070",
+        "alt": "Incredible Rubber Hat",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Gorgeous",
+      "Sleek",
+      "Refined",
+      "Ergonomic"
+    ],
+    "tags": [
+      "Metal",
+      "Rubber",
+      "Steel",
+      "Bronze"
+    ],
+    "createdAt": "2024-04-09T01:34:10.822Z",
+    "updatedAt": "2025-02-27T13:07:01.630Z",
+    "isActive": true
+  },
+  {
+    "productId": "1a0eb3b1-8d9b-46cc-81b0-cbbcaf832ad4",
+    "sku": "GZDKYZFJ",
+    "name": "Willms Group Gorgeous Silk Shoes",
+    "brand": "Willms Group",
+    "category": "Tablets",
+    "description": "Professional-grade Keyboard perfect for both training and recreational use",
+    "price": {
+      "regular": 377.2,
+      "discount": 23,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "117g",
+      "dimensions": {
+        "length": "29cm",
+        "width": "10cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 93,
+      "warehouse": "Hermistonstead",
+      "leadTime": "5 days"
+    },
+    "ratings": {
+      "average": 4.030903490590637,
+      "count": 178
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/CrNNSVNs/690/1020",
+        "alt": "Rustic Bronze Tuna",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/793/2531?lock=835200798706745",
+        "alt": "Recycled Marble Bacon",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/bTMKvnCbW/2696/1907",
+        "alt": "Fantastic Ceramic Sausages",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/6XiPY/3054/3661",
+        "alt": "Incredible Aluminum Shirt",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Frozen",
+      "Elegant",
+      "Elegant",
+      "Handmade",
+      "Handcrafted"
+    ],
+    "tags": [
+      "Steel",
+      "Aluminum",
+      "Gold",
+      "Granite",
+      "Rubber"
+    ],
+    "createdAt": "2024-10-25T19:07:45.204Z",
+    "updatedAt": "2025-02-27T08:02:51.922Z",
+    "isActive": true
+  },
+  {
+    "productId": "6300d657-86d5-4e2f-80eb-ee70274b61fa",
+    "sku": "WSWMSUGO",
+    "name": "Farrell - O'Kon Luxurious Granite Car",
+    "brand": "Farrell - O'Kon",
+    "category": "Mobile Cases",
+    "description": "Innovative Ball featuring sure-footed technology and Steel construction",
+    "price": {
+      "regular": 766.45,
+      "discount": 15,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "325g",
+      "dimensions": {
+        "length": "18cm",
+        "width": "13cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 27,
+      "warehouse": "North Clotilde",
+      "leadTime": "1 days"
+    },
+    "ratings": {
+      "average": 3.259860549242119,
+      "count": 144
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/2179/215?lock=1704267234055878",
+        "alt": "Small Metal Salad",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/B2xIdUeX/1355/643",
+        "alt": "Practical Gold Soap",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/oYoWXJZCs/785/3623",
+        "alt": "Practical Silk Pants",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/VfR3L/1286/206",
+        "alt": "Small Marble Mouse",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Incredible",
+      "Refined",
+      "Oriental",
+      "Tasty",
+      "Handmade"
+    ],
+    "tags": [
+      "Aluminum",
+      "Metal",
+      "Cotton"
+    ],
+    "createdAt": "2024-06-22T04:00:21.996Z",
+    "updatedAt": "2025-02-27T16:14:29.919Z",
+    "isActive": false
+  },
+  {
+    "productId": "aa94bf4c-7813-4a90-9f7b-a40d5fdfe9c8",
+    "sku": "ESJGJOO3",
+    "name": "Stark - Robel Modern Concrete Table",
+    "brand": "Stark - Robel",
+    "category": "Screen Protectors",
+    "description": "Our cat-friendly Cheese ensures left comfort for your pets",
+    "price": {
+      "regular": 500.69,
+      "discount": 21,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Silver",
+      "weight": "390g",
+      "dimensions": {
+        "length": "23cm",
+        "width": "9cm",
+        "height": "5cm"
+      }
+    },
+    "inventory": {
+      "inStock": 44,
+      "warehouse": "Reillytown",
+      "leadTime": "4 days"
+    },
+    "ratings": {
+      "average": 2.7122574680401015,
+      "count": 301
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/3167/781?lock=5095765335164629",
+        "alt": "Intelligent Plastic Soap",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1047/3671?lock=3657617197275122",
+        "alt": "Unbranded Granite Soap",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3732/2433?lock=5583658095675032",
+        "alt": "Gorgeous Plastic Soap",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/8NuF3d/2319/670",
+        "alt": "Sleek Bamboo Bacon",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Handmade",
+      "Rustic",
+      "Luxurious",
+      "Generic",
+      "Electronic"
+    ],
+    "tags": [
+      "Plastic",
+      "Wooden",
+      "Concrete"
+    ],
+    "createdAt": "2024-03-14T21:12:12.596Z",
+    "updatedAt": "2025-02-28T06:02:04.032Z",
+    "isActive": true
+  },
+  {
+    "productId": "291394bd-6e1f-42ae-8e76-0a03a8ce2e8b",
+    "sku": "1MEOAP2Q",
+    "name": "Flatley and Sons Elegant Bronze Pizza",
+    "brand": "Flatley and Sons",
+    "category": "Mobile Cases",
+    "description": "The sleek and ripe Gloves comes with plum LED lighting for smart functionality",
+    "price": {
+      "regular": 498.29,
+      "discount": 11,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "382g",
+      "dimensions": {
+        "length": "28cm",
+        "width": "6cm",
+        "height": "1cm"
+      }
+    },
+    "inventory": {
+      "inStock": 49,
+      "warehouse": "Highland",
+      "leadTime": "3 days"
+    },
+    "ratings": {
+      "average": 3.4260602066747765,
+      "count": 357
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/2813/2597?lock=7574702168288610",
+        "alt": "Intelligent Cotton Bike",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/nQ9UB/3866/3395",
+        "alt": "Oriental Concrete Bike",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3873/2286?lock=4980862707622218",
+        "alt": "Awesome Bamboo Bike",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/ygQO7/2274/3402",
+        "alt": "Recycled Granite Chips",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Bespoke",
+      "Bespoke",
+      "Intelligent",
+      "Electronic",
+      "Soft",
+      "Small"
+    ],
+    "tags": [
+      "Silk",
+      "Ceramic",
+      "Rubber",
+      "Aluminum"
+    ],
+    "createdAt": "2024-02-29T23:27:16.956Z",
+    "updatedAt": "2025-02-28T04:20:14.035Z",
+    "isActive": true
+  },
+  {
+    "productId": "0a52ca25-fa0b-46eb-af6e-6c077cae567b",
+    "sku": "9A4MWIVK",
+    "name": "McGlynn, Effertz and McDermott Unbranded Concrete Computer",
+    "brand": "McGlynn, Effertz and McDermott",
+    "category": "Audio Devices",
+    "description": "Stylish Tuna designed to make you stand out with mammoth looks",
+    "price": {
+      "regular": 1488.55,
+      "discount": 30,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "246g",
+      "dimensions": {
+        "length": "20cm",
+        "width": "13cm",
+        "height": "5cm"
+      }
+    },
+    "inventory": {
+      "inStock": 0,
+      "warehouse": "East Tabitha",
+      "leadTime": "4 days"
+    },
+    "ratings": {
+      "average": 2.5757247743647094,
+      "count": 152
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/1460/2579?lock=7574441569972239",
+        "alt": "Oriental Metal Sausages",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3180/62?lock=1459992666896811",
+        "alt": "Refined Aluminum Cheese",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2712/3195?lock=4595939269044044",
+        "alt": "Sleek Gold Fish",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/HEV1xOYg/3506/3055",
+        "alt": "Generic Aluminum Towels",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Refined",
+      "Unbranded",
+      "Generic",
+      "Unbranded"
+    ],
+    "tags": [
+      "Steel",
+      "Silk",
+      "Granite",
+      "Concrete"
+    ],
+    "createdAt": "2024-11-16T02:48:23.212Z",
+    "updatedAt": "2025-02-28T06:02:07.829Z",
+    "isActive": true
+  },
+  {
+    "productId": "e4cfd897-2242-4bd1-bd29-e8a459955183",
+    "sku": "DHA8AX5A",
+    "name": "Skiles LLC Small Ceramic Chicken",
+    "brand": "Skiles LLC",
+    "category": "Smartphones",
+    "description": "Langosh, Turner and Walsh's most advanced Chicken technology increases cruel capabilities",
+    "price": {
+      "regular": 1763.07,
+      "discount": 15,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "285g",
+      "dimensions": {
+        "length": "18cm",
+        "width": "13cm",
+        "height": "1cm"
+      }
+    },
+    "inventory": {
+      "inStock": 69,
+      "warehouse": "Moreno Valley",
+      "leadTime": "5 days"
+    },
+    "ratings": {
+      "average": 3.0449568770152844,
+      "count": 535
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/1496/1291?lock=1911159108122648",
+        "alt": "Incredible Bronze Table",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/WR4MJEp4H9/3122/1436",
+        "alt": "Electronic Cotton Gloves",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1652/257?lock=7126284255215834",
+        "alt": "Oriental Plastic Table",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/dtaLUwxT/842/3705",
+        "alt": "Electronic Silk Car",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Recycled",
+      "Frozen",
+      "Rustic",
+      "Refined"
+    ],
+    "tags": [
+      "Aluminum",
+      "Granite",
+      "Granite",
+      "Aluminum"
+    ],
+    "createdAt": "2024-08-16T23:58:26.298Z",
+    "updatedAt": "2025-02-27T17:41:10.657Z",
+    "isActive": true
+  },
+  {
+    "productId": "94c55a0c-3fa3-4fe9-b9fd-d10382bf680d",
+    "sku": "YTBTDCJB",
+    "name": "Swaniawski Inc Fresh Concrete Chips",
+    "brand": "Swaniawski Inc",
+    "category": "Power Banks",
+    "description": "Professional-grade Ball perfect for grown training and recreational use",
+    "price": {
+      "regular": 1069.85,
+      "discount": 25,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "389g",
+      "dimensions": {
+        "length": "24cm",
+        "width": "10cm",
+        "height": "1cm"
+      }
+    },
+    "inventory": {
+      "inStock": 78,
+      "warehouse": "Lake Kristyboro",
+      "leadTime": "5 days"
+    },
+    "ratings": {
+      "average": 1.5351525635863807,
+      "count": 848
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/7qJZnrp8N/689/323",
+        "alt": "Bespoke Bamboo Chips",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/10/3829?lock=7590740593316045",
+        "alt": "Ergonomic Cotton Pizza",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/oKJxOnZ/2553/904",
+        "alt": "Oriental Rubber Computer",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2910/1741?lock=1894936352434974",
+        "alt": "Frozen Bronze Pizza",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Oriental",
+      "Ergonomic",
+      "Incredible",
+      "Small",
+      "Recycled",
+      "Incredible"
+    ],
+    "tags": [
+      "Silk",
+      "Silk",
+      "Granite"
+    ],
+    "createdAt": "2024-08-13T11:08:40.215Z",
+    "updatedAt": "2025-02-28T03:38:55.826Z",
+    "isActive": false
+  },
+  {
+    "productId": "3b762390-374f-4e41-b346-6f04ac408a22",
+    "sku": "HD7K1HC9",
+    "name": "Abernathy LLC Soft Marble Chair",
+    "brand": "Abernathy LLC",
+    "category": "Wearables",
+    "description": "Professional-grade Pants perfect for trivial training and recreational use",
+    "price": {
+      "regular": 420.59,
+      "discount": 1,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "265g",
+      "dimensions": {
+        "length": "12cm",
+        "width": "12cm",
+        "height": "2cm"
+      }
+    },
+    "inventory": {
+      "inStock": 8,
+      "warehouse": "Hoytview",
+      "leadTime": "4 days"
+    },
+    "ratings": {
+      "average": 3.2955709631929664,
+      "count": 523
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/3209/3037?lock=2434862228663127",
+        "alt": "Refined Marble Keyboard",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/H417NwE4/3192/3388",
+        "alt": "Luxurious Bronze Bike",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3392/3957?lock=5991281092645512",
+        "alt": "Elegant Rubber Keyboard",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/xEz8WUQ/1264/3542",
+        "alt": "Licensed Granite Ball",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Tasty",
+      "Unbranded",
+      "Incredible",
+      "Incredible",
+      "Elegant"
+    ],
+    "tags": [
+      "Wooden",
+      "Aluminum",
+      "Ceramic",
+      "Silk"
+    ],
+    "createdAt": "2024-12-16T18:32:36.265Z",
+    "updatedAt": "2025-02-28T04:58:56.641Z",
+    "isActive": true
+  },
+  {
+    "productId": "2ac6fa31-5924-441a-88d3-444a7586982a",
+    "sku": "XB6DXPJ2",
+    "name": "Baumbach LLC Ergonomic Cotton Keyboard",
+    "brand": "Baumbach LLC",
+    "category": "Accessories",
+    "description": "Our sweet-inspired Bacon brings a taste of luxury to your busy lifestyle",
+    "price": {
+      "regular": 1445.55,
+      "discount": 20,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Blue",
+      "weight": "478g",
+      "dimensions": {
+        "length": "25cm",
+        "width": "13cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 72,
+      "warehouse": "New Dana",
+      "leadTime": "10 days"
+    },
+    "ratings": {
+      "average": 3.2344819705030705,
+      "count": 266
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/2856/2532?lock=5316524223009364",
+        "alt": "Fantastic Plastic Bacon",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2911/1970?lock=5092876354181231",
+        "alt": "Frozen Silk Bike",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sOHtATaBel/2758/1164",
+        "alt": "Rustic Steel Pants",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/G30rTdsdL/1400/2629",
+        "alt": "Modern Metal Bacon",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Bespoke",
+      "Fresh",
+      "Fantastic"
+    ],
+    "tags": [
+      "Wooden",
+      "Ceramic",
+      "Plastic"
+    ],
+    "createdAt": "2024-12-29T02:32:22.566Z",
+    "updatedAt": "2025-02-27T14:17:54.710Z",
+    "isActive": true
+  },
+  {
+    "productId": "ebfa20c0-8df6-4501-80f1-dc1c660d8ae1",
+    "sku": "ZZK6WLFV",
+    "name": "Okuneva - Hills Handcrafted Steel Soap",
+    "brand": "Okuneva - Hills",
+    "category": "Tablets",
+    "description": "The sleek and upbeat Chips comes with lime LED lighting for smart functionality",
+    "price": {
+      "regular": 873.05,
+      "discount": 13,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "161g",
+      "dimensions": {
+        "length": "26cm",
+        "width": "5cm",
+        "height": "5cm"
+      }
+    },
+    "inventory": {
+      "inStock": 75,
+      "warehouse": "Port Kolbyville",
+      "leadTime": "6 days"
+    },
+    "ratings": {
+      "average": 1.051753781469026,
+      "count": 461
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/3467/2830?lock=5779405423881134",
+        "alt": "Licensed Wooden Salad",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/V70JcP/1284/3307",
+        "alt": "Recycled Aluminum Hat",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/X1dInE/762/670",
+        "alt": "Incredible Marble Tuna",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/pokLRDU/1124/923",
+        "alt": "Incredible Concrete Computer",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Refined",
+      "Incredible",
+      "Modern",
+      "Soft"
+    ],
+    "tags": [
+      "Silk",
+      "Steel",
+      "Concrete",
+      "Marble",
+      "Cotton"
+    ],
+    "createdAt": "2024-07-22T03:47:57.103Z",
+    "updatedAt": "2025-02-28T06:30:47.879Z",
+    "isActive": false
+  },
+  {
+    "productId": "6b535f25-1041-4fe4-85e7-0c371e819234",
+    "sku": "DNVGKIRG",
+    "name": "Raynor, Stroman and Gusikowski Awesome Marble Chair",
+    "brand": "Raynor, Stroman and Gusikowski",
+    "category": "Accessories",
+    "description": "The sleek and handy Keyboard comes with orange LED lighting for smart functionality",
+    "price": {
+      "regular": 728.85,
+      "discount": 13,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "354g",
+      "dimensions": {
+        "length": "17cm",
+        "width": "10cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 66,
+      "warehouse": "Enolahaven",
+      "leadTime": "4 days"
+    },
+    "ratings": {
+      "average": 4.659164357982192,
+      "count": 678
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/2671/3886?lock=512380826399008",
+        "alt": "Handcrafted Aluminum Soap",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1562/2545?lock=8851722532932632",
+        "alt": "Small Ceramic Mouse",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/mA6eVIyK/2773/1823",
+        "alt": "Gorgeous Wooden Shirt",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1738/3700?lock=3527133300084646",
+        "alt": "Tasty Gold Bacon",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Tasty",
+      "Soft",
+      "Ergonomic",
+      "Unbranded",
+      "Practical",
+      "Luxurious"
+    ],
+    "tags": [
+      "Ceramic",
+      "Bamboo"
+    ],
+    "createdAt": "2024-12-05T02:53:56.943Z",
+    "updatedAt": "2025-02-27T07:53:41.978Z",
+    "isActive": false
+  },
+  {
+    "productId": "90d906ea-f57a-40cc-8b23-a5ba7550ac0f",
+    "sku": "TVMBTZLY",
+    "name": "Tromp and Sons Unbranded Bamboo Gloves",
+    "brand": "Tromp and Sons",
+    "category": "Wearables",
+    "description": "Our snake-friendly Chicken ensures spirited comfort for your pets",
+    "price": {
+      "regular": 1806.19,
+      "discount": 8,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "276g",
+      "dimensions": {
+        "length": "21cm",
+        "width": "12cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 93,
+      "warehouse": "San Ramon",
+      "leadTime": "6 days"
+    },
+    "ratings": {
+      "average": 3.5716484654714176,
+      "count": 925
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/IMBHihn/3527/1807",
+        "alt": "Oriental Concrete Tuna",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/3G073cBRlv/1589/1868",
+        "alt": "Unbranded Metal Computer",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/z2qsC2/1274/744",
+        "alt": "Tasty Concrete Bacon",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1228/573?lock=5376834276138793",
+        "alt": "Tasty Plastic Fish",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Elegant",
+      "Recycled",
+      "Luxurious",
+      "Awesome",
+      "Small"
+    ],
+    "tags": [
+      "Rubber",
+      "Bamboo",
+      "Bronze",
+      "Metal",
+      "Granite"
+    ],
+    "createdAt": "2024-03-24T17:20:08.372Z",
+    "updatedAt": "2025-02-28T03:45:32.126Z",
+    "isActive": true
+  },
+  {
+    "productId": "f013927b-1287-48bd-9eea-29356f8369c3",
+    "sku": "PPJXCGKD",
+    "name": "Wisoky - Weimann Tasty Cotton Shirt",
+    "brand": "Wisoky - Weimann",
+    "category": "Mobile Cases",
+    "description": "Discover the pointless new Chips with an exciting mix of Granite ingredients",
+    "price": {
+      "regular": 1509.45,
+      "discount": 7,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Blue",
+      "weight": "447g",
+      "dimensions": {
+        "length": "12cm",
+        "width": "11cm",
+        "height": "4cm"
+      }
+    },
+    "inventory": {
+      "inStock": 63,
+      "warehouse": "Hermanboro",
+      "leadTime": "5 days"
+    },
+    "ratings": {
+      "average": 3.343652181183715,
+      "count": 366
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/1374/1633?lock=3352788389860717",
+        "alt": "Awesome Granite Shoes",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/MPpAhz/2553/3515",
+        "alt": "Refined Concrete Pizza",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/X0FTEMZ1n/1741/3975",
+        "alt": "Bespoke Granite Cheese",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/1umJF/1492/2236",
+        "alt": "Small Cotton Shoes",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Awesome",
+      "Tasty",
+      "Frozen",
+      "Rustic",
+      "Gorgeous",
+      "Practical"
+    ],
+    "tags": [
+      "Granite",
+      "Wooden"
+    ],
+    "createdAt": "2025-02-25T17:05:14.097Z",
+    "updatedAt": "2025-02-27T09:36:44.852Z",
+    "isActive": true
+  },
+  {
+    "productId": "52f28538-4cf5-437b-96b5-2ab9005aa140",
+    "sku": "IDXSCQFV",
+    "name": "Heidenreich, Feeney and Paucek Awesome Silk Salad",
+    "brand": "Heidenreich, Feeney and Paucek",
+    "category": "Power Banks",
+    "description": "The Customer-focused motivating strategy Mouse offers reliable performance and terrible design",
+    "price": {
+      "regular": 270.75,
+      "discount": 27,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "339g",
+      "dimensions": {
+        "length": "24cm",
+        "width": "12cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 74,
+      "warehouse": "Justenchester",
+      "leadTime": "1 days"
+    },
+    "ratings": {
+      "average": 2.6751981306605424,
+      "count": 141
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/TXDDQocG/1941/1835",
+        "alt": "Handcrafted Bronze Ball",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/wcmZ0Kf6/2893/1342",
+        "alt": "Refined Gold Table",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2114/2642?lock=8310490146359878",
+        "alt": "Tasty Wooden Mouse",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/7M91z/1755/3146",
+        "alt": "Intelligent Rubber Towels",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Soft",
+      "Fantastic",
+      "Handmade"
+    ],
+    "tags": [
+      "Aluminum",
+      "Bamboo"
+    ],
+    "createdAt": "2024-04-19T16:44:42.406Z",
+    "updatedAt": "2025-02-27T17:34:46.908Z",
+    "isActive": false
+  },
+  {
+    "productId": "d97f2f01-532b-40df-8d9f-465b6edf5f24",
+    "sku": "9HDG0K7C",
+    "name": "Carroll - Ward Unbranded Silk Bacon",
+    "brand": "Carroll - Ward",
+    "category": "Chargers",
+    "description": "Featuring Potassium-enhanced technology, our Shirt offers unparalleled decent performance",
+    "price": {
+      "regular": 946.45,
+      "discount": 17,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "176g",
+      "dimensions": {
+        "length": "20cm",
+        "width": "9cm",
+        "height": "4cm"
+      }
+    },
+    "inventory": {
+      "inStock": 6,
+      "warehouse": "Kovacekhaven",
+      "leadTime": "7 days"
+    },
+    "ratings": {
+      "average": 4.858071925212452,
+      "count": 873
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/N7wqI1Lu/2892/465",
+        "alt": "Awesome Cotton Bike",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/27lfn/3237/2092",
+        "alt": "Oriental Bamboo Bacon",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/QQZmWiP/2672/2723",
+        "alt": "Rustic Silk Salad",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3918/818?lock=2604596820034489",
+        "alt": "Fantastic Bamboo Chips",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Unbranded",
+      "Fantastic",
+      "Oriental",
+      "Soft",
+      "Tasty",
+      "Soft"
+    ],
+    "tags": [
+      "Rubber",
+      "Granite",
+      "Plastic",
+      "Metal",
+      "Bamboo"
+    ],
+    "createdAt": "2025-01-23T00:51:06.767Z",
+    "updatedAt": "2025-02-27T16:52:02.610Z",
+    "isActive": true
+  },
+  {
+    "productId": "85e8f05f-f7af-4456-bc9c-ee41401e4b99",
+    "sku": "NCGXEDTH",
+    "name": "Spinka - Kilback Refined Gold Towels",
+    "brand": "Spinka - Kilback",
+    "category": "Chargers",
+    "description": "The sleek and bulky Soap comes with purple LED lighting for smart functionality",
+    "price": {
+      "regular": 1746.4,
+      "discount": 0,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "453g",
+      "dimensions": {
+        "length": "29cm",
+        "width": "7cm",
+        "height": "5cm"
+      }
+    },
+    "inventory": {
+      "inStock": 93,
+      "warehouse": "Santa Cruz",
+      "leadTime": "7 days"
+    },
+    "ratings": {
+      "average": 1.2922015072071513,
+      "count": 144
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/NG4mtW1a/1954/943",
+        "alt": "Tasty Metal Car",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/FGfBB1/1597/1807",
+        "alt": "Electronic Rubber Bacon",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/20/1216?lock=2235884900976123",
+        "alt": "Tasty Silk Tuna",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/YM5nuaQ1W/1883/1940",
+        "alt": "Generic Gold Soap",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Elegant",
+      "Soft",
+      "Ergonomic",
+      "Ergonomic",
+      "Fantastic"
+    ],
+    "tags": [
+      "Concrete",
+      "Metal",
+      "Bronze"
+    ],
+    "createdAt": "2025-01-04T04:50:09.208Z",
+    "updatedAt": "2025-02-27T11:32:02.643Z",
+    "isActive": false
+  },
+  {
+    "productId": "8683cdbb-bc2b-4045-a955-e3a226816081",
+    "sku": "FNVIZIDN",
+    "name": "Rippin, Price and Yost Incredible Rubber Bike",
+    "brand": "Rippin, Price and Yost",
+    "category": "Power Banks",
+    "description": "Awesome Towels designed with Wooden for entire performance",
+    "price": {
+      "regular": 1047.45,
+      "discount": 25,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "126g",
+      "dimensions": {
+        "length": "16cm",
+        "width": "10cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 85,
+      "warehouse": "Alhambra",
+      "leadTime": "10 days"
+    },
+    "ratings": {
+      "average": 2.40445531039635,
+      "count": 353
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/TbWuw9/2550/3459",
+        "alt": "Luxurious Aluminum Pizza",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1483/2140?lock=4836824932086914",
+        "alt": "Licensed Marble Keyboard",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1341/619?lock=2339130263762437",
+        "alt": "Refined Rubber Shoes",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/5mlQta/1711/443",
+        "alt": "Rustic Ceramic Mouse",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Recycled",
+      "Fantastic",
+      "Fresh",
+      "Tasty",
+      "Small"
+    ],
+    "tags": [
+      "Rubber",
+      "Metal",
+      "Cotton",
+      "Wooden"
+    ],
+    "createdAt": "2025-02-17T17:06:19.952Z",
+    "updatedAt": "2025-02-27T17:20:03.160Z",
+    "isActive": false
+  },
+  {
+    "productId": "eaf38088-4f32-44d5-b312-2dbea6004ee2",
+    "sku": "APEMRUFZ",
+    "name": "Schiller, Batz and Spencer Practical Plastic Pants",
+    "brand": "Schiller, Batz and Spencer",
+    "category": "Wearables",
+    "description": "Experience the tan brilliance of our Pants, perfect for drab environments",
+    "price": {
+      "regular": 1028.09,
+      "discount": 18,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Blue",
+      "weight": "103g",
+      "dimensions": {
+        "length": "11cm",
+        "width": "15cm",
+        "height": "2cm"
+      }
+    },
+    "inventory": {
+      "inStock": 80,
+      "warehouse": "Lake Caliworth",
+      "leadTime": "8 days"
+    },
+    "ratings": {
+      "average": 3.227333121913668,
+      "count": 347
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/4WjqxUw/3122/1700",
+        "alt": "Handcrafted Marble Shoes",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3762/2417?lock=540371540103976",
+        "alt": "Bespoke Metal Chair",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/JoNvL/2987/2063",
+        "alt": "Practical Metal Shirt",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1478/1124?lock=289353186881926",
+        "alt": "Incredible Aluminum Car",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Handcrafted",
+      "Fantastic",
+      "Intelligent",
+      "Fantastic",
+      "Fresh",
+      "Elegant"
+    ],
+    "tags": [
+      "Gold",
+      "Silk"
+    ],
+    "createdAt": "2024-12-20T12:39:43.951Z",
+    "updatedAt": "2025-02-27T16:32:57.172Z",
+    "isActive": false
+  },
+  {
+    "productId": "4c69147e-f4c1-422e-81c7-2a1902cfe6f6",
+    "sku": "KUTZJM7I",
+    "name": "Legros - Hamill Ergonomic Cotton Bacon",
+    "brand": "Legros - Hamill",
+    "category": "Tablets",
+    "description": "Innovative Mouse featuring cool technology and Marble construction",
+    "price": {
+      "regular": 955.59,
+      "discount": 28,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "494g",
+      "dimensions": {
+        "length": "21cm",
+        "width": "7cm",
+        "height": "5cm"
+      }
+    },
+    "inventory": {
+      "inStock": 29,
+      "warehouse": "North Reaganchester",
+      "leadTime": "9 days"
+    },
+    "ratings": {
+      "average": 2.7188644263792665,
+      "count": 565
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/1361/2132?lock=3583972556928982",
+        "alt": "Modern Metal Fish",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/PzFQnQK/792/2014",
+        "alt": "Fantastic Granite Bike",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2011/2268?lock=6953291453585327",
+        "alt": "Ergonomic Marble Computer",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/zY56Vra/3277/1891",
+        "alt": "Licensed Silk Sausages",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Elegant",
+      "Fresh",
+      "Rustic"
+    ],
+    "tags": [
+      "Silk",
+      "Metal"
+    ],
+    "createdAt": "2024-04-11T14:34:44.991Z",
+    "updatedAt": "2025-02-28T05:41:38.938Z",
+    "isActive": true
+  },
+  {
+    "productId": "94b8f396-d223-483c-b716-0009af407770",
+    "sku": "UEIWJS4N",
+    "name": "Krajcik, Dooley and O'Connell Licensed Marble Fish",
+    "brand": "Krajcik, Dooley and O'Connell",
+    "category": "Screen Protectors",
+    "description": "Ergonomic Ball made with Bronze for all-day prestigious support",
+    "price": {
+      "regular": 1001.89,
+      "discount": 30,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Silver",
+      "weight": "330g",
+      "dimensions": {
+        "length": "12cm",
+        "width": "5cm",
+        "height": "1cm"
+      }
+    },
+    "inventory": {
+      "inStock": 70,
+      "warehouse": "Ceres",
+      "leadTime": "8 days"
+    },
+    "ratings": {
+      "average": 3.745268619642303,
+      "count": 99
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/X7foHb/2193/3425",
+        "alt": "Handcrafted Steel Table",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/44Qw9c/1801/513",
+        "alt": "Electronic Gold Car",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/Inb27/3031/177",
+        "alt": "Bespoke Granite Hat",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/qiSoT1RYH/1418/675",
+        "alt": "Fantastic Silk Keyboard",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Luxurious",
+      "Practical",
+      "Soft",
+      "Luxurious",
+      "Fresh",
+      "Incredible"
+    ],
+    "tags": [
+      "Metal",
+      "Concrete",
+      "Bamboo",
+      "Wooden",
+      "Bamboo"
+    ],
+    "createdAt": "2024-03-18T09:37:37.610Z",
+    "updatedAt": "2025-02-27T22:13:37.451Z",
+    "isActive": false
+  },
+  {
+    "productId": "016aeac7-cb9a-4612-b23a-d83a6f81d25c",
+    "sku": "QZRQQWDS",
+    "name": "Adams LLC Bespoke Cotton Sausages",
+    "brand": "Adams LLC",
+    "category": "Storage Devices",
+    "description": "Our butterfly-friendly Gloves ensures affectionate comfort for your pets",
+    "price": {
+      "regular": 900.59,
+      "discount": 12,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Gold",
+      "weight": "442g",
+      "dimensions": {
+        "length": "29cm",
+        "width": "5cm",
+        "height": "2cm"
+      }
+    },
+    "inventory": {
+      "inStock": 4,
+      "warehouse": "Padbergland",
+      "leadTime": "3 days"
+    },
+    "ratings": {
+      "average": 1.3294593974417017,
+      "count": 41
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/lWLGL/2143/1792",
+        "alt": "Recycled Bamboo Table",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2597/1870?lock=3658736575998044",
+        "alt": "Frozen Ceramic Pizza",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3790/3304?lock=7865579310001203",
+        "alt": "Fresh Plastic Pants",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/04T8C/255/655",
+        "alt": "Fresh Concrete Soap",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Unbranded",
+      "Electronic",
+      "Luxurious"
+    ],
+    "tags": [
+      "Metal",
+      "Steel",
+      "Gold",
+      "Granite"
+    ],
+    "createdAt": "2024-10-30T04:09:43.036Z",
+    "updatedAt": "2025-02-27T20:50:55.681Z",
+    "isActive": true
+  },
+  {
+    "productId": "2c1931ce-2ac4-4911-b5b2-a7b782e565ad",
+    "sku": "546OEAT9",
+    "name": "Will - Bergnaum Licensed Wooden Bacon",
+    "brand": "Will - Bergnaum",
+    "category": "Screen Protectors",
+    "description": "Discover the zebra-like agility of our Bike, perfect for lumbering users",
+    "price": {
+      "regular": 97.99,
+      "discount": 15,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "243g",
+      "dimensions": {
+        "length": "18cm",
+        "width": "7cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 88,
+      "warehouse": "Sageport",
+      "leadTime": "9 days"
+    },
+    "ratings": {
+      "average": 2.8996556777846463,
+      "count": 446
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/3033/1045?lock=2453168005560104",
+        "alt": "Intelligent Marble Chips",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/50XYzQg7f/3634/167",
+        "alt": "Tasty Plastic Keyboard",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/183/182?lock=3452726717608537",
+        "alt": "Frozen Ceramic Salad",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/ZuRYDVF/1573/2445",
+        "alt": "Recycled Aluminum Pizza",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Fantastic",
+      "Modern",
+      "Intelligent",
+      "Small",
+      "Awesome",
+      "Modern"
+    ],
+    "tags": [
+      "Rubber",
+      "Granite",
+      "Bronze",
+      "Aluminum"
+    ],
+    "createdAt": "2024-10-28T10:07:16.302Z",
+    "updatedAt": "2025-02-28T01:53:14.296Z",
+    "isActive": true
+  },
+  {
+    "productId": "22a5349a-449c-4695-b90b-e06f3c328364",
+    "sku": "7HHXBTIJ",
+    "name": "Ebert, Hayes and Goodwin Soft Bamboo Shirt",
+    "brand": "Ebert, Hayes and Goodwin",
+    "category": "Chargers",
+    "description": "Discover the polar bear-like agility of our Fish, perfect for these users",
+    "price": {
+      "regular": 1667.99,
+      "discount": 4,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Silver",
+      "weight": "380g",
+      "dimensions": {
+        "length": "21cm",
+        "width": "14cm",
+        "height": "4cm"
+      }
+    },
+    "inventory": {
+      "inStock": 79,
+      "warehouse": "Shoreline",
+      "leadTime": "3 days"
+    },
+    "ratings": {
+      "average": 4.330188715792426,
+      "count": 698
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/825/3807?lock=6781876665299012",
+        "alt": "Practical Granite Mouse",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/DzaDsr/3586/453",
+        "alt": "Gorgeous Aluminum Fish",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/2498/207?lock=6251858121358306",
+        "alt": "Practical Gold Car",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/3cu09UOV0L/945/1751",
+        "alt": "Incredible Bamboo Pants",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Licensed",
+      "Sleek",
+      "Sleek",
+      "Tasty"
+    ],
+    "tags": [
+      "Granite",
+      "Aluminum",
+      "Plastic"
+    ],
+    "createdAt": "2024-03-30T09:36:42.986Z",
+    "updatedAt": "2025-02-27T19:28:33.470Z",
+    "isActive": true
+  },
+  {
+    "productId": "39299703-5bd0-4417-adea-82bce8a4ee17",
+    "sku": "65JY2TG1",
+    "name": "Kautzer - Reichert Small Bronze Mouse",
+    "brand": "Kautzer - Reichert",
+    "category": "Storage Devices",
+    "description": "Featuring Cadmium-enhanced technology, our Towels offers unparalleled limping performance",
+    "price": {
+      "regular": 557.09,
+      "discount": 29,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "482g",
+      "dimensions": {
+        "length": "11cm",
+        "width": "7cm",
+        "height": "4cm"
+      }
+    },
+    "inventory": {
+      "inStock": 53,
+      "warehouse": "Birdieberg",
+      "leadTime": "8 days"
+    },
+    "ratings": {
+      "average": 4.883921503276612,
+      "count": 405
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/3977/3615?lock=185975106344678",
+        "alt": "Fantastic Plastic Pizza",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/3344/732?lock=8584365104906217",
+        "alt": "Rustic Concrete Bacon",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/589/2736?lock=6379977436437370",
+        "alt": "Licensed Concrete Pizza",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/egRyz/1558/3011",
+        "alt": "Fantastic Wooden Chair",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Ergonomic",
+      "Practical",
+      "Awesome",
+      "Handcrafted",
+      "Handcrafted"
+    ],
+    "tags": [
+      "Plastic",
+      "Concrete",
+      "Aluminum"
+    ],
+    "createdAt": "2025-01-10T07:16:12.522Z",
+    "updatedAt": "2025-02-27T08:58:22.160Z",
+    "isActive": false
+  },
+  {
+    "productId": "14d133c5-6ea2-47c6-88f6-96a580acdf24",
+    "sku": "CPNGCRW0",
+    "name": "Mayer LLC Fresh Rubber Cheese",
+    "brand": "Mayer LLC",
+    "category": "Accessories",
+    "description": "Kovacek, Frami and Price's most advanced Chicken technology increases chilly capabilities",
+    "price": {
+      "regular": 1434.59,
+      "discount": 21,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "332g",
+      "dimensions": {
+        "length": "23cm",
+        "width": "7cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 63,
+      "warehouse": "Camarillo",
+      "leadTime": "10 days"
+    },
+    "ratings": {
+      "average": 4.296570734194374,
+      "count": 966
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/2762/691?lock=6889985592541243",
+        "alt": "Elegant Steel Shoes",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/Lcxu3vEqo/2021/2752",
+        "alt": "Small Aluminum Chicken",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/YZVXWp/3247/3734",
+        "alt": "Awesome Plastic Computer",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1411/2953?lock=2369881317286481",
+        "alt": "Sleek Cotton Keyboard",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Elegant",
+      "Refined",
+      "Refined",
+      "Unbranded"
+    ],
+    "tags": [
+      "Bronze",
+      "Bronze",
+      "Ceramic",
+      "Wooden"
+    ],
+    "createdAt": "2024-05-29T18:31:20.605Z",
+    "updatedAt": "2025-02-27T13:50:34.016Z",
+    "isActive": true
+  },
+  {
+    "productId": "2a059588-0030-4517-96aa-48cc30852c94",
+    "sku": "1MYF2IHO",
+    "name": "Gibson - Kohler Small Silk Towels",
+    "brand": "Gibson - Kohler",
+    "category": "Tablets",
+    "description": "Stylish Towels designed to make you stand out with cheap looks",
+    "price": {
+      "regular": 294.2,
+      "discount": 30,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "247g",
+      "dimensions": {
+        "length": "15cm",
+        "width": "11cm",
+        "height": "5cm"
+      }
+    },
+    "inventory": {
+      "inStock": 75,
+      "warehouse": "Lake Donnell",
+      "leadTime": "9 days"
+    },
+    "ratings": {
+      "average": 1.326257548894842,
+      "count": 813
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/3247/3464?lock=8526353657932687",
+        "alt": "Handcrafted Bronze Salad",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1450/2938?lock=8623080030187678",
+        "alt": "Tasty Wooden Pizza",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/CKniSt/2179/3283",
+        "alt": "Electronic Marble Sausages",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/67/3425?lock=2460807856568452",
+        "alt": "Incredible Ceramic Gloves",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Intelligent",
+      "Luxurious",
+      "Awesome"
+    ],
+    "tags": [
+      "Bronze",
+      "Silk"
+    ],
+    "createdAt": "2024-06-15T21:29:25.081Z",
+    "updatedAt": "2025-02-28T04:07:22.591Z",
+    "isActive": true
+  },
+  {
+    "productId": "353010d8-33ae-49b5-9660-ec657fb0928b",
+    "sku": "Z79DSL2R",
+    "name": "Heathcote, Schroeder and Baumbach Sleek Cotton Gloves",
+    "brand": "Heathcote, Schroeder and Baumbach",
+    "category": "Mobile Cases",
+    "description": "Discover the cat-like agility of our Pants, perfect for twin users",
+    "price": {
+      "regular": 1354,
+      "discount": 26,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "184g",
+      "dimensions": {
+        "length": "10cm",
+        "width": "7cm",
+        "height": "1cm"
+      }
+    },
+    "inventory": {
+      "inStock": 53,
+      "warehouse": "Holliston",
+      "leadTime": "2 days"
+    },
+    "ratings": {
+      "average": 2.9062321460755878,
+      "count": 359
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/3321/3551?lock=1846327480565136",
+        "alt": "Refined Rubber Shoes",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/HMDLw/1813/3113",
+        "alt": "Luxurious Concrete Cheese",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/gAi4s4lN/2888/2594",
+        "alt": "Elegant Rubber Salad",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/FCeGbkDjPZ/3472/598",
+        "alt": "Oriental Concrete Soap",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Soft",
+      "Licensed",
+      "Fantastic",
+      "Practical",
+      "Gorgeous"
+    ],
+    "tags": [
+      "Cotton",
+      "Granite",
+      "Wooden"
+    ],
+    "createdAt": "2024-04-22T22:57:31.844Z",
+    "updatedAt": "2025-02-27T18:06:41.127Z",
+    "isActive": false
+  },
+  {
+    "productId": "0206d58c-997a-4cbf-8170-c71b1ebab0e3",
+    "sku": "FCZIA8TR",
+    "name": "Purdy, Wiza and Kautzer Fresh Wooden Chair",
+    "brand": "Purdy, Wiza and Kautzer",
+    "category": "Power Banks",
+    "description": "New lime Shoes with ergonomic design for boiling comfort",
+    "price": {
+      "regular": 1704.05,
+      "discount": 15,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Black",
+      "weight": "452g",
+      "dimensions": {
+        "length": "22cm",
+        "width": "12cm",
+        "height": "5cm"
+      }
+    },
+    "inventory": {
+      "inStock": 45,
+      "warehouse": "Creminton",
+      "leadTime": "8 days"
+    },
+    "ratings": {
+      "average": 3.1086663886499535,
+      "count": 50
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/1789/2079?lock=4871401738831477",
+        "alt": "Rustic Granite Pants",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/uTiqbLjhg/3073/402",
+        "alt": "Rustic Concrete Tuna",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/f4Sm3xNh/3065/3812",
+        "alt": "Recycled Granite Shirt",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/431/3756?lock=8832560157589955",
+        "alt": "Bespoke Metal Tuna",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Generic",
+      "Elegant",
+      "Gorgeous",
+      "Electronic"
+    ],
+    "tags": [
+      "Ceramic",
+      "Bamboo"
+    ],
+    "createdAt": "2024-03-09T15:30:55.438Z",
+    "updatedAt": "2025-02-27T09:13:27.362Z",
+    "isActive": true
+  },
+  {
+    "productId": "69b9bc19-cdcc-476f-9d54-fbb8d6099fe7",
+    "sku": "FPDRGVLG",
+    "name": "Hamill, Hills and Towne Soft Gold Cheese",
+    "brand": "Hamill, Hills and Towne",
+    "category": "Accessories",
+    "description": "Innovative Ball featuring scented technology and Ceramic construction",
+    "price": {
+      "regular": 1214.69,
+      "discount": 18,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Blue",
+      "weight": "462g",
+      "dimensions": {
+        "length": "22cm",
+        "width": "9cm",
+        "height": "4cm"
+      }
+    },
+    "inventory": {
+      "inStock": 0,
+      "warehouse": "Lake Randi",
+      "leadTime": "1 days"
+    },
+    "ratings": {
+      "average": 1.7531239362157214,
+      "count": 376
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/1059/3523?lock=3401381767344208",
+        "alt": "Sleek Concrete Fish",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1843/2932?lock=7908613065547895",
+        "alt": "Fresh Granite Gloves",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/RQqY0Ai/1418/2337",
+        "alt": "Handmade Silk Gloves",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/222/695?lock=238366896007953",
+        "alt": "Intelligent Steel Chips",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Incredible",
+      "Bespoke",
+      "Fantastic",
+      "Fresh",
+      "Gorgeous"
+    ],
+    "tags": [
+      "Metal",
+      "Aluminum",
+      "Concrete",
+      "Marble"
+    ],
+    "createdAt": "2025-01-16T10:59:58.309Z",
+    "updatedAt": "2025-02-27T21:41:52.454Z",
+    "isActive": false
+  },
+  {
+    "productId": "99d71f2a-58b4-4d2f-b292-e38c046301c3",
+    "sku": "O9G33287",
+    "name": "Schimmel, Metz and Bailey Practical Bamboo Bacon",
+    "brand": "Schimmel, Metz and Bailey",
+    "category": "Storage Devices",
+    "description": "The sleek and legal Gloves comes with purple LED lighting for smart functionality",
+    "price": {
+      "regular": 1466.95,
+      "discount": 20,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "White",
+      "weight": "367g",
+      "dimensions": {
+        "length": "24cm",
+        "width": "9cm",
+        "height": "3cm"
+      }
+    },
+    "inventory": {
+      "inStock": 96,
+      "warehouse": "Stammberg",
+      "leadTime": "3 days"
+    },
+    "ratings": {
+      "average": 3.349582381624384,
+      "count": 133
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/3315/1216?lock=2531828527609343",
+        "alt": "Electronic Gold Cheese",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/SRAJf4/1362/1298",
+        "alt": "Licensed Ceramic Car",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1848/3260?lock=2965074895570416",
+        "alt": "Generic Bronze Bacon",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/8b1w2f/1816/727",
+        "alt": "Unbranded Bronze Computer",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Fantastic",
+      "Licensed",
+      "Sleek",
+      "Rustic",
+      "Refined",
+      "Elegant"
+    ],
+    "tags": [
+      "Cotton",
+      "Silk"
+    ],
+    "createdAt": "2024-07-18T18:17:51.526Z",
+    "updatedAt": "2025-02-27T23:09:41.091Z",
+    "isActive": true
+  },
+  {
+    "productId": "465a59c0-be7a-41cd-97f6-6fe6712c4e20",
+    "sku": "EKRXHB9J",
+    "name": "Upton, Jerde and Ullrich Intelligent Cotton Car",
+    "brand": "Upton, Jerde and Ullrich",
+    "category": "Smartphones",
+    "description": "The Jennifer Soap is the latest in a series of well-groomed products from Nicolas and Sons",
+    "price": {
+      "regular": 1781.82,
+      "discount": 29,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Silver",
+      "weight": "457g",
+      "dimensions": {
+        "length": "27cm",
+        "width": "15cm",
+        "height": "2cm"
+      }
+    },
+    "inventory": {
+      "inStock": 38,
+      "warehouse": "Fort Kiley",
+      "leadTime": "3 days"
+    },
+    "ratings": {
+      "average": 2.4586524689707403,
+      "count": 812
+    },
+    "images": [
+      {
+        "url": "https://loremflickr.com/2023/890?lock=6732643023653515",
+        "alt": "Oriental Plastic Ball",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1417/1458?lock=606988185048952",
+        "alt": "Gorgeous Wooden Fish",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1109/99?lock=5854214744021645",
+        "alt": "Sleek Concrete Towels",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/gxzc4I/3122/1761",
+        "alt": "Bespoke Ceramic Sausages",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Incredible",
+      "Handcrafted",
+      "Handcrafted",
+      "Handcrafted"
+    ],
+    "tags": [
+      "Plastic",
+      "Silk",
+      "Marble",
+      "Aluminum",
+      "Plastic"
+    ],
+    "createdAt": "2024-07-08T05:03:09.076Z",
+    "updatedAt": "2025-02-27T14:13:39.295Z",
+    "isActive": false
+  },
+  {
+    "productId": "e795dbcd-18ee-4bc6-bedf-387c02db4bc1",
+    "sku": "7UI4ER3U",
+    "name": "Kessler LLC Ergonomic Bamboo Chips",
+    "brand": "Kessler LLC",
+    "category": "Power Banks",
+    "description": "Stylish Gloves designed to make you stand out with prickly looks",
+    "price": {
+      "regular": 1883.19,
+      "discount": 24,
+      "currency": "USD"
+    },
+    "specifications": {
+      "color": "Silver",
+      "weight": "219g",
+      "dimensions": {
+        "length": "21cm",
+        "width": "10cm",
+        "height": "4cm"
+      }
+    },
+    "inventory": {
+      "inStock": 68,
+      "warehouse": "East Art",
+      "leadTime": "9 days"
+    },
+    "ratings": {
+      "average": 2.220934143674779,
+      "count": 976
+    },
+    "images": [
+      {
+        "url": "https://picsum.photos/seed/v9iLTmPr/2954/2495",
+        "alt": "Bespoke Steel Hat",
+        "isPrimary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/kKL9NBYI/3556/3004",
+        "alt": "Modern Gold Tuna",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/493/1179?lock=7461296544337604",
+        "alt": "Sleek Concrete Sausages",
+        "isPrimary": false
+      },
+      {
+        "url": "https://loremflickr.com/1356/2822?lock=7846149932158164",
+        "alt": "Sleek Bronze Shoes",
+        "isPrimary": false
+      }
+    ],
+    "features": [
+      "Handcrafted",
+      "Intelligent",
+      "Oriental",
+      "Ergonomic",
+      "Soft",
+      "Fantastic"
+    ],
+    "tags": [
+      "Silk",
+      "Ceramic",
+      "Wooden",
+      "Aluminum",
+      "Steel"
+    ],
+    "createdAt": "2024-05-15T06:20:01.114Z",
+    "updatedAt": "2025-02-27T20:12:20.668Z",
+    "isActive": false
+  }
+]

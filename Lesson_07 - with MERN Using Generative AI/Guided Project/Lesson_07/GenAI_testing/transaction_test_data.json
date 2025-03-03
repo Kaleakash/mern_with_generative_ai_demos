@@ -1,0 +1,4179 @@
+[
+  {
+    "transactionId": "d3ae327f-ad0b-4408-b820-bed3d3b34f8d",
+    "orderId": "ORD-I2C8DSEE",
+    "customerId": "5a6f3574-5467-4d93-9c46-d08b4e92946f",
+    "customerDetails": {
+      "name": "Jasmine Stroman",
+      "email": "Cecile14@hotmail.com",
+      "phone": "(888) 941-5650 x792"
+    },
+    "orderDate": "2025-02-28T05:24:21.601Z",
+    "items": [
+      {
+        "productId": "27eca0ba-3ba8-44f9-a92c-001248a14dbd",
+        "productName": "Licensed Ceramic Computer",
+        "quantity": 1,
+        "unitPrice": 250.19,
+        "category": "Outdoors"
+      },
+      {
+        "productId": "60d3adc2-a129-437a-8249-a97dec9371c3",
+        "productName": "Modern Metal Cheese",
+        "quantity": 4,
+        "unitPrice": 984.55,
+        "category": "Clothing"
+      },
+      {
+        "productId": "837f4023-f74a-41aa-aaab-5fee3ace2164",
+        "productName": "Intelligent Plastic Chicken",
+        "quantity": 4,
+        "unitPrice": 535.15,
+        "category": "Sports"
+      },
+      {
+        "productId": "d317d191-068e-448f-9a7c-358a468827a3",
+        "productName": "Refined Aluminum Shoes",
+        "quantity": 5,
+        "unitPrice": 457.49,
+        "category": "Electronics"
+      },
+      {
+        "productId": "fb2d9b64-09e6-4ebf-aad4-13889e729650",
+        "productName": "Electronic Concrete Shirt",
+        "quantity": 4,
+        "unitPrice": 323.19,
+        "category": "Movies"
+      }
+    ],
+    "billing": {
+      "subtotal": 9909.2,
+      "tax": 792.74,
+      "shippingCost": 588.85,
+      "total": 11290.79,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Virginie_Raynor@upi"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-28T00:28:20.140Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "6870 Keira Trafficway",
+        "city": "Port Angelita",
+        "state": "Montana",
+        "zipCode": "43730-6155",
+        "country": "Micronesia"
+      },
+      "method": "Express",
+      "trackingNumber": "VMRGHMRFMAIS",
+      "estimatedDelivery": "2025-11-26T12:17:29.103Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T13:07:48.869Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-27T19:05:24.779Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "45.40.155.61"
+      },
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-G998N) AppleWebKit/565.16 (KHTML, like Gecko) Chrome/68.8.11.14 Mobile Safari/602.30",
+      "sessionId": "5937743f-e064-4f69-86af-00046ae66ef2"
+    }
+  },
+  {
+    "transactionId": "5206449e-53a3-4519-a78c-430eef24c32a",
+    "orderId": "ORD-Q8PZKOPX",
+    "customerId": "4a82ecef-8654-4a32-8557-13fdd59a1c0c",
+    "customerDetails": {
+      "name": "Denise Will",
+      "email": "Mary84@yahoo.com",
+      "phone": "1-378-540-9249 x9390"
+    },
+    "orderDate": "2025-02-27T15:28:46.826Z",
+    "items": [
+      {
+        "productId": "f66bc4ec-3135-4c98-ad3a-6c0b129d2301",
+        "productName": "Refined Bamboo Bike",
+        "quantity": 1,
+        "unitPrice": 49.59,
+        "category": "Electronics"
+      }
+    ],
+    "billing": {
+      "subtotal": 49.59,
+      "tax": 3.97,
+      "shippingCost": 73.09,
+      "total": 126.65,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "5481-6054-3581-2840",
+        "expiryDate": "2025-06",
+        "cardHolder": "Marianne Wiegand-Runte"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T20:54:29.382Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "449 Kory Trafficway",
+        "city": "Fort Damaris",
+        "state": "Mississippi",
+        "zipCode": "78983",
+        "country": "Egypt"
+      },
+      "method": "Standard",
+      "trackingNumber": "SDODXGOFMQU8",
+      "estimatedDelivery": "2025-07-11T01:26:14.672Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T08:57:11.387Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-27T17:33:49.567Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "144.56.192.148"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/542.40.55 (KHTML, like Gecko) Version/10_4 Mobile/15E148 Safari/599.3",
+      "sessionId": "1724d678-94fb-4993-b849-133e2297911b"
+    }
+  },
+  {
+    "transactionId": "3176fad5-8302-43a9-88c8-f75110413299",
+    "orderId": "ORD-GEK7UU6X",
+    "customerId": "037f82b2-483e-434b-8e40-a98d66416fee",
+    "customerDetails": {
+      "name": "Lonnie Wunsch Jr.",
+      "email": "Devin65@yahoo.com",
+      "phone": "342-371-0377 x8174"
+    },
+    "orderDate": "2025-02-27T08:32:10.704Z",
+    "items": [
+      {
+        "productId": "70a34efb-3a40-4dc6-8277-08c16547ea65",
+        "productName": "Soft Ceramic Computer",
+        "quantity": 4,
+        "unitPrice": 817.29,
+        "category": "Jewelry"
+      }
+    ],
+    "billing": {
+      "subtotal": 3269.16,
+      "tax": 261.53,
+      "shippingCost": 30.45,
+      "total": 3561.14,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "Apple Pay"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T14:23:57.029Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "86877 Jayme Hill",
+        "city": "Nicholasland",
+        "state": "Wyoming",
+        "zipCode": "14701-6792",
+        "country": "Panama"
+      },
+      "method": "Express",
+      "trackingNumber": "7IK6DYY5EOLJ",
+      "estimatedDelivery": "2025-07-02T19:19:39.173Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T05:30:02.338Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-27T11:48:25.426Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "a54c:ff87:902a:00d2:85ff:ddc1:8ffd:edc3"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/568.61.3 (KHTML, like Gecko) Version/16.1 Safari/580.7.88",
+      "sessionId": "266373c8-97b4-4f7a-968c-b1453e9ddc72"
+    }
+  },
+  {
+    "transactionId": "dd11cf36-b34b-466d-9036-5bda07eef495",
+    "orderId": "ORD-YJW2EDUL",
+    "customerId": "8172bcee-605f-458f-9030-0c53c299cf84",
+    "customerDetails": {
+      "name": "Maryann Harvey",
+      "email": "Don_Hammes@gmail.com",
+      "phone": "896.719.4849 x090"
+    },
+    "orderDate": "2025-02-28T05:38:35.761Z",
+    "items": [
+      {
+        "productId": "2b61982b-042a-47a1-95ac-cc36dc65b59a",
+        "productName": "Gorgeous Plastic Car",
+        "quantity": 3,
+        "unitPrice": 701,
+        "category": "Electronics"
+      },
+      {
+        "productId": "d2b9c1e7-f2fd-4999-929b-c5ae7977b8bf",
+        "productName": "Handmade Concrete Fish",
+        "quantity": 1,
+        "unitPrice": 591.61,
+        "category": "Clothing"
+      }
+    ],
+    "billing": {
+      "subtotal": 2694.61,
+      "tax": 215.57,
+      "shippingCost": 37.75,
+      "total": 2947.93,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "PayPal"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T14:11:13.573Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "852 Kling Lake",
+        "city": "Lake Jennyfermouth",
+        "state": "Missouri",
+        "zipCode": "80599-5212",
+        "country": "Niger"
+      },
+      "method": "Next Day",
+      "trackingNumber": "QGQBCBUBEKUF",
+      "estimatedDelivery": "2025-11-21T16:04:29.800Z"
+    },
+    "status": "PROCESSING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T00:00:07.332Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PROCESSING",
+        "timestamp": "2025-02-27T14:21:40.844Z",
+        "comment": "Order processing"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "e865:ac54:5ead:3673:7de1:7fab:de48:df00"
+      },
+      "userAgent": "FakerBot/6.17.15",
+      "sessionId": "996ac757-6269-4927-ac9b-e2de454ca712"
+    }
+  },
+  {
+    "transactionId": "5b9e9e22-a3ac-477c-8adc-c8429941457e",
+    "orderId": "ORD-RJOAL9PQ",
+    "customerId": "d07c922e-2bdc-4a0b-aaea-1f6c80756f36",
+    "customerDetails": {
+      "name": "Darrin Hills II",
+      "email": "Marcos_Purdy22@yahoo.com",
+      "phone": "1-613-351-4623 x2798"
+    },
+    "orderDate": "2025-02-27T16:21:35.384Z",
+    "items": [
+      {
+        "productId": "95c3b0c0-e980-4eab-b404-0b34588e8fe4",
+        "productName": "Elegant Rubber Shoes",
+        "quantity": 4,
+        "unitPrice": 586.19,
+        "category": "Sports"
+      }
+    ],
+    "billing": {
+      "subtotal": 2344.76,
+      "tax": 187.58,
+      "shippingCost": 248.19,
+      "total": 2780.53,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "3024-493645-8247",
+        "bankName": "Kulas Inc"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T09:35:50.415Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "10661 George Street",
+        "city": "Breitenbergshire",
+        "state": "Delaware",
+        "zipCode": "17379",
+        "country": "Latvia"
+      },
+      "method": "Next Day",
+      "trackingNumber": "Z4VQON25OIOC",
+      "estimatedDelivery": "2025-05-22T15:28:59.192Z"
+    },
+    "status": "PENDING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T14:03:52.888Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T11:52:28.706Z",
+        "comment": "Order pending"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "eb4e:c0d1:6c52:7199:efb9:74ff:edb0:68fa"
+      },
+      "userAgent": "Googlebot/2.1 (+http://www.google.com/bot.html)",
+      "sessionId": "2f54c4d4-b94e-4197-8725-ff869835cb80"
+    }
+  },
+  {
+    "transactionId": "51892027-3422-44b3-aaf6-3f86ad726fb1",
+    "orderId": "ORD-B6YBBZ22",
+    "customerId": "7c090bf3-e7fa-4664-b754-e581c4d088dd",
+    "customerDetails": {
+      "name": "Sheri Harvey",
+      "email": "Gerry95@yahoo.com",
+      "phone": "795-274-1426 x73248"
+    },
+    "orderDate": "2025-02-27T10:00:56.150Z",
+    "items": [
+      {
+        "productId": "a0896d22-6810-492d-8ed6-ce19cc34866c",
+        "productName": "Frozen Wooden Gloves",
+        "quantity": 2,
+        "unitPrice": 216.79,
+        "category": "Clothing"
+      },
+      {
+        "productId": "7d2a89eb-9262-435e-ada1-766cde82fecb",
+        "productName": "Licensed Concrete Ball",
+        "quantity": 2,
+        "unitPrice": 379.35,
+        "category": "Health"
+      },
+      {
+        "productId": "e614d99e-8c27-4c50-93b5-3d3e31b3174d",
+        "productName": "Electronic Cotton Ball",
+        "quantity": 5,
+        "unitPrice": 102.59,
+        "category": "Sports"
+      },
+      {
+        "productId": "a2af6553-fced-4a57-a896-cb94324c5531",
+        "productName": "Generic Bamboo Cheese",
+        "quantity": 1,
+        "unitPrice": 308.35,
+        "category": "Games"
+      }
+    ],
+    "billing": {
+      "subtotal": 2013.58,
+      "tax": 161.09,
+      "shippingCost": 358.85,
+      "total": 2533.52,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "5468-3906-0708-1493",
+        "bankName": "Satterfield - Towne"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-28T00:52:52.471Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "1082 Meadow Drive",
+        "city": "Funkburgh",
+        "state": "Vermont",
+        "zipCode": "17143-8422",
+        "country": "Niger"
+      },
+      "method": "Express",
+      "trackingNumber": "URYVBVIB8SVS",
+      "estimatedDelivery": "2025-12-05T16:24:03.792Z"
+    },
+    "status": "PROCESSING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T01:23:18.087Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PROCESSING",
+        "timestamp": "2025-02-27T22:08:13.493Z",
+        "comment": "Order processing"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "cfd9:e3fc:7eca:3acb:d87a:4b59:260d:ffd4"
+      },
+      "userAgent": "Googlebot/2.1 (+http://www.google.com/bot.html)",
+      "sessionId": "231a11f5-f6e4-4287-becc-9b69598bfb28"
+    }
+  },
+  {
+    "transactionId": "ccb90bff-9bad-4b5a-9938-886c028b80d6",
+    "orderId": "ORD-PKCDTPO1",
+    "customerId": "85316122-41c5-4920-8902-349e8a8c923b",
+    "customerDetails": {
+      "name": "Allan Reichel DVM",
+      "email": "Kailey64@yahoo.com",
+      "phone": "(569) 216-3807"
+    },
+    "orderDate": "2025-02-28T01:46:30.276Z",
+    "items": [
+      {
+        "productId": "545e982f-f15d-4726-b149-a69f7d5bfcd3",
+        "productName": "Generic Ceramic Sausages",
+        "quantity": 3,
+        "unitPrice": 756.39,
+        "category": "Industrial"
+      }
+    ],
+    "billing": {
+      "subtotal": 2269.17,
+      "tax": 181.53,
+      "shippingCost": 713.95,
+      "total": 3164.65,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Granville_Emard84@upi"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-28T02:27:29.431Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "581 S Grand Avenue",
+        "city": "East Jordonmouth",
+        "state": "Rhode Island",
+        "zipCode": "72477",
+        "country": "French Polynesia"
+      },
+      "method": "Standard",
+      "trackingNumber": "HUMOWKSOG3RE",
+      "estimatedDelivery": "2025-11-30T10:20:13.137Z"
+    },
+    "status": "CANCELLED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T05:25:02.594Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "CANCELLED",
+        "timestamp": "2025-02-28T04:44:24.141Z",
+        "comment": "Order cancelled"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "218.252.161.97"
+      },
+      "userAgent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.0)",
+      "sessionId": "8a0d95c7-4117-4aac-9d5f-7b9dc77fa15a"
+    }
+  },
+  {
+    "transactionId": "c2541c96-e380-40a2-92f9-da53fd7b8930",
+    "orderId": "ORD-ZULKJHET",
+    "customerId": "537935c9-a292-45b1-b87b-44d315d8efa3",
+    "customerDetails": {
+      "name": "Ronald Veum Sr.",
+      "email": "Fletcher81@gmail.com",
+      "phone": "(817) 416-4926 x1613"
+    },
+    "orderDate": "2025-02-28T01:01:08.590Z",
+    "items": [
+      {
+        "productId": "0f5d1d0b-32b8-4839-bf9f-8420e8de477e",
+        "productName": "Soft Bamboo Chips",
+        "quantity": 2,
+        "unitPrice": 273.55,
+        "category": "Grocery"
+      },
+      {
+        "productId": "2d60b45b-13c5-4bb0-821a-89ba4e7887bb",
+        "productName": "Oriental Concrete Hat",
+        "quantity": 5,
+        "unitPrice": 335.35,
+        "category": "Baby"
+      },
+      {
+        "productId": "4a8d4485-59e9-4799-a063-2e32af74c181",
+        "productName": "Soft Bamboo Towels",
+        "quantity": 2,
+        "unitPrice": 321.69,
+        "category": "Outdoors"
+      },
+      {
+        "productId": "3c0e8764-8e78-414b-80ad-fa4190f206bf",
+        "productName": "Rustic Bronze Computer",
+        "quantity": 1,
+        "unitPrice": 734.75,
+        "category": "Books"
+      },
+      {
+        "productId": "d557539a-3677-4f9e-89ce-ba8848202828",
+        "productName": "Small Plastic Mouse",
+        "quantity": 3,
+        "unitPrice": 612.49,
+        "category": "Jewelry"
+      }
+    ],
+    "billing": {
+      "subtotal": 5439.45,
+      "tax": 435.16,
+      "shippingCost": 739.99,
+      "total": 6614.6,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Niko_Hammes-Schoen17@upi"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T16:43:53.781Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "534 North Road",
+        "city": "Mission Viejo",
+        "state": "Rhode Island",
+        "zipCode": "38680",
+        "country": "Netherlands"
+      },
+      "method": "Standard",
+      "trackingNumber": "TMDVHTOEMUHJ",
+      "estimatedDelivery": "2025-11-04T09:30:48.438Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T16:53:41.713Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-28T06:01:54.626Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "65fb:35c8:a4ee:72eb:cba1:67ef:2a7f:50ed"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/569.93.68 (KHTML, like Gecko) Version/16.1 Safari/539.54.40",
+      "sessionId": "83f7ec83-cb74-4eca-b5d4-bef592c19d35"
+    }
+  },
+  {
+    "transactionId": "18ed8a6a-35c3-42a9-b3fc-15a75a42acc1",
+    "orderId": "ORD-3E8CNM4M",
+    "customerId": "7817a1f4-b3a7-4089-9c86-7369ae4e0d86",
+    "customerDetails": {
+      "name": "Eloise Heidenreich",
+      "email": "Myrtice19@gmail.com",
+      "phone": "979-673-2362"
+    },
+    "orderDate": "2025-02-28T00:27:27.269Z",
+    "items": [
+      {
+        "productId": "cfca15d3-2152-4627-b602-81c0cb163012",
+        "productName": "Unbranded Gold Soap",
+        "quantity": 4,
+        "unitPrice": 461.79,
+        "category": "Toys"
+      },
+      {
+        "productId": "a4124129-f986-40ac-aa66-ff8a3cff4ab7",
+        "productName": "Bespoke Silk Chips",
+        "quantity": 1,
+        "unitPrice": 379.79,
+        "category": "Clothing"
+      },
+      {
+        "productId": "f13fbf3a-9ee3-4022-a24e-99e422b83dfb",
+        "productName": "Fresh Metal Keyboard",
+        "quantity": 1,
+        "unitPrice": 918.19,
+        "category": "Garden"
+      },
+      {
+        "productId": "c0c78c29-8d3e-44db-a7b2-a1a167efb495",
+        "productName": "Awesome Gold Bike",
+        "quantity": 2,
+        "unitPrice": 231.53,
+        "category": "Home"
+      }
+    ],
+    "billing": {
+      "subtotal": 3608.2,
+      "tax": 288.66,
+      "shippingCost": 337.17,
+      "total": 4234.03,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "PayPal"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T20:45:51.322Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "138 Ullrich Springs",
+        "city": "Brettberg",
+        "state": "Montana",
+        "zipCode": "45131",
+        "country": "Faroe Islands"
+      },
+      "method": "Express",
+      "trackingNumber": "8ATAWEHOBQBX",
+      "estimatedDelivery": "2026-02-27T22:07:21.551Z"
+    },
+    "status": "REFUNDED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T01:30:33.614Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "REFUNDED",
+        "timestamp": "2025-02-27T11:27:39.181Z",
+        "comment": "Order refunded"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "01ab:ef02:79ed:f3c8:e3dd:afe6:7c1b:bcad"
+      },
+      "userAgent": "FakerBot/0.1.20",
+      "sessionId": "66d6fddd-774d-4105-ae68-47cfc7fdc700"
+    }
+  },
+  {
+    "transactionId": "49685f7e-492e-438f-8d83-6ee4cf65d04f",
+    "orderId": "ORD-VPZ5SQGO",
+    "customerId": "3a70a8f3-cda7-4e8b-ba3d-e1895b3a64fc",
+    "customerDetails": {
+      "name": "Rudolph McClure",
+      "email": "Sylvan65@gmail.com",
+      "phone": "1-260-607-7269 x35056"
+    },
+    "orderDate": "2025-02-28T04:30:01.212Z",
+    "items": [
+      {
+        "productId": "4131f5b5-1576-4dd9-9653-ba0b615dddbc",
+        "productName": "Soft Granite Computer",
+        "quantity": 5,
+        "unitPrice": 188.19,
+        "category": "Jewelry"
+      }
+    ],
+    "billing": {
+      "subtotal": 940.95,
+      "tax": 75.28,
+      "shippingCost": 864.45,
+      "total": 1880.68,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "2674-5014-4995-7156",
+        "expiryDate": "2025-03",
+        "cardHolder": "Keith Kovacek"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-28T06:12:20.355Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "8535 Abigail Shore",
+        "city": "Cordieberg",
+        "state": "Maryland",
+        "zipCode": "45772",
+        "country": "Norfolk Island"
+      },
+      "method": "Next Day",
+      "trackingNumber": "VHDOABXPV805",
+      "estimatedDelivery": "2025-08-23T06:49:44.312Z"
+    },
+    "status": "PROCESSING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T00:20:11.483Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PROCESSING",
+        "timestamp": "2025-02-27T20:27:16.954Z",
+        "comment": "Order processing"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "0a9a:8079:ffcc:36b7:3a55:be3b:beeb:6e7e"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/575.8.50 (KHTML, like Gecko) Version/16.1 Safari/597.85.24",
+      "sessionId": "df90566e-0729-4941-bef2-9382f456b4db"
+    }
+  },
+  {
+    "transactionId": "b04b0c33-782c-4cf8-8f8e-fdda8998d04f",
+    "orderId": "ORD-MBAP8OL1",
+    "customerId": "069b691d-084c-474b-8e69-c8f14515ed2b",
+    "customerDetails": {
+      "name": "Simon Hartmann",
+      "email": "Adonis.Powlowski-Legros56@yahoo.com",
+      "phone": "(648) 666-9094"
+    },
+    "orderDate": "2025-02-27T09:25:53.483Z",
+    "items": [
+      {
+        "productId": "ecbf9301-1922-49b3-93f9-5d3495a7452a",
+        "productName": "Handcrafted Wooden Gloves",
+        "quantity": 3,
+        "unitPrice": 697.35,
+        "category": "Shoes"
+      }
+    ],
+    "billing": {
+      "subtotal": 2092.05,
+      "tax": 167.36,
+      "shippingCost": 87.39,
+      "total": 2346.8,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Karen43@upi"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T14:25:19.892Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "462 Okuneva Row",
+        "city": "Bradtkeport",
+        "state": "Colorado",
+        "zipCode": "61570-5422",
+        "country": "Canada"
+      },
+      "method": "Express",
+      "trackingNumber": "XLYY99RTAIYB",
+      "estimatedDelivery": "2025-12-24T23:34:55.373Z"
+    },
+    "status": "CANCELLED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T17:36:35.803Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "CANCELLED",
+        "timestamp": "2025-02-27T08:47:48.824Z",
+        "comment": "Order cancelled"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "174.61.37.138"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/552.72.65 (KHTML, like Gecko) Version/13_2 Mobile/15E148 Safari/603.64",
+      "sessionId": "387f37cf-598b-47a8-85e7-64d8004f6222"
+    }
+  },
+  {
+    "transactionId": "0fd50f6f-5a14-4b0f-af5c-a4ffb7e6fcc7",
+    "orderId": "ORD-Z5IHL1KO",
+    "customerId": "460d06c0-9c0d-43ba-8eff-00213d837926",
+    "customerDetails": {
+      "name": "Christy Feil",
+      "email": "Hilario.Halvorson@gmail.com",
+      "phone": "938.423.1027 x046"
+    },
+    "orderDate": "2025-02-28T04:36:33.266Z",
+    "items": [
+      {
+        "productId": "92a905b1-98d5-4682-a610-debf5cbd16a6",
+        "productName": "Fresh Bronze Bike",
+        "quantity": 5,
+        "unitPrice": 780.15,
+        "category": "Toys"
+      },
+      {
+        "productId": "42921b5f-dd81-4f58-ac05-a4d3bc5496c0",
+        "productName": "Fantastic Steel Towels",
+        "quantity": 4,
+        "unitPrice": 673.39,
+        "category": "Baby"
+      }
+    ],
+    "billing": {
+      "subtotal": 6594.31,
+      "tax": 527.54,
+      "shippingCost": 226.39,
+      "total": 7348.24,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "Google Pay"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-28T00:01:46.342Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "9517 Alexandria Forge",
+        "city": "Halmouth",
+        "state": "Michigan",
+        "zipCode": "20358-2227",
+        "country": "Ireland"
+      },
+      "method": "Next Day",
+      "trackingNumber": "QPCQORXYIRM4",
+      "estimatedDelivery": "2025-03-03T03:56:29.432Z"
+    },
+    "status": "CANCELLED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T23:51:47.423Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "CANCELLED",
+        "timestamp": "2025-02-28T07:25:03.673Z",
+        "comment": "Order cancelled"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "231.59.115.18"
+      },
+      "userAgent": "Mozilla/5.0 (Linux; Android 5; SM-G998B) AppleWebKit/601.16 (KHTML, like Gecko) Chrome/116.8.10.16 Mobile Safari/553.84",
+      "sessionId": "ae2da2eb-1d19-47f6-aba3-63cd2e6c3826"
+    }
+  },
+  {
+    "transactionId": "e466cffe-c64d-4c01-b2c7-cc5132d7c3a2",
+    "orderId": "ORD-WMJIQFHO",
+    "customerId": "f658dc47-aaa4-4ea0-91a0-c123701c6a63",
+    "customerDetails": {
+      "name": "Cora Mante",
+      "email": "Brenden76@yahoo.com",
+      "phone": "1-579-414-4966 x177"
+    },
+    "orderDate": "2025-02-27T09:30:21.339Z",
+    "items": [
+      {
+        "productId": "28839a7d-6648-4641-8d62-32badd53838f",
+        "productName": "Incredible Metal Tuna",
+        "quantity": 5,
+        "unitPrice": 111.69,
+        "category": "Beauty"
+      }
+    ],
+    "billing": {
+      "subtotal": 558.45,
+      "tax": 44.68,
+      "shippingCost": 268.85,
+      "total": 871.98,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "4922717257332",
+        "expiryDate": "2025-04",
+        "cardHolder": "Martin Schamberger"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T18:50:57.017Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "14780 Towne Shoals",
+        "city": "Jailynworth",
+        "state": "Tennessee",
+        "zipCode": "13702-8157",
+        "country": "Chad"
+      },
+      "method": "Express",
+      "trackingNumber": "85BHSIG8KTVL",
+      "estimatedDelivery": "2025-04-18T05:36:33.142Z"
+    },
+    "status": "REFUNDED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T10:08:22.257Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "REFUNDED",
+        "timestamp": "2025-02-27T21:31:21.932Z",
+        "comment": "Order refunded"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "dddd:fb19:cedb:38c7:a89f:daed:cd9a:f0cc"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:100.0) Gecko/20100101 Firefox/126.0",
+      "sessionId": "eeb85bed-9b64-45fb-9db2-45f15b969bf3"
+    }
+  },
+  {
+    "transactionId": "d21e29dc-6e36-4215-96e8-41881d0856bb",
+    "orderId": "ORD-DOH1LXDU",
+    "customerId": "3b3bafb6-8f1a-4306-91b0-30c1aee86b8b",
+    "customerDetails": {
+      "name": "Erik Goodwin",
+      "email": "Theo62@gmail.com",
+      "phone": "801.378.2655 x05398"
+    },
+    "orderDate": "2025-02-28T03:58:47.206Z",
+    "items": [
+      {
+        "productId": "874046f8-4f8c-40aa-8727-3f680ca9284b",
+        "productName": "Frozen Plastic Chicken",
+        "quantity": 4,
+        "unitPrice": 300.85,
+        "category": "Toys"
+      },
+      {
+        "productId": "60d4caaf-291e-4a7c-ae72-70d0b48b1c2a",
+        "productName": "Rustic Steel Table",
+        "quantity": 5,
+        "unitPrice": 439.69,
+        "category": "Games"
+      },
+      {
+        "productId": "266015c6-9bf9-499a-8622-2ddb082b1040",
+        "productName": "Fantastic Gold Chicken",
+        "quantity": 1,
+        "unitPrice": 74.35,
+        "category": "Automotive"
+      },
+      {
+        "productId": "388b7483-e87c-416f-b552-b80a10f82c9d",
+        "productName": "Sleek Bronze Car",
+        "quantity": 2,
+        "unitPrice": 662.89,
+        "category": "Books"
+      },
+      {
+        "productId": "45c6217d-95b0-43ce-ac0a-d7002935b892",
+        "productName": "Small Steel Chips",
+        "quantity": 2,
+        "unitPrice": 283.69,
+        "category": "Movies"
+      }
+    ],
+    "billing": {
+      "subtotal": 5369.36,
+      "tax": 429.55,
+      "shippingCost": 704.95,
+      "total": 6503.86,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "2691-7032-0314-8506",
+        "expiryDate": "2025-08",
+        "cardHolder": "Miss Krystal Roberts IV"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T20:24:13.230Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "8475 Martin Orchard",
+        "city": "Janeside",
+        "state": "South Dakota",
+        "zipCode": "26311",
+        "country": "Lesotho"
+      },
+      "method": "Next Day",
+      "trackingNumber": "WL3VZAEVFCCN",
+      "estimatedDelivery": "2025-12-07T10:34:32.236Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T21:26:57.453Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-27T12:04:29.359Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "146.88.234.203"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:106.0) Gecko/20100101 Firefox/75.0",
+      "sessionId": "2be3cbd0-19a6-44ea-8df0-43662b428194"
+    }
+  },
+  {
+    "transactionId": "b01dbaa3-257d-4e6a-aa85-5ad3778f2ef7",
+    "orderId": "ORD-TCPXLOTY",
+    "customerId": "bbca5c0b-4728-44fb-bf2d-50fd2b475e33",
+    "customerDetails": {
+      "name": "Jodi Kling",
+      "email": "Flossie_Hirthe49@gmail.com",
+      "phone": "509.679.5842"
+    },
+    "orderDate": "2025-02-27T08:27:39.126Z",
+    "items": [
+      {
+        "productId": "4459b81d-f03d-4a3e-9a24-c56933351c0b",
+        "productName": "Generic Plastic Hat",
+        "quantity": 4,
+        "unitPrice": 428.33,
+        "category": "Baby"
+      },
+      {
+        "productId": "fc27bc65-0ff4-49e7-b4ab-f72aa4645293",
+        "productName": "Oriental Concrete Hat",
+        "quantity": 1,
+        "unitPrice": 483.69,
+        "category": "Automotive"
+      }
+    ],
+    "billing": {
+      "subtotal": 2197.01,
+      "tax": 175.76,
+      "shippingCost": 232.05,
+      "total": 2604.82,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "3528-6760-4736-1435",
+        "expiryDate": "2025-05",
+        "cardHolder": "Dr. Mike Hoppe"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T21:15:12.589Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "60482 Wiegand Terrace",
+        "city": "Lynn",
+        "state": "Maryland",
+        "zipCode": "20676",
+        "country": "Turkey"
+      },
+      "method": "Express",
+      "trackingNumber": "GNHILWIOQ9BY",
+      "estimatedDelivery": "2025-12-20T13:48:48.133Z"
+    },
+    "status": "PROCESSING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T04:06:22.334Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PROCESSING",
+        "timestamp": "2025-02-27T23:42:01.634Z",
+        "comment": "Order processing"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "bcae:f6fe:f9fd:f8db:eb6c:d0a0:1e8f:0c3c"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 like Mac OS X) AppleWebKit/580.33.91 (KHTML, like Gecko) Version/13_3 Mobile/15E148 Safari/597.96",
+      "sessionId": "827501cb-c992-4b78-8cf7-02f8ccf522f2"
+    }
+  },
+  {
+    "transactionId": "0d81e89f-5d02-4f14-9b33-c07e4086e366",
+    "orderId": "ORD-PRMDSY3B",
+    "customerId": "f67580b7-4a2b-45e9-a2e5-b70e619dd15c",
+    "customerDetails": {
+      "name": "Bernice Gibson",
+      "email": "Bryce24@gmail.com",
+      "phone": "765-460-8703 x0285"
+    },
+    "orderDate": "2025-02-28T04:12:32.784Z",
+    "items": [
+      {
+        "productId": "44488a90-3f7c-4283-a9dd-9dc322fa4da9",
+        "productName": "Sleek Rubber Chicken",
+        "quantity": 4,
+        "unitPrice": 480.35,
+        "category": "Industrial"
+      },
+      {
+        "productId": "ac805bb9-a6d2-4325-87cd-1a3518789eff",
+        "productName": "Frozen Plastic Cheese",
+        "quantity": 5,
+        "unitPrice": 165.31,
+        "category": "Electronics"
+      },
+      {
+        "productId": "5bba7e66-2256-4688-96dc-e9621c142eb8",
+        "productName": "Soft Metal Car",
+        "quantity": 3,
+        "unitPrice": 962.08,
+        "category": "Kids"
+      },
+      {
+        "productId": "57a3f6da-4cee-484d-9f5d-44f28897888c",
+        "productName": "Generic Wooden Fish",
+        "quantity": 3,
+        "unitPrice": 838.5,
+        "category": "Books"
+      },
+      {
+        "productId": "678b582f-77f2-4c5c-ba8e-01d541c138cf",
+        "productName": "Unbranded Ceramic Chair",
+        "quantity": 1,
+        "unitPrice": 232.99,
+        "category": "Games"
+      }
+    ],
+    "billing": {
+      "subtotal": 8382.68,
+      "tax": 670.61,
+      "shippingCost": 988.19,
+      "total": 10041.48,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Brianne_Purdy48@upi"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-27T11:25:39.748Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "36266 Von Meadows",
+        "city": "Tillmanstead",
+        "state": "Kansas",
+        "zipCode": "44152-1054",
+        "country": "Mayotte"
+      },
+      "method": "Standard",
+      "trackingNumber": "MK4UYAL744SW",
+      "estimatedDelivery": "2025-05-01T09:58:29.322Z"
+    },
+    "status": "REFUNDED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T06:41:45.442Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "REFUNDED",
+        "timestamp": "2025-02-28T04:06:05.323Z",
+        "comment": "Order refunded"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "239.243.135.67"
+      },
+      "userAgent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.3; Trident/7.0)",
+      "sessionId": "a764e72e-7d33-42d9-8f73-a2c613e1c011"
+    }
+  },
+  {
+    "transactionId": "64243b75-f1e8-4e78-9346-482563ae1f06",
+    "orderId": "ORD-CZLVVIIO",
+    "customerId": "e7c2226a-68ff-4d36-95a4-73a79dd9e265",
+    "customerDetails": {
+      "name": "Mrs. Essie Fritsch",
+      "email": "Myrtie_McGlynn@gmail.com",
+      "phone": "260.958.7962 x2747"
+    },
+    "orderDate": "2025-02-28T01:51:09.215Z",
+    "items": [
+      {
+        "productId": "94c28780-c04c-401c-a2f4-c79b69cbdd9a",
+        "productName": "Small Ceramic Keyboard",
+        "quantity": 3,
+        "unitPrice": 40.3,
+        "category": "Garden"
+      },
+      {
+        "productId": "f3a4f99a-6e35-461c-9ff6-8f1cbd2f5b59",
+        "productName": "Incredible Aluminum Shirt",
+        "quantity": 5,
+        "unitPrice": 612.59,
+        "category": "Beauty"
+      },
+      {
+        "productId": "4c1194b5-d202-4a3a-b051-db946632612a",
+        "productName": "Practical Gold Shirt",
+        "quantity": 5,
+        "unitPrice": 578.65,
+        "category": "Jewelry"
+      },
+      {
+        "productId": "e031fa5b-481b-4cb2-816a-e61c5285dd82",
+        "productName": "Handcrafted Plastic Shoes",
+        "quantity": 3,
+        "unitPrice": 935.49,
+        "category": "Garden"
+      },
+      {
+        "productId": "29c817ae-0046-44f2-8115-de988d529839",
+        "productName": "Frozen Silk Bacon",
+        "quantity": 5,
+        "unitPrice": 765.29,
+        "category": "Music"
+      }
+    ],
+    "billing": {
+      "subtotal": 12710.02,
+      "tax": 1016.8,
+      "shippingCost": 741.99,
+      "total": 14468.81,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "3604-135148-1165",
+        "bankName": "Zieme - Auer"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T13:29:46.241Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "7032 Kuphal Light",
+        "city": "North Aditya",
+        "state": "Iowa",
+        "zipCode": "54156",
+        "country": "Isle of Man"
+      },
+      "method": "Standard",
+      "trackingNumber": "QWG0R7PC5QSO",
+      "estimatedDelivery": "2025-07-26T02:58:40.073Z"
+    },
+    "status": "PENDING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T22:56:15.597Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T22:57:08.347Z",
+        "comment": "Order pending"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "9b7e:cd93:45db:c8ad:9ca0:b26e:98ad:26ee"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/565.60 (KHTML, like Gecko) Chrome/61.6.11.15 Safari/543.72 Edg/128.2.3.13",
+      "sessionId": "b467f2b0-9657-47c3-be78-65bdcc8b4224"
+    }
+  },
+  {
+    "transactionId": "da8c1b74-e284-476f-a2d2-a8c43b440f37",
+    "orderId": "ORD-HDLZHFG2",
+    "customerId": "e980fae6-3ab3-4be4-a146-472046957e6e",
+    "customerDetails": {
+      "name": "Sylvester Kemmer",
+      "email": "Braulio15@hotmail.com",
+      "phone": "972.255.4763 x5316"
+    },
+    "orderDate": "2025-02-27T22:36:19.545Z",
+    "items": [
+      {
+        "productId": "e0aabd11-fa9b-4d4c-8ead-54e00aa6fb71",
+        "productName": "Awesome Steel Chair",
+        "quantity": 2,
+        "unitPrice": 533.58,
+        "category": "Outdoors"
+      }
+    ],
+    "billing": {
+      "subtotal": 1067.16,
+      "tax": 85.37,
+      "shippingCost": 555.45,
+      "total": 1707.98,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Mckenzie.Hammes54@upi"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-28T03:20:44.407Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "15820 W 5th Street",
+        "city": "Beiermouth",
+        "state": "Louisiana",
+        "zipCode": "89988-7385",
+        "country": "Romania"
+      },
+      "method": "Next Day",
+      "trackingNumber": "GWHRDOABF2LM",
+      "estimatedDelivery": "2025-12-07T19:46:53.888Z"
+    },
+    "status": "PENDING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T23:08:07.772Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T22:18:45.973Z",
+        "comment": "Order pending"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "44.79.89.199"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_15_7) AppleWebKit/565.98.83 (KHTML, like Gecko) Chrome/125.4.14.0 Safari/548.73.94",
+      "sessionId": "42602cee-2dd6-4747-8ece-054d3c7a362e"
+    }
+  },
+  {
+    "transactionId": "6a3f49d4-4f9c-4abb-b5b7-491fe3431b3b",
+    "orderId": "ORD-79DX6LMN",
+    "customerId": "91b60043-bd6d-40f6-accf-3f3e89b4204d",
+    "customerDetails": {
+      "name": "Derrick Mante",
+      "email": "Dean_Veum@yahoo.com",
+      "phone": "399-434-8997"
+    },
+    "orderDate": "2025-02-28T00:40:11.618Z",
+    "items": [
+      {
+        "productId": "fad3a91a-27d5-4ae1-9861-fa1bc228c8fd",
+        "productName": "Rustic Wooden Towels",
+        "quantity": 3,
+        "unitPrice": 113.35,
+        "category": "Home"
+      },
+      {
+        "productId": "cadb8571-d715-4644-8484-2602ec74f270",
+        "productName": "Intelligent Metal Keyboard",
+        "quantity": 1,
+        "unitPrice": 789.29,
+        "category": "Electronics"
+      },
+      {
+        "productId": "783ac91c-6210-40f3-851e-510855239fdf",
+        "productName": "Awesome Bamboo Cheese",
+        "quantity": 4,
+        "unitPrice": 554.69,
+        "category": "Music"
+      }
+    ],
+    "billing": {
+      "subtotal": 3348.1,
+      "tax": 267.85,
+      "shippingCost": 650.45,
+      "total": 4266.4,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "3759-456263-91109",
+        "bankName": "Okuneva and Sons"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T17:07:21.011Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "907 Stoney Lane",
+        "city": "Meriden",
+        "state": "South Carolina",
+        "zipCode": "53686",
+        "country": "Poland"
+      },
+      "method": "Standard",
+      "trackingNumber": "NHSUWV8VKTCS",
+      "estimatedDelivery": "2025-12-07T05:59:00.714Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T18:07:40.825Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-27T14:35:09.937Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "157.202.199.88"
+      },
+      "userAgent": "FakerBot/9.13.10",
+      "sessionId": "0ab62156-6949-44bd-8d47-25b9904b9cec"
+    }
+  },
+  {
+    "transactionId": "9657d24f-a6fa-4aa0-bb0c-28a91de2a12c",
+    "orderId": "ORD-6OEBEGJV",
+    "customerId": "36f22b2b-6c3a-49ea-8794-a7761748c714",
+    "customerDetails": {
+      "name": "Edwin Gutmann",
+      "email": "Kylie68@gmail.com",
+      "phone": "330-444-7628 x4700"
+    },
+    "orderDate": "2025-02-27T23:30:43.073Z",
+    "items": [
+      {
+        "productId": "e2fc24e2-be5e-4579-9d57-25425c380314",
+        "productName": "Ergonomic Rubber Bacon",
+        "quantity": 3,
+        "unitPrice": 133.75,
+        "category": "Games"
+      }
+    ],
+    "billing": {
+      "subtotal": 401.25,
+      "tax": 32.1,
+      "shippingCost": 404.99,
+      "total": 838.34,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "PayPal"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T16:05:48.774Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "88334 Nightingale Close",
+        "city": "Bednarstad",
+        "state": "Massachusetts",
+        "zipCode": "18973-0391",
+        "country": "Norway"
+      },
+      "method": "Standard",
+      "trackingNumber": "QNPN6VFFSVNZ",
+      "estimatedDelivery": "2025-05-30T16:37:47.586Z"
+    },
+    "status": "PROCESSING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T19:29:25.298Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PROCESSING",
+        "timestamp": "2025-02-27T19:45:35.836Z",
+        "comment": "Order processing"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "151.237.82.139"
+      },
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:112.0) Gecko/20100101 Firefox/87.0",
+      "sessionId": "5282e9ef-b04a-453e-8cd4-97237a9dda11"
+    }
+  },
+  {
+    "transactionId": "ac5dc8c9-78b9-4961-a454-dbcc2df08eb3",
+    "orderId": "ORD-8Q7VZKFN",
+    "customerId": "5b0cd677-9050-4aa3-9f30-a55cc5886953",
+    "customerDetails": {
+      "name": "Frederick Grant",
+      "email": "Joany39@gmail.com",
+      "phone": "1-251-316-5099 x36242"
+    },
+    "orderDate": "2025-02-27T23:54:38.658Z",
+    "items": [
+      {
+        "productId": "5d10c916-d48a-432c-b5de-fae49e9f5a2a",
+        "productName": "Tasty Plastic Shirt",
+        "quantity": 2,
+        "unitPrice": 865.36,
+        "category": "Toys"
+      }
+    ],
+    "billing": {
+      "subtotal": 1730.72,
+      "tax": 138.46,
+      "shippingCost": 20.85,
+      "total": 1890.03,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "PayPal"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T22:53:18.032Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "6538 N Court Street",
+        "city": "Duluth",
+        "state": "New Hampshire",
+        "zipCode": "55145",
+        "country": "Iraq"
+      },
+      "method": "Express",
+      "trackingNumber": "IWNNEUPFEQ5O",
+      "estimatedDelivery": "2025-03-13T16:45:50.060Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T18:51:03.672Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-27T11:11:06.150Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "171.216.124.128"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_15_7) AppleWebKit/543.79.92 (KHTML, like Gecko) Chrome/118.5.0.0 Safari/576.62.73",
+      "sessionId": "ff6c010f-a0f2-4243-a67e-269eb13360ab"
+    }
+  },
+  {
+    "transactionId": "4eacaf12-f973-4135-99d2-afa54cde7e3e",
+    "orderId": "ORD-LP7Y7VWJ",
+    "customerId": "5bcaf07d-a55b-44d6-aee2-3e646389f23c",
+    "customerDetails": {
+      "name": "Kristina Dare",
+      "email": "Eloise_Kerluke@hotmail.com",
+      "phone": "452.996.9356 x07828"
+    },
+    "orderDate": "2025-02-28T03:08:57.937Z",
+    "items": [
+      {
+        "productId": "bfd08d25-c2fc-4d6c-9695-1b416e681463",
+        "productName": "Intelligent Wooden Cheese",
+        "quantity": 2,
+        "unitPrice": 125.99,
+        "category": "Clothing"
+      },
+      {
+        "productId": "798ab430-1ebf-47f2-ba1a-c5a2a8cd2a5d",
+        "productName": "Tasty Wooden Bike",
+        "quantity": 2,
+        "unitPrice": 981.6,
+        "category": "Industrial"
+      }
+    ],
+    "billing": {
+      "subtotal": 2215.18,
+      "tax": 177.21,
+      "shippingCost": 361.65,
+      "total": 2754.04,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Nya37@upi"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T21:12:36.927Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "776 Greenfelder Place",
+        "city": "Zenastead",
+        "state": "Maine",
+        "zipCode": "74892-2292",
+        "country": "Honduras"
+      },
+      "method": "Standard",
+      "trackingNumber": "K2MMALPCF2FY",
+      "estimatedDelivery": "2025-12-22T20:44:22.200Z"
+    },
+    "status": "SHIPPED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T21:01:10.658Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "SHIPPED",
+        "timestamp": "2025-02-28T05:46:37.164Z",
+        "comment": "Order shipped"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "2db3:b07e:4cac:d9a1:5e7d:280c:9e8e:aeea"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_0 like Mac OS X) AppleWebKit/592.58.30 (KHTML, like Gecko) Version/12_3 Mobile/15E148 Safari/556.47",
+      "sessionId": "7dfc4d70-e064-4f57-956c-23e766bfb572"
+    }
+  },
+  {
+    "transactionId": "a8779e1e-7146-4b53-ba0c-1b0e06ba9696",
+    "orderId": "ORD-UIXUJUQN",
+    "customerId": "d8b29f67-a975-46f5-b7d2-c57089ea31cf",
+    "customerDetails": {
+      "name": "Olive Waelchi",
+      "email": "Cleora15@gmail.com",
+      "phone": "1-612-571-3340"
+    },
+    "orderDate": "2025-02-27T17:30:50.526Z",
+    "items": [
+      {
+        "productId": "241e7521-dc86-4d78-b776-05db19694ddd",
+        "productName": "Recycled Aluminum Towels",
+        "quantity": 2,
+        "unitPrice": 671.59,
+        "category": "Shoes"
+      },
+      {
+        "productId": "4ce34f87-ab80-4ced-b34a-fd2ff06b00c0",
+        "productName": "Fantastic Marble Salad",
+        "quantity": 1,
+        "unitPrice": 212.59,
+        "category": "Grocery"
+      },
+      {
+        "productId": "1f52ee40-3aff-46ee-840e-db265540b294",
+        "productName": "Recycled Metal Chips",
+        "quantity": 5,
+        "unitPrice": 272.69,
+        "category": "Kids"
+      }
+    ],
+    "billing": {
+      "subtotal": 2919.22,
+      "tax": 233.54,
+      "shippingCost": 544.15,
+      "total": 3696.91,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "3470-690315-67560",
+        "bankName": "Skiles and Sons"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T20:39:04.176Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "78290 Carter Crescent",
+        "city": "North Angelofield",
+        "state": "Massachusetts",
+        "zipCode": "41636",
+        "country": "Isle of Man"
+      },
+      "method": "Standard",
+      "trackingNumber": "CR0ARQAPWSQA",
+      "estimatedDelivery": "2025-03-05T19:15:13.053Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T07:23:48.632Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-28T01:07:35.421Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "54.16.67.136"
+      },
+      "userAgent": "Googlebot/2.1 (+http://www.google.com/bot.html)",
+      "sessionId": "c5aede19-a248-4977-803c-c1f976482313"
+    }
+  },
+  {
+    "transactionId": "6f1a69cd-b41c-4296-9d30-56d00d21734e",
+    "orderId": "ORD-DDLBY40E",
+    "customerId": "b380b834-7199-4131-9a38-31a770194438",
+    "customerDetails": {
+      "name": "Alberto Treutel",
+      "email": "Marlene_Hayes@yahoo.com",
+      "phone": "(781) 857-9000 x3069"
+    },
+    "orderDate": "2025-02-27T09:12:11.836Z",
+    "items": [
+      {
+        "productId": "fc0b79d5-8c85-4fc2-8f4b-399ded94a3f2",
+        "productName": "Licensed Steel Fish",
+        "quantity": 4,
+        "unitPrice": 657.25,
+        "category": "Jewelry"
+      },
+      {
+        "productId": "50c83132-0b1f-4cb7-95a2-68aa75fb92e4",
+        "productName": "Gorgeous Marble Computer",
+        "quantity": 2,
+        "unitPrice": 427.09,
+        "category": "Garden"
+      },
+      {
+        "productId": "add208f0-a192-45a4-817d-352c8467f26c",
+        "productName": "Small Ceramic Pants",
+        "quantity": 4,
+        "unitPrice": 234.39,
+        "category": "Tools"
+      },
+      {
+        "productId": "49c74d43-286b-49ba-a1f3-c6c456902cb2",
+        "productName": "Sleek Bamboo Mouse",
+        "quantity": 1,
+        "unitPrice": 525.79,
+        "category": "Toys"
+      }
+    ],
+    "billing": {
+      "subtotal": 4946.53,
+      "tax": 395.72,
+      "shippingCost": 368.69,
+      "total": 5710.94,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "PayPal"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-27T11:42:19.830Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "4710 Windsor Close",
+        "city": "Boca Raton",
+        "state": "Louisiana",
+        "zipCode": "75660-7175",
+        "country": "Argentina"
+      },
+      "method": "Standard",
+      "trackingNumber": "8Z4S5OR3GYUU",
+      "estimatedDelivery": "2025-12-25T01:22:48.129Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T02:58:38.325Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-27T22:11:39.845Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "54.127.0.219"
+      },
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/87.0",
+      "sessionId": "d38044d8-0b44-47fe-b861-3e26ed1e28b5"
+    }
+  },
+  {
+    "transactionId": "b192949d-a920-4e2e-aa51-99f815536faa",
+    "orderId": "ORD-B0FZ7D6P",
+    "customerId": "e1d403ab-d2c8-4d96-a50c-389e5eb5c485",
+    "customerDetails": {
+      "name": "Jeff Hahn",
+      "email": "Micaela_Veum74@hotmail.com",
+      "phone": "1-713-446-2955"
+    },
+    "orderDate": "2025-02-27T20:37:40.608Z",
+    "items": [
+      {
+        "productId": "3df7916f-4bd8-4112-bfda-30c72d09e4e2",
+        "productName": "Luxurious Plastic Tuna",
+        "quantity": 4,
+        "unitPrice": 970.49,
+        "category": "Health"
+      },
+      {
+        "productId": "7fb890e3-a454-40a8-ba15-9901464e44c8",
+        "productName": "Recycled Silk Fish",
+        "quantity": 4,
+        "unitPrice": 46.35,
+        "category": "Kids"
+      },
+      {
+        "productId": "0e6d2f18-7951-45ec-9922-f0acedc813d6",
+        "productName": "Incredible Steel Sausages",
+        "quantity": 4,
+        "unitPrice": 755.6,
+        "category": "Electronics"
+      },
+      {
+        "productId": "6d6a364b-9169-42b1-bc73-0d0544780781",
+        "productName": "Electronic Plastic Shoes",
+        "quantity": 5,
+        "unitPrice": 603.58,
+        "category": "Grocery"
+      }
+    ],
+    "billing": {
+      "subtotal": 10107.66,
+      "tax": 808.61,
+      "shippingCost": 857.24,
+      "total": 11773.51,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "3796-004068-94394",
+        "expiryDate": "2025-05",
+        "cardHolder": "Kendra Padberg"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-28T00:01:50.680Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "86020 Gladys Forge",
+        "city": "Meredithbury",
+        "state": "Mississippi",
+        "zipCode": "73751-5015",
+        "country": "Togo"
+      },
+      "method": "Standard",
+      "trackingNumber": "WDMHOYITSRGF",
+      "estimatedDelivery": "2025-05-12T09:34:18.064Z"
+    },
+    "status": "REFUNDED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T01:52:40.282Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "REFUNDED",
+        "timestamp": "2025-02-27T21:42:59.746Z",
+        "comment": "Order refunded"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "0ff9:6a70:4f1e:c480:8ece:003d:ffca:eeec"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:107.0) Gecko/20100101 Firefox/103.0",
+      "sessionId": "38583d62-5a9d-4052-9fd8-ff2424e71d37"
+    }
+  },
+  {
+    "transactionId": "b1b7d431-4535-4086-938e-bad60f27c15f",
+    "orderId": "ORD-2RZ1XLLE",
+    "customerId": "f6a304ea-5a7d-48cc-8a45-85815e9caf03",
+    "customerDetails": {
+      "name": "Jesus Nader",
+      "email": "Jeramy12@hotmail.com",
+      "phone": "1-551-298-0543"
+    },
+    "orderDate": "2025-02-28T00:41:18.875Z",
+    "items": [
+      {
+        "productId": "4ed518f8-0e54-4f42-9bf7-2447c3bc456d",
+        "productName": "Recycled Metal Sausages",
+        "quantity": 5,
+        "unitPrice": 624.99,
+        "category": "Kids"
+      },
+      {
+        "productId": "ff8de182-c373-46f2-b8ad-3a2a42bd4a7d",
+        "productName": "Handmade Ceramic Ball",
+        "quantity": 5,
+        "unitPrice": 818.69,
+        "category": "Health"
+      },
+      {
+        "productId": "09a3ba09-a197-4703-b1e4-2b5d60ddabbc",
+        "productName": "Gorgeous Wooden Pizza",
+        "quantity": 1,
+        "unitPrice": 193.89,
+        "category": "Health"
+      },
+      {
+        "productId": "2c745012-1578-4b03-8097-6e2a6b04bbf1",
+        "productName": "Incredible Silk Ball",
+        "quantity": 5,
+        "unitPrice": 29.39,
+        "category": "Home"
+      }
+    ],
+    "billing": {
+      "subtotal": 7559.24,
+      "tax": 604.74,
+      "shippingCost": 421.99,
+      "total": 8585.97,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "6011-1640-6514-6092",
+        "expiryDate": "2025-03",
+        "cardHolder": "Sylvester Ward Jr."
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T09:41:51.175Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "84975 Linnie Neck",
+        "city": "West Coyland",
+        "state": "Nebraska",
+        "zipCode": "16923",
+        "country": "Guernsey"
+      },
+      "method": "Express",
+      "trackingNumber": "ZDHB6CU15PUW",
+      "estimatedDelivery": "2025-08-21T09:03:33.621Z"
+    },
+    "status": "SHIPPED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T03:03:19.603Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "SHIPPED",
+        "timestamp": "2025-02-28T04:21:24.724Z",
+        "comment": "Order shipped"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "29.61.170.10"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/544.71.55 (KHTML, like Gecko) Version/16.1 Safari/583.67.98",
+      "sessionId": "765467a8-26f5-44ea-af63-32a2bbe48cb2"
+    }
+  },
+  {
+    "transactionId": "26bb3146-d7ca-4049-ac4a-bf590e8ac177",
+    "orderId": "ORD-URZXVAIM",
+    "customerId": "a43dffe8-8596-43cd-80cc-73240dacab5a",
+    "customerDetails": {
+      "name": "William Boyle",
+      "email": "Giles_West60@gmail.com",
+      "phone": "(284) 341-6016 x03396"
+    },
+    "orderDate": "2025-02-28T04:08:25.472Z",
+    "items": [
+      {
+        "productId": "1104ca29-7757-4989-b7ad-15fa36c68ce8",
+        "productName": "Refined Wooden Shoes",
+        "quantity": 3,
+        "unitPrice": 622.49,
+        "category": "Movies"
+      },
+      {
+        "productId": "52bbb739-e58a-4841-9d4e-1365879906d7",
+        "productName": "Tasty Rubber Bike",
+        "quantity": 3,
+        "unitPrice": 858.99,
+        "category": "Kids"
+      }
+    ],
+    "billing": {
+      "subtotal": 4444.44,
+      "tax": 355.56,
+      "shippingCost": 497.25,
+      "total": 5297.25,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Walker_Gleason@upi"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T14:21:03.137Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "79694 Omari Harbors",
+        "city": "Port Bessie",
+        "state": "Arkansas",
+        "zipCode": "28744-6906",
+        "country": "Madagascar"
+      },
+      "method": "Express",
+      "trackingNumber": "ELTRHSIXMA6A",
+      "estimatedDelivery": "2025-03-21T16:50:51.299Z"
+    },
+    "status": "SHIPPED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T08:13:56.272Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "SHIPPED",
+        "timestamp": "2025-02-27T20:14:29.050Z",
+        "comment": "Order shipped"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "2af3:51ba:a29b:5bc5:5bdf:4bda:eec1:a379"
+      },
+      "userAgent": "FakerBot/5.8.2",
+      "sessionId": "4e76138e-ca6b-4353-b619-6cd215905e66"
+    }
+  },
+  {
+    "transactionId": "a5a08dec-3ce6-4239-ba8f-5ed00da7a5fd",
+    "orderId": "ORD-ZGYKPKH1",
+    "customerId": "6cf3415b-d7f8-43f9-9f30-952f5abf4bf6",
+    "customerDetails": {
+      "name": "Ed Abshire",
+      "email": "Alejandrin.Emard@gmail.com",
+      "phone": "935.499.7483 x5425"
+    },
+    "orderDate": "2025-02-28T05:27:31.512Z",
+    "items": [
+      {
+        "productId": "81e57a86-a460-4f9a-b62c-fdb2452d558c",
+        "productName": "Handmade Concrete Tuna",
+        "quantity": 1,
+        "unitPrice": 604.65,
+        "category": "Books"
+      },
+      {
+        "productId": "cd30e84f-2a8d-4a63-add9-559dd5965010",
+        "productName": "Handmade Bronze Cheese",
+        "quantity": 5,
+        "unitPrice": 559.65,
+        "category": "Games"
+      },
+      {
+        "productId": "871635aa-58ca-486a-85cb-50d90fd9f876",
+        "productName": "Electronic Rubber Keyboard",
+        "quantity": 3,
+        "unitPrice": 277.49,
+        "category": "Garden"
+      },
+      {
+        "productId": "1a55955d-fb3d-4f2f-b483-3b10ea308d14",
+        "productName": "Unbranded Cotton Hat",
+        "quantity": 5,
+        "unitPrice": 326.79,
+        "category": "Garden"
+      },
+      {
+        "productId": "7650b345-a5b6-40a8-a648-d29eaf0a6e59",
+        "productName": "Unbranded Wooden Fish",
+        "quantity": 4,
+        "unitPrice": 580.99,
+        "category": "Grocery"
+      }
+    ],
+    "billing": {
+      "subtotal": 8193.28,
+      "tax": 655.46,
+      "shippingCost": 357.99,
+      "total": 9206.73,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "6451-1974-3053-0506",
+        "bankName": "Feest and Sons"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-28T05:29:48.985Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "3917 Poplar Road",
+        "city": "North Larissafort",
+        "state": "Kentucky",
+        "zipCode": "05355-6893",
+        "country": "Saint Martin"
+      },
+      "method": "Express",
+      "trackingNumber": "COZFPUKXGJLB",
+      "estimatedDelivery": "2025-04-10T16:47:46.661Z"
+    },
+    "status": "REFUNDED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T12:40:56.823Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "REFUNDED",
+        "timestamp": "2025-02-27T20:26:36.163Z",
+        "comment": "Order refunded"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "236.189.64.28"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_15_7) AppleWebKit/602.73.95 (KHTML, like Gecko) Chrome/64.3.7.15 Safari/563.67.24",
+      "sessionId": "ac4f4944-29f3-4d2c-9f42-b4f85ee51955"
+    }
+  },
+  {
+    "transactionId": "23bacd58-b19f-4fbd-a697-33ed8ee056be",
+    "orderId": "ORD-HPROQKPV",
+    "customerId": "6d5b1196-c353-44e5-ac0b-4b4df847a072",
+    "customerDetails": {
+      "name": "Tammy Langworth",
+      "email": "Nicholas_Pouros83@gmail.com",
+      "phone": "1-751-514-3068 x060"
+    },
+    "orderDate": "2025-02-28T01:52:23.102Z",
+    "items": [
+      {
+        "productId": "f889796b-5fc6-4394-a366-c03ea2501431",
+        "productName": "Electronic Silk Chicken",
+        "quantity": 3,
+        "unitPrice": 917.29,
+        "category": "Baby"
+      },
+      {
+        "productId": "28508b1b-6ae1-4c79-8bc7-a8e07b0e4697",
+        "productName": "Refined Wooden Cheese",
+        "quantity": 1,
+        "unitPrice": 817.89,
+        "category": "Kids"
+      },
+      {
+        "productId": "aa79c671-f17f-4e23-9a8d-5d6c944326b1",
+        "productName": "Rustic Metal Fish",
+        "quantity": 3,
+        "unitPrice": 987.75,
+        "category": "Clothing"
+      },
+      {
+        "productId": "1d68bad4-2c8b-4703-8e44-477ee7f90f80",
+        "productName": "Generic Bamboo Mouse",
+        "quantity": 5,
+        "unitPrice": 208.19,
+        "category": "Industrial"
+      },
+      {
+        "productId": "36102b4c-eb8a-4628-b7eb-1197f3d6da1a",
+        "productName": "Electronic Ceramic Salad",
+        "quantity": 4,
+        "unitPrice": 718.49,
+        "category": "Kids"
+      }
+    ],
+    "billing": {
+      "subtotal": 10447.92,
+      "tax": 835.83,
+      "shippingCost": 972.19,
+      "total": 12255.94,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "3529-8461-3181-3414",
+        "expiryDate": "2025-04",
+        "cardHolder": "Claude Cormier"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T11:28:09.521Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "38035 N Maple Street",
+        "city": "Alexandroland",
+        "state": "Minnesota",
+        "zipCode": "11241",
+        "country": "Samoa"
+      },
+      "method": "Next Day",
+      "trackingNumber": "AW34OQPBMOFB",
+      "estimatedDelivery": "2025-03-27T03:31:13.069Z"
+    },
+    "status": "PROCESSING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T16:21:53.633Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PROCESSING",
+        "timestamp": "2025-02-27T15:58:23.069Z",
+        "comment": "Order processing"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "165.0.221.10"
+      },
+      "userAgent": "Googlebot/2.1 (+http://www.google.com/bot.html)",
+      "sessionId": "2e9496f1-fe40-4017-94a1-aa364144796f"
+    }
+  },
+  {
+    "transactionId": "fa9cba1f-8c2d-44cb-9ac4-3d29eb6d00c6",
+    "orderId": "ORD-KZUOSSGQ",
+    "customerId": "6845cb98-8190-4669-9ad6-765927c2c255",
+    "customerDetails": {
+      "name": "Theresa Labadie",
+      "email": "Dorris_Effertz@hotmail.com",
+      "phone": "(509) 877-1881"
+    },
+    "orderDate": "2025-02-27T23:14:02.278Z",
+    "items": [
+      {
+        "productId": "a02d63e8-2932-4207-a9f7-4338a8ec7c5b",
+        "productName": "Awesome Marble Pizza",
+        "quantity": 4,
+        "unitPrice": 708.69,
+        "category": "Computers"
+      },
+      {
+        "productId": "6ae84720-39ff-4b9d-9283-676dd497e28f",
+        "productName": "Handmade Plastic Cheese",
+        "quantity": 4,
+        "unitPrice": 706.19,
+        "category": "Toys"
+      },
+      {
+        "productId": "abf76bd7-9510-4a33-8c0f-06c8ed5c67fb",
+        "productName": "Handcrafted Aluminum Computer",
+        "quantity": 1,
+        "unitPrice": 509.29,
+        "category": "Books"
+      },
+      {
+        "productId": "85d323f0-322d-4e08-83c6-241bfdfd52d9",
+        "productName": "Unbranded Ceramic Shoes",
+        "quantity": 3,
+        "unitPrice": 603.1,
+        "category": "Kids"
+      }
+    ],
+    "billing": {
+      "subtotal": 7978.11,
+      "tax": 638.25,
+      "shippingCost": 333.05,
+      "total": 8949.41,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "3529-3048-8910-4453",
+        "bankName": "Stoltenberg - Boyer"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T19:48:45.328Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "468 Marjory Crescent",
+        "city": "South Portertown",
+        "state": "Maryland",
+        "zipCode": "71202",
+        "country": "Democratic Republic of the Congo"
+      },
+      "method": "Express",
+      "trackingNumber": "MQU0ZP74J2FZ",
+      "estimatedDelivery": "2025-08-25T22:52:33.318Z"
+    },
+    "status": "CANCELLED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T08:48:48.222Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "CANCELLED",
+        "timestamp": "2025-02-28T01:54:24.800Z",
+        "comment": "Order cancelled"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "b278:abea:dacd:5d1d:269a:cca2:6bcf:12fd"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_15_7) AppleWebKit/545.26.45 (KHTML, like Gecko) Chrome/96.7.2.12 Safari/547.38.20",
+      "sessionId": "316d7f94-d5f4-4446-afaa-16eff750ee96"
+    }
+  },
+  {
+    "transactionId": "8f8c0338-2e4c-4376-b187-98428407e477",
+    "orderId": "ORD-MSLJA72J",
+    "customerId": "44f49127-399a-4776-997a-b9a1592d836d",
+    "customerDetails": {
+      "name": "Mrs. Meredith Fadel",
+      "email": "Charlie58@hotmail.com",
+      "phone": "1-981-572-6631 x0904"
+    },
+    "orderDate": "2025-02-27T23:11:04.309Z",
+    "items": [
+      {
+        "productId": "f0e4eb68-1321-4fe3-b93b-38dfa536324a",
+        "productName": "Small Steel Tuna",
+        "quantity": 4,
+        "unitPrice": 366.92,
+        "category": "Sports"
+      }
+    ],
+    "billing": {
+      "subtotal": 1467.68,
+      "tax": 117.41,
+      "shippingCost": 447.99,
+      "total": 2033.08,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Rodger_Roberts75@upi"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-27T18:45:40.146Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "646 The Ridings",
+        "city": "South Orland",
+        "state": "Missouri",
+        "zipCode": "15831",
+        "country": "Serbia"
+      },
+      "method": "Standard",
+      "trackingNumber": "FBRRLBVONCDY",
+      "estimatedDelivery": "2025-12-09T07:13:44.981Z"
+    },
+    "status": "CANCELLED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T11:26:44.858Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "CANCELLED",
+        "timestamp": "2025-02-27T08:27:12.693Z",
+        "comment": "Order cancelled"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "fcdc:6bd1:f7c8:39d5:deee:e5b2:38fa:cdd3"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/604.87.92 (KHTML, like Gecko) Version/16.1 Safari/554.78.1",
+      "sessionId": "1d974863-e3b6-44a0-8383-89941f629080"
+    }
+  },
+  {
+    "transactionId": "d37c9200-4930-4468-82ef-f9d07b566e9c",
+    "orderId": "ORD-FCGHHPHF",
+    "customerId": "f326f337-ee5b-479b-93bf-2ac964a54c94",
+    "customerDetails": {
+      "name": "Gustavo Breitenberg",
+      "email": "Flo6@hotmail.com",
+      "phone": "792-310-5634 x14641"
+    },
+    "orderDate": "2025-02-27T13:29:57.877Z",
+    "items": [
+      {
+        "productId": "2e22a85e-99f4-4ae1-a708-fd3739d70b0d",
+        "productName": "Practical Steel Keyboard",
+        "quantity": 5,
+        "unitPrice": 126.63,
+        "category": "Garden"
+      },
+      {
+        "productId": "eb7b935b-f553-4443-aaba-dd427d7a1cfc",
+        "productName": "Bespoke Granite Cheese",
+        "quantity": 4,
+        "unitPrice": 315.25,
+        "category": "Electronics"
+      },
+      {
+        "productId": "a71dc949-9acf-46e4-abc6-d72176943e6b",
+        "productName": "Intelligent Wooden Pizza",
+        "quantity": 3,
+        "unitPrice": 709.19,
+        "category": "Shoes"
+      }
+    ],
+    "billing": {
+      "subtotal": 4021.72,
+      "tax": 321.74,
+      "shippingCost": 28.25,
+      "total": 4371.71,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "3528-3688-4186-8316",
+        "expiryDate": "2025-06",
+        "cardHolder": "Christina Cruickshank"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-28T00:14:34.386Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "7914 N State Street",
+        "city": "Gislasonburgh",
+        "state": "Kansas",
+        "zipCode": "55149-6722",
+        "country": "New Zealand"
+      },
+      "method": "Next Day",
+      "trackingNumber": "TCJVDNOGAIZL",
+      "estimatedDelivery": "2025-04-24T11:14:46.778Z"
+    },
+    "status": "CANCELLED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T12:00:29.174Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "CANCELLED",
+        "timestamp": "2025-02-27T17:42:01.442Z",
+        "comment": "Order cancelled"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "9bbf:4df3:cddc:d55b:bc4b:a1f7:b110:871b"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/554.60.27 (KHTML, like Gecko) Version/16.1 Safari/579.95.92",
+      "sessionId": "15b8cdac-17e5-4312-bd87-8c32f391443b"
+    }
+  },
+  {
+    "transactionId": "a35fd327-dd0c-455d-8463-874153f26dc9",
+    "orderId": "ORD-VNDSHTYI",
+    "customerId": "ab1f8332-98e7-4a19-8464-73792821c4d1",
+    "customerDetails": {
+      "name": "Cecil Roberts",
+      "email": "Elinore_Rogahn@hotmail.com",
+      "phone": "599.666.3448 x94521"
+    },
+    "orderDate": "2025-02-28T00:13:32.893Z",
+    "items": [
+      {
+        "productId": "c05fe724-f4e1-4ea0-8a24-c1b0ef7425fc",
+        "productName": "Intelligent Gold Sausages",
+        "quantity": 4,
+        "unitPrice": 301.09,
+        "category": "Clothing"
+      },
+      {
+        "productId": "948f20c4-6dca-41b3-857a-cb5c7b9e8f24",
+        "productName": "Frozen Wooden Cheese",
+        "quantity": 1,
+        "unitPrice": 393.99,
+        "category": "Music"
+      }
+    ],
+    "billing": {
+      "subtotal": 1598.35,
+      "tax": 127.87,
+      "shippingCost": 338.95,
+      "total": 2065.17,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Nels_Blick@upi"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-27T20:09:41.818Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "504 Keyshawn Station",
+        "city": "South Ian",
+        "state": "Louisiana",
+        "zipCode": "93364-2725",
+        "country": "Macao"
+      },
+      "method": "Next Day",
+      "trackingNumber": "RBEFHEOMTNSZ",
+      "estimatedDelivery": "2026-02-18T14:06:34.976Z"
+    },
+    "status": "CANCELLED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T06:12:32.439Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "CANCELLED",
+        "timestamp": "2025-02-27T11:04:23.725Z",
+        "comment": "Order cancelled"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "a3cd:1c24:6ba8:ba2f:6ee3:dc73:c5a7:a28a"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/98.0",
+      "sessionId": "57d0cddc-4a2c-42ea-a787-90eaa484fb69"
+    }
+  },
+  {
+    "transactionId": "8b13716f-6f07-4ee4-8f58-74c22d5e430b",
+    "orderId": "ORD-ICCMAH9C",
+    "customerId": "cecd565a-f262-4793-a03a-2bf506b34f3c",
+    "customerDetails": {
+      "name": "Brittany Kautzer",
+      "email": "Leone_Collins@yahoo.com",
+      "phone": "(465) 695-3087 x50471"
+    },
+    "orderDate": "2025-02-27T08:31:16.904Z",
+    "items": [
+      {
+        "productId": "29d97e3d-5603-4150-8a29-175eac110953",
+        "productName": "Electronic Plastic Fish",
+        "quantity": 4,
+        "unitPrice": 773,
+        "category": "Books"
+      },
+      {
+        "productId": "47f47851-4766-483d-b27c-9ff21b831714",
+        "productName": "Handcrafted Ceramic Shirt",
+        "quantity": 3,
+        "unitPrice": 193.15,
+        "category": "Outdoors"
+      },
+      {
+        "productId": "ad9caabb-3a4e-4308-b567-83d73ad53890",
+        "productName": "Generic Steel Ball",
+        "quantity": 4,
+        "unitPrice": 793.99,
+        "category": "Books"
+      },
+      {
+        "productId": "b91c488a-2446-46f6-845b-1fead14ec761",
+        "productName": "Refined Granite Soap",
+        "quantity": 1,
+        "unitPrice": 39.35,
+        "category": "Toys"
+      }
+    ],
+    "billing": {
+      "subtotal": 6886.76,
+      "tax": 550.94,
+      "shippingCost": 813.85,
+      "total": 8251.55,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "3529-3123-7841-0497",
+        "expiryDate": "2025-03",
+        "cardHolder": "Lynda Schinner Jr."
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T23:05:47.043Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "62777 Else Junction",
+        "city": "Wildermanport",
+        "state": "Michigan",
+        "zipCode": "52450",
+        "country": "Iceland"
+      },
+      "method": "Standard",
+      "trackingNumber": "XFFE83V50PT3",
+      "estimatedDelivery": "2025-12-08T18:23:05.296Z"
+    },
+    "status": "PENDING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T11:00:18.806Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T23:00:40.351Z",
+        "comment": "Order pending"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "1d19:d685:d663:dd57:512f:23ce:cafc:c607"
+      },
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-G998B) AppleWebKit/539.53 (KHTML, like Gecko) Chrome/107.2.5.15 Mobile Safari/552.9",
+      "sessionId": "dd06e271-669d-4e9b-a866-76220598c702"
+    }
+  },
+  {
+    "transactionId": "d9c28891-9308-4156-8713-16c47d238925",
+    "orderId": "ORD-YVBTTPAF",
+    "customerId": "314bf46c-a8eb-4b00-98c5-411ad6958646",
+    "customerDetails": {
+      "name": "Jimmy Beatty-Bechtelar",
+      "email": "Ada_Turner@yahoo.com",
+      "phone": "950-922-5377 x9600"
+    },
+    "orderDate": "2025-02-27T20:57:28.805Z",
+    "items": [
+      {
+        "productId": "b8dcd9a2-8949-486b-a028-101b094d9e83",
+        "productName": "Gorgeous Metal Keyboard",
+        "quantity": 3,
+        "unitPrice": 825.97,
+        "category": "Shoes"
+      },
+      {
+        "productId": "2ad8547d-3510-42ed-845a-719abfcb93f1",
+        "productName": "Soft Concrete Shirt",
+        "quantity": 2,
+        "unitPrice": 230.19,
+        "category": "Toys"
+      }
+    ],
+    "billing": {
+      "subtotal": 2938.29,
+      "tax": 235.06,
+      "shippingCost": 822.35,
+      "total": 3995.7,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "3635-675269-8484",
+        "bankName": "Hirthe, Schimmel and Hudson"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-27T12:52:00.850Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "12626 Long Lane",
+        "city": "East Kayleehaven",
+        "state": "Kentucky",
+        "zipCode": "19083",
+        "country": "Sierra Leone"
+      },
+      "method": "Next Day",
+      "trackingNumber": "MN0CADRTYEJW",
+      "estimatedDelivery": "2025-09-13T16:17:40.904Z"
+    },
+    "status": "PENDING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T10:22:37.069Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T07:38:38.578Z",
+        "comment": "Order pending"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "249.3.232.191"
+      },
+      "userAgent": "Googlebot/2.1 (+http://www.google.com/bot.html)",
+      "sessionId": "c4df5fbb-58a0-48c5-9dda-9469f79f8075"
+    }
+  },
+  {
+    "transactionId": "4e09a010-7f4f-4518-a429-d8a0ceeaf9d6",
+    "orderId": "ORD-IZHHPHS4",
+    "customerId": "bcc534e8-a78f-4cc0-8bac-c8ed8f749d1b",
+    "customerDetails": {
+      "name": "Dr. Martha Kohler",
+      "email": "Mariah79@yahoo.com",
+      "phone": "(786) 496-7080"
+    },
+    "orderDate": "2025-02-27T11:53:33.009Z",
+    "items": [
+      {
+        "productId": "095cc798-43f4-4cb4-a6b1-a94fc08f3ae2",
+        "productName": "Awesome Bamboo Pants",
+        "quantity": 2,
+        "unitPrice": 110.35,
+        "category": "Home"
+      }
+    ],
+    "billing": {
+      "subtotal": 220.7,
+      "tax": 17.66,
+      "shippingCost": 467.9,
+      "total": 706.26,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "Apple Pay"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-28T04:39:04.383Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "5222 Beth Spring",
+        "city": "Bernierton",
+        "state": "South Carolina",
+        "zipCode": "28511",
+        "country": "Liberia"
+      },
+      "method": "Next Day",
+      "trackingNumber": "CYOTBPBAVSWJ",
+      "estimatedDelivery": "2025-11-17T13:57:31.363Z"
+    },
+    "status": "SHIPPED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T15:22:28.976Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "SHIPPED",
+        "timestamp": "2025-02-28T07:36:58.235Z",
+        "comment": "Order shipped"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "13.216.68.84"
+      },
+      "userAgent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.3; Trident/4.0)",
+      "sessionId": "180f89f6-81ea-4d95-a08a-724a1c239cfe"
+    }
+  },
+  {
+    "transactionId": "7a04353e-9ef5-4824-8a33-9cd9ff820fee",
+    "orderId": "ORD-QNQCDDIL",
+    "customerId": "a7ee7935-aec9-4747-8cd6-a6383e25ccc4",
+    "customerDetails": {
+      "name": "Pam Walter IV",
+      "email": "Willy_King@yahoo.com",
+      "phone": "457-911-8615"
+    },
+    "orderDate": "2025-02-27T17:09:05.081Z",
+    "items": [
+      {
+        "productId": "062f8ebf-68ee-4f34-90dc-b995258ce824",
+        "productName": "Unbranded Concrete Bacon",
+        "quantity": 4,
+        "unitPrice": 422.15,
+        "category": "Electronics"
+      },
+      {
+        "productId": "daf96e7b-c86a-4ec3-9bdd-e7d3b43e34cc",
+        "productName": "Bespoke Bronze Tuna",
+        "quantity": 3,
+        "unitPrice": 407.69,
+        "category": "Outdoors"
+      },
+      {
+        "productId": "e0a31f73-bd53-45b5-b264-74f46b698e8a",
+        "productName": "Generic Rubber Pants",
+        "quantity": 3,
+        "unitPrice": 557.39,
+        "category": "Sports"
+      }
+    ],
+    "billing": {
+      "subtotal": 4583.84,
+      "tax": 366.71,
+      "shippingCost": 33.19,
+      "total": 4983.74,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "2429-0486-1645-0142",
+        "bankName": "Lockman Group"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-28T04:07:14.577Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "7458 Turner Way",
+        "city": "West Brooklyn",
+        "state": "South Carolina",
+        "zipCode": "28636-7648",
+        "country": "Aruba"
+      },
+      "method": "Express",
+      "trackingNumber": "KHEPJI5TXUEK",
+      "estimatedDelivery": "2026-01-08T12:35:40.252Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T11:11:33.388Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-27T08:45:41.012Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "60fe:9b7b:deea:ce3e:eacb:d41d:b9a5:8fd0"
+      },
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:117.0) Gecko/20100101 Firefox/130.0",
+      "sessionId": "767e7e89-dcc5-4fcc-a8f1-54766a49f884"
+    }
+  },
+  {
+    "transactionId": "fdd3c5ce-0253-496e-8ac5-6b5c2fd4e307",
+    "orderId": "ORD-IJVUTIRL",
+    "customerId": "b69ef824-a949-46f5-bf50-b242cb4f6ced",
+    "customerDetails": {
+      "name": "Courtney Roob",
+      "email": "Dimitri.McKenzie48@hotmail.com",
+      "phone": "794.548.5138 x590"
+    },
+    "orderDate": "2025-02-28T01:42:37.547Z",
+    "items": [
+      {
+        "productId": "a6a775a2-2b25-4774-80dd-ab2ef643be6e",
+        "productName": "Soft Gold Chicken",
+        "quantity": 2,
+        "unitPrice": 366.95,
+        "category": "Shoes"
+      }
+    ],
+    "billing": {
+      "subtotal": 733.9,
+      "tax": 58.71,
+      "shippingCost": 216.19,
+      "total": 1008.8,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Murray_Kessler@upi"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T18:10:35.968Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "252 School Street",
+        "city": "Cartwrightstead",
+        "state": "Maine",
+        "zipCode": "11171-3910",
+        "country": "Jordan"
+      },
+      "method": "Standard",
+      "trackingNumber": "4ZBNBB4I2REX",
+      "estimatedDelivery": "2025-04-02T05:04:34.645Z"
+    },
+    "status": "SHIPPED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T20:16:48.857Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "SHIPPED",
+        "timestamp": "2025-02-27T17:30:43.797Z",
+        "comment": "Order shipped"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "68fd:2a23:89ce:2ab7:f525:47ab:18e6:80b9"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_0 like Mac OS X) AppleWebKit/574.27.6 (KHTML, like Gecko) Version/18_1 Mobile/15E148 Safari/583.0",
+      "sessionId": "ec88b5ce-743c-4e6d-9ccd-0404f49e2d38"
+    }
+  },
+  {
+    "transactionId": "13495fab-d412-49d8-b55a-285189dc3d70",
+    "orderId": "ORD-KRM6ZNEA",
+    "customerId": "7ce57803-d44a-4dab-95d7-5bce22ff1f3b",
+    "customerDetails": {
+      "name": "Patty Gulgowski",
+      "email": "Edmond31@yahoo.com",
+      "phone": "(988) 552-4429 x01097"
+    },
+    "orderDate": "2025-02-27T12:09:51.597Z",
+    "items": [
+      {
+        "productId": "697abb66-ed2b-41c9-8400-c9145f94b2f9",
+        "productName": "Tasty Plastic Computer",
+        "quantity": 5,
+        "unitPrice": 617.85,
+        "category": "Electronics"
+      },
+      {
+        "productId": "7e9e639e-cbd1-4319-b592-1ed281c2f126",
+        "productName": "Rustic Marble Gloves",
+        "quantity": 3,
+        "unitPrice": 975.25,
+        "category": "Books"
+      }
+    ],
+    "billing": {
+      "subtotal": 6015,
+      "tax": 481.2,
+      "shippingCost": 623.45,
+      "total": 7119.65,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "6445-9524-4472-1908",
+        "bankName": "Monahan, Farrell and Paucek"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-27T17:59:32.888Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "5902 Park Avenue",
+        "city": "East Lisettecester",
+        "state": "Iowa",
+        "zipCode": "82523-9736",
+        "country": "Palestine"
+      },
+      "method": "Standard",
+      "trackingNumber": "DXYBLVONAW8Q",
+      "estimatedDelivery": "2025-06-27T02:55:22.396Z"
+    },
+    "status": "PENDING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T23:03:17.728Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T01:14:10.723Z",
+        "comment": "Order pending"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "230.253.226.16"
+      },
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/90.0",
+      "sessionId": "b1f29cda-d5df-4556-8072-b8e5be86e8ef"
+    }
+  },
+  {
+    "transactionId": "6907ea9a-c18c-4ea6-b911-69923ded134e",
+    "orderId": "ORD-03TIKJPT",
+    "customerId": "1c26efd9-7ef6-453b-9925-29c32f7baa0b",
+    "customerDetails": {
+      "name": "Angelina Jaskolski",
+      "email": "Grady.Upton@yahoo.com",
+      "phone": "663-374-5141 x700"
+    },
+    "orderDate": "2025-02-27T13:17:18.795Z",
+    "items": [
+      {
+        "productId": "d85adf5d-0d20-423a-8dbc-3e85a49113e5",
+        "productName": "Bespoke Plastic Computer",
+        "quantity": 3,
+        "unitPrice": 338.05,
+        "category": "Electronics"
+      },
+      {
+        "productId": "d65a8246-fb5f-4993-99b3-f1b29e2ad1b1",
+        "productName": "Rustic Concrete Mouse",
+        "quantity": 1,
+        "unitPrice": 596.65,
+        "category": "Games"
+      },
+      {
+        "productId": "ca27b53e-585f-46d4-b536-f05273b04657",
+        "productName": "Awesome Wooden Shirt",
+        "quantity": 1,
+        "unitPrice": 556.92,
+        "category": "Clothing"
+      },
+      {
+        "productId": "91de3912-89a1-4769-8378-af05a56274f5",
+        "productName": "Electronic Cotton Hat",
+        "quantity": 5,
+        "unitPrice": 130.79,
+        "category": "Sports"
+      },
+      {
+        "productId": "fc4cbc5b-4577-41f5-8048-c6eeeab65bb8",
+        "productName": "Elegant Gold Hat",
+        "quantity": 3,
+        "unitPrice": 71.65,
+        "category": "Shoes"
+      }
+    ],
+    "billing": {
+      "subtotal": 3036.62,
+      "tax": 242.93,
+      "shippingCost": 612.59,
+      "total": 3892.14,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Art.Gibson24@upi"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-28T02:43:40.569Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "32628 Veterans Memorial Drive",
+        "city": "Fort Rosaliafurt",
+        "state": "Nebraska",
+        "zipCode": "40570",
+        "country": "Republic of Korea"
+      },
+      "method": "Next Day",
+      "trackingNumber": "WXCJFTAUW5F5",
+      "estimatedDelivery": "2025-04-02T12:33:28.452Z"
+    },
+    "status": "PENDING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T21:05:48.207Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T04:48:36.046Z",
+        "comment": "Order pending"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "2483:bdae:4b63:84ed:af7f:8052:e489:701b"
+      },
+      "userAgent": "FakerBot/7.3.11",
+      "sessionId": "e67aac83-7cd6-4bb9-ac53-c484012f255d"
+    }
+  },
+  {
+    "transactionId": "7e4935fe-15b6-4524-b9e6-dde0210372c2",
+    "orderId": "ORD-XZHESBUB",
+    "customerId": "97df89ea-0eca-44cb-b30e-8c504d1ea688",
+    "customerDetails": {
+      "name": "Claude Jacobson",
+      "email": "Theodore23@gmail.com",
+      "phone": "(473) 360-5228 x009"
+    },
+    "orderDate": "2025-02-27T16:19:20.345Z",
+    "items": [
+      {
+        "productId": "0badb6e8-70ff-4607-a347-6cd241049704",
+        "productName": "Frozen Rubber Bacon",
+        "quantity": 5,
+        "unitPrice": 953.65,
+        "category": "Shoes"
+      },
+      {
+        "productId": "6f361aa2-6800-4e8d-8304-f8c829c85ad9",
+        "productName": "Sleek Plastic Shoes",
+        "quantity": 1,
+        "unitPrice": 368.21,
+        "category": "Music"
+      },
+      {
+        "productId": "6995455e-6fe1-42c8-a42f-dd192af62b2e",
+        "productName": "Recycled Silk Fish",
+        "quantity": 1,
+        "unitPrice": 839.69,
+        "category": "Automotive"
+      }
+    ],
+    "billing": {
+      "subtotal": 5976.15,
+      "tax": 478.09,
+      "shippingCost": 251.3,
+      "total": 6705.54,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "CREDIT_CARD",
+      "details": {
+        "type": "CREDIT_CARD",
+        "cardNumber": "3406-713530-20008",
+        "expiryDate": "2025-10",
+        "cardHolder": "Oscar Pfannerstill"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T20:10:24.653Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "5920 Keely Mews",
+        "city": "Cristside",
+        "state": "Idaho",
+        "zipCode": "89513",
+        "country": "Mauritius"
+      },
+      "method": "Express",
+      "trackingNumber": "AWRQCZLS61NU",
+      "estimatedDelivery": "2025-10-17T01:38:50.429Z"
+    },
+    "status": "PROCESSING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T16:47:24.200Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PROCESSING",
+        "timestamp": "2025-02-28T06:30:39.747Z",
+        "comment": "Order processing"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "fb0c:0683:89eb:ca7f:0a68:e443:5d69:0b95"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/567.64.96 (KHTML, like Gecko) Version/10_0 Mobile/15E148 Safari/593.85",
+      "sessionId": "9ccb1d2f-1c2f-48d7-bd26-7afbccb61cd1"
+    }
+  },
+  {
+    "transactionId": "1de9f15f-31f5-483d-bbbc-b5095bc480c9",
+    "orderId": "ORD-4KPEECXD",
+    "customerId": "b26ffa3e-4ed6-4bd3-88bb-c1128e35c510",
+    "customerDetails": {
+      "name": "Leah Yundt Sr.",
+      "email": "Joelle.Herman94@hotmail.com",
+      "phone": "872.603.9548 x9340"
+    },
+    "orderDate": "2025-02-27T18:03:24.669Z",
+    "items": [
+      {
+        "productId": "803b8672-e97e-4e22-adb6-e2a6a6749ac8",
+        "productName": "Small Bronze Mouse",
+        "quantity": 1,
+        "unitPrice": 864.35,
+        "category": "Home"
+      },
+      {
+        "productId": "1d347aa2-42e8-443f-a7e8-00a261e04312",
+        "productName": "Unbranded Ceramic Bike",
+        "quantity": 1,
+        "unitPrice": 997.25,
+        "category": "Outdoors"
+      }
+    ],
+    "billing": {
+      "subtotal": 1861.6,
+      "tax": 148.93,
+      "shippingCost": 980.99,
+      "total": 2991.52,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "Apple Pay"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-27T08:58:31.539Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "91523 Trinity Road",
+        "city": "West Katrine",
+        "state": "Minnesota",
+        "zipCode": "86787",
+        "country": "Aruba"
+      },
+      "method": "Next Day",
+      "trackingNumber": "EJVKB9LXVIMH",
+      "estimatedDelivery": "2025-09-06T20:35:25.983Z"
+    },
+    "status": "SHIPPED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T09:20:12.251Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "SHIPPED",
+        "timestamp": "2025-02-28T06:41:31.616Z",
+        "comment": "Order shipped"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "56.215.42.100"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_15_7) AppleWebKit/542.72.29 (KHTML, like Gecko) Chrome/80.7.10.6 Safari/560.36.87",
+      "sessionId": "8bb3447d-4c69-4f19-b1cb-77cd99e230ad"
+    }
+  },
+  {
+    "transactionId": "f998e040-deb3-4695-ac57-8948bb0875c0",
+    "orderId": "ORD-CHQCWFQA",
+    "customerId": "36fe26d7-0b8a-4667-b6c0-6351bb5b50ce",
+    "customerDetails": {
+      "name": "Dexter Kemmer",
+      "email": "Otis61@hotmail.com",
+      "phone": "(478) 326-6569 x61919"
+    },
+    "orderDate": "2025-02-27T23:13:04.349Z",
+    "items": [
+      {
+        "productId": "3bd96b97-7941-4e36-bc29-a11e851944e3",
+        "productName": "Electronic Silk Cheese",
+        "quantity": 5,
+        "unitPrice": 424.69,
+        "category": "Movies"
+      },
+      {
+        "productId": "03aa13cf-4f01-4d97-acaf-63d7987e2ca6",
+        "productName": "Electronic Rubber Keyboard",
+        "quantity": 2,
+        "unitPrice": 871.89,
+        "category": "Jewelry"
+      },
+      {
+        "productId": "38a01ec3-e903-442f-a414-88ae1215824e",
+        "productName": "Handmade Granite Cheese",
+        "quantity": 5,
+        "unitPrice": 765.09,
+        "category": "Outdoors"
+      },
+      {
+        "productId": "650ae112-4771-4578-a1bb-880f632d681c",
+        "productName": "Soft Ceramic Pizza",
+        "quantity": 3,
+        "unitPrice": 375.1,
+        "category": "Sports"
+      },
+      {
+        "productId": "a23b6d94-49a7-40dd-abdb-9091022e087c",
+        "productName": "Fantastic Rubber Tuna",
+        "quantity": 1,
+        "unitPrice": 751.69,
+        "category": "Computers"
+      }
+    ],
+    "billing": {
+      "subtotal": 9569.67,
+      "tax": 765.57,
+      "shippingCost": 951.89,
+      "total": 11287.13,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Giuseppe_Reichel@upi"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-27T19:20:59.659Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "6258 Hillside Close",
+        "city": "Jupiter",
+        "state": "Maryland",
+        "zipCode": "60510",
+        "country": "Slovakia"
+      },
+      "method": "Next Day",
+      "trackingNumber": "UR61TTZNYY01",
+      "estimatedDelivery": "2025-08-18T20:08:42.322Z"
+    },
+    "status": "CANCELLED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T14:54:23.616Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "CANCELLED",
+        "timestamp": "2025-02-27T15:58:09.729Z",
+        "comment": "Order cancelled"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "225.75.96.47"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_15_7) AppleWebKit/582.74.24 (KHTML, like Gecko) Chrome/90.1.8.8 Safari/546.18.10",
+      "sessionId": "6078b0eb-3a57-4b63-938b-dcc24e31f9de"
+    }
+  },
+  {
+    "transactionId": "d96e7a16-8312-48db-9f8e-b5aa60a0217d",
+    "orderId": "ORD-KIECVJH2",
+    "customerId": "1a29d7d0-7e5e-41a4-8c56-ce25e62fd60e",
+    "customerDetails": {
+      "name": "Miss Beatrice Jaskolski",
+      "email": "Estella18@hotmail.com",
+      "phone": "(292) 259-9494 x32107"
+    },
+    "orderDate": "2025-02-28T05:32:34.181Z",
+    "items": [
+      {
+        "productId": "64f0b790-b62c-4354-ad09-2ded13127c92",
+        "productName": "Gorgeous Wooden Shoes",
+        "quantity": 1,
+        "unitPrice": 912.81,
+        "category": "Baby"
+      },
+      {
+        "productId": "37eaf99f-8595-4ffd-a870-0f50a0c68078",
+        "productName": "Intelligent Rubber Towels",
+        "quantity": 4,
+        "unitPrice": 750.29,
+        "category": "Books"
+      },
+      {
+        "productId": "c090b509-7f8e-49f4-8f87-23dbfce481ff",
+        "productName": "Fresh Granite Chair",
+        "quantity": 2,
+        "unitPrice": 692.6,
+        "category": "Computers"
+      },
+      {
+        "productId": "8bec053e-7118-4ac8-96e6-02500b3cd283",
+        "productName": "Intelligent Rubber Salad",
+        "quantity": 1,
+        "unitPrice": 707.39,
+        "category": "Garden"
+      }
+    ],
+    "billing": {
+      "subtotal": 6006.56,
+      "tax": 480.52,
+      "shippingCost": 994.69,
+      "total": 7481.77,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "Google Pay"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-27T12:13:17.228Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "169 Cummerata Spurs",
+        "city": "Rennermouth",
+        "state": "Vermont",
+        "zipCode": "35543-3443",
+        "country": "Algeria"
+      },
+      "method": "Standard",
+      "trackingNumber": "WLJQVSD1VN7L",
+      "estimatedDelivery": "2025-04-16T19:22:03.427Z"
+    },
+    "status": "PROCESSING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T06:59:10.494Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PROCESSING",
+        "timestamp": "2025-02-28T04:00:55.100Z",
+        "comment": "Order processing"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Samsung S21",
+        "ipAddress": "5415:30e3:ee63:b57c:9e32:c9af:74fb:10db"
+      },
+      "userAgent": "Mozilla/5.0 (Linux; Android 7; SM-G998U) AppleWebKit/558.69 (KHTML, like Gecko) Chrome/88.6.15.0 Mobile Safari/556.12",
+      "sessionId": "8bbbb50f-a1b7-46b4-a059-4460a07f6a12"
+    }
+  },
+  {
+    "transactionId": "7073aec2-8343-4c35-8230-dfe60654ba23",
+    "orderId": "ORD-5HSVA5YX",
+    "customerId": "463383fb-2bef-4bec-ac51-40b9438ef68b",
+    "customerDetails": {
+      "name": "Jeremiah Hand",
+      "email": "Lee_Hegmann@yahoo.com",
+      "phone": "472-684-8736 x883"
+    },
+    "orderDate": "2025-02-28T00:45:46.991Z",
+    "items": [
+      {
+        "productId": "a76baa8c-dc5c-49d6-b4f3-40c9e9155bf3",
+        "productName": "Fresh Ceramic Tuna",
+        "quantity": 1,
+        "unitPrice": 482.59,
+        "category": "Health"
+      },
+      {
+        "productId": "f0e23a54-fd9c-46f4-8b83-624667db3a57",
+        "productName": "Luxurious Granite Shirt",
+        "quantity": 4,
+        "unitPrice": 347.12,
+        "category": "Beauty"
+      }
+    ],
+    "billing": {
+      "subtotal": 1871.07,
+      "tax": 149.69,
+      "shippingCost": 163.29,
+      "total": 2184.05,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "Apple Pay"
+      },
+      "status": "FAILED",
+      "paidAt": "2025-02-28T00:30:49.458Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "46749 Catharine Camp",
+        "city": "Katrineview",
+        "state": "Wyoming",
+        "zipCode": "02023",
+        "country": "Tunisia"
+      },
+      "method": "Standard",
+      "trackingNumber": "RZA6KBMDORAA",
+      "estimatedDelivery": "2025-07-12T04:56:47.341Z"
+    },
+    "status": "PENDING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T08:59:28.351Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T20:30:13.151Z",
+        "comment": "Order pending"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "iOS",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "40.183.13.176"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/601.71.41 (KHTML, like Gecko) Version/17_3 Mobile/15E148 Safari/599.39",
+      "sessionId": "eb35f3d1-22e7-42b9-bf20-1129d4413368"
+    }
+  },
+  {
+    "transactionId": "4e118b64-309f-4d7e-a538-ea243239bac6",
+    "orderId": "ORD-TAI4MT5Z",
+    "customerId": "5d5505f4-da39-4220-aa6e-e7222d16bddf",
+    "customerDetails": {
+      "name": "Gwen Champlin I",
+      "email": "Nicolette.Kuhn97@gmail.com",
+      "phone": "784.694.6740 x19109"
+    },
+    "orderDate": "2025-02-28T02:06:55.326Z",
+    "items": [
+      {
+        "productId": "ef6032fc-0ea0-4dd2-ace7-19fe7032f431",
+        "productName": "Fresh Bamboo Soap",
+        "quantity": 5,
+        "unitPrice": 300.59,
+        "category": "Electronics"
+      },
+      {
+        "productId": "772c5994-e9dd-48d7-b5e7-916c5d331f05",
+        "productName": "Small Aluminum Cheese",
+        "quantity": 3,
+        "unitPrice": 724.75,
+        "category": "Garden"
+      },
+      {
+        "productId": "a00914a5-0481-4534-8c77-725ecfc5dbad",
+        "productName": "Electronic Granite Ball",
+        "quantity": 3,
+        "unitPrice": 225.89,
+        "category": "Automotive"
+      },
+      {
+        "productId": "f89ae68e-4c90-4f2d-991a-9b75d7b58c9c",
+        "productName": "Elegant Gold Shirt",
+        "quantity": 3,
+        "unitPrice": 640.35,
+        "category": "Computers"
+      },
+      {
+        "productId": "0f0a9488-aa57-4192-8df3-3239ceab30a5",
+        "productName": "Practical Gold Pants",
+        "quantity": 4,
+        "unitPrice": 171.75,
+        "category": "Home"
+      }
+    ],
+    "billing": {
+      "subtotal": 6962.92,
+      "tax": 557.03,
+      "shippingCost": 246.05,
+      "total": 7766,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Josefa.Sporer62@upi"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T08:11:39.649Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "37236 Haskell Burg",
+        "city": "Murazikberg",
+        "state": "Minnesota",
+        "zipCode": "80411-6226",
+        "country": "Bonaire, Sint Eustatius and Saba"
+      },
+      "method": "Standard",
+      "trackingNumber": "YK5HPSAKUFPX",
+      "estimatedDelivery": "2025-03-18T03:28:35.810Z"
+    },
+    "status": "PROCESSING",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T13:26:06.775Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "PROCESSING",
+        "timestamp": "2025-02-27T11:13:35.442Z",
+        "comment": "Order processing"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "d78a:80ed:1cfc:4bcd:4efd:bceb:d2ae:aa95"
+      },
+      "userAgent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/7.0)",
+      "sessionId": "2276c421-8152-4c17-8ee7-501902f4d307"
+    }
+  },
+  {
+    "transactionId": "c20a786c-207c-40d7-8ecd-e814283dffb4",
+    "orderId": "ORD-HWOGR5WR",
+    "customerId": "ea7b0096-135f-4b53-9c85-39be58169d73",
+    "customerDetails": {
+      "name": "Ervin Metz",
+      "email": "Bridgette_Durgan@hotmail.com",
+      "phone": "293.347.9836 x02046"
+    },
+    "orderDate": "2025-02-27T16:43:49.760Z",
+    "items": [
+      {
+        "productId": "0aea6738-c03a-47e9-9c22-d33fc5d3ad05",
+        "productName": "Luxurious Cotton Towels",
+        "quantity": 5,
+        "unitPrice": 849.4,
+        "category": "Automotive"
+      },
+      {
+        "productId": "2ad3a732-2344-4de4-ae6c-9f789204f81f",
+        "productName": "Handmade Rubber Chicken",
+        "quantity": 2,
+        "unitPrice": 537.65,
+        "category": "Garden"
+      },
+      {
+        "productId": "82f3811f-cb10-4152-8f0a-f4097c6e6fe3",
+        "productName": "Incredible Granite Cheese",
+        "quantity": 5,
+        "unitPrice": 584.79,
+        "category": "Baby"
+      },
+      {
+        "productId": "d99266d2-f442-440d-948b-a00f0968a0c8",
+        "productName": "Handmade Gold Shirt",
+        "quantity": 1,
+        "unitPrice": 997.59,
+        "category": "Movies"
+      },
+      {
+        "productId": "97d45752-8b06-4b84-9bdf-93507357b0a0",
+        "productName": "Modern Gold Table",
+        "quantity": 4,
+        "unitPrice": 405.19,
+        "category": "Garden"
+      }
+    ],
+    "billing": {
+      "subtotal": 10864.6,
+      "tax": 869.17,
+      "shippingCost": 164.45,
+      "total": 11898.22,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "PayPal"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-27T22:19:25.052Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "655 Chestnut Drive",
+        "city": "North Angelica",
+        "state": "Maryland",
+        "zipCode": "72080-3039",
+        "country": "Albania"
+      },
+      "method": "Standard",
+      "trackingNumber": "Q0EOV7AHIIFC",
+      "estimatedDelivery": "2025-10-16T19:03:02.997Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T20:35:30.628Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-27T14:47:45.547Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "139.240.121.93"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/566.11.31 (KHTML, like Gecko) Version/16.1 Safari/543.85.32",
+      "sessionId": "22409a63-9317-488c-8e8b-1541b342289b"
+    }
+  },
+  {
+    "transactionId": "5e72cf5e-44a8-40cf-952f-83e7f1b546f8",
+    "orderId": "ORD-Z0WKAMDN",
+    "customerId": "8049ed28-6591-4170-aa86-e028e79fea61",
+    "customerDetails": {
+      "name": "Dr. Peter Carroll",
+      "email": "Cortez_Keebler@gmail.com",
+      "phone": "1-985-696-2296"
+    },
+    "orderDate": "2025-02-28T03:27:40.904Z",
+    "items": [
+      {
+        "productId": "7864df88-5b0d-46f2-bb57-2ee8120c9d3f",
+        "productName": "Sleek Concrete Pizza",
+        "quantity": 5,
+        "unitPrice": 991.25,
+        "category": "Beauty"
+      },
+      {
+        "productId": "cb21818a-dd92-430d-af2f-3a6531cf8557",
+        "productName": "Bespoke Bamboo Fish",
+        "quantity": 4,
+        "unitPrice": 754.59,
+        "category": "Computers"
+      },
+      {
+        "productId": "29b62a63-1c4b-4981-8664-9c835d00d93c",
+        "productName": "Practical Aluminum Table",
+        "quantity": 5,
+        "unitPrice": 659.75,
+        "category": "Movies"
+      },
+      {
+        "productId": "ecf76c08-b7cf-4ba8-aba7-d29f39e984a1",
+        "productName": "Recycled Metal Shoes",
+        "quantity": 5,
+        "unitPrice": 834.05,
+        "category": "Grocery"
+      }
+    ],
+    "billing": {
+      "subtotal": 15443.61,
+      "tax": 1235.49,
+      "shippingCost": 810.19,
+      "total": 17489.29,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "UPI",
+      "details": {
+        "type": "UPI",
+        "upiId": "Chesley_Blick55@upi"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-28T00:11:05.743Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "4057 Gordon Road",
+        "city": "Roscoehaven",
+        "state": "Maine",
+        "zipCode": "80662",
+        "country": "Isle of Man"
+      },
+      "method": "Express",
+      "trackingNumber": "WSGCNMX0YLAA",
+      "estimatedDelivery": "2025-05-13T18:33:47.063Z"
+    },
+    "status": "REFUNDED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-27T18:12:25.401Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "REFUNDED",
+        "timestamp": "2025-02-28T00:30:07.836Z",
+        "comment": "Order refunded"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "123.246.5.52"
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/90.0",
+      "sessionId": "5a413573-9d61-4db6-ab8e-1bb89efd7db1"
+    }
+  },
+  {
+    "transactionId": "87a751b5-52db-45ad-80c1-5768eb0baf9f",
+    "orderId": "ORD-DXCSGNPQ",
+    "customerId": "41ea821a-bcd6-446d-8524-0af22b0cae4f",
+    "customerDetails": {
+      "name": "Luis Haag",
+      "email": "Archibald97@yahoo.com",
+      "phone": "597.417.4883 x8882"
+    },
+    "orderDate": "2025-02-27T16:18:16.091Z",
+    "items": [
+      {
+        "productId": "e941fc51-0c53-4c17-93e7-5a3a81aa2263",
+        "productName": "Practical Concrete Table",
+        "quantity": 1,
+        "unitPrice": 12.25,
+        "category": "Clothing"
+      },
+      {
+        "productId": "d96a1281-040b-437b-8e84-cfa6a2554a9d",
+        "productName": "Gorgeous Plastic Soap",
+        "quantity": 1,
+        "unitPrice": 256.79,
+        "category": "Electronics"
+      }
+    ],
+    "billing": {
+      "subtotal": 269.04,
+      "tax": 21.52,
+      "shippingCost": 534.79,
+      "total": 825.35,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "WALLET",
+      "details": {
+        "type": "WALLET",
+        "walletProvider": "PayPal"
+      },
+      "status": "PENDING",
+      "paidAt": "2025-02-28T02:46:42.250Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "62280 Roy Field",
+        "city": "West Caseyshire",
+        "state": "South Dakota",
+        "zipCode": "93327",
+        "country": "Indonesia"
+      },
+      "method": "Next Day",
+      "trackingNumber": "PKW2WAVMDJZL",
+      "estimatedDelivery": "2025-08-25T16:56:56.475Z"
+    },
+    "status": "REFUNDED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T06:08:45.455Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "REFUNDED",
+        "timestamp": "2025-02-27T21:07:50.697Z",
+        "comment": "Order refunded"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "iPhone 13",
+        "ipAddress": "50.195.145.141"
+      },
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-G998N) AppleWebKit/543.21 (KHTML, like Gecko) Chrome/120.8.14.20 Mobile Safari/604.4",
+      "sessionId": "ad225d3b-c028-4831-b2ac-c49258e62b9f"
+    }
+  },
+  {
+    "transactionId": "f31697e7-63ce-4b8a-b450-141ff185978a",
+    "orderId": "ORD-K0G2BHSK",
+    "customerId": "233dadba-ac14-4300-b592-5012d23e7e58",
+    "customerDetails": {
+      "name": "Raquel Hauck",
+      "email": "Bertha_Streich81@yahoo.com",
+      "phone": "(733) 348-3889 x4105"
+    },
+    "orderDate": "2025-02-27T14:07:42.850Z",
+    "items": [
+      {
+        "productId": "350a1b3e-642b-4241-8529-d78321869d2b",
+        "productName": "Fantastic Aluminum Table",
+        "quantity": 1,
+        "unitPrice": 594.05,
+        "category": "Computers"
+      }
+    ],
+    "billing": {
+      "subtotal": 594.05,
+      "tax": 47.52,
+      "shippingCost": 735.99,
+      "total": 1377.56,
+      "currency": "USD"
+    },
+    "payment": {
+      "method": "DEBIT_CARD",
+      "details": {
+        "type": "DEBIT_CARD",
+        "cardNumber": "5433-0750-2982-2655",
+        "bankName": "Murphy - Mohr"
+      },
+      "status": "SUCCESS",
+      "paidAt": "2025-02-27T17:47:14.680Z"
+    },
+    "shipping": {
+      "address": {
+        "street": "145 The Mount",
+        "city": "Freeport",
+        "state": "Texas",
+        "zipCode": "41176-7280",
+        "country": "Peru"
+      },
+      "method": "Standard",
+      "trackingNumber": "MQKMM20TK7WZ",
+      "estimatedDelivery": "2025-03-11T05:47:56.508Z"
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "PENDING",
+        "timestamp": "2025-02-28T01:58:20.370Z",
+        "comment": "Order placed successfully"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2025-02-27T19:35:24.314Z",
+        "comment": "Order delivered"
+      }
+    ],
+    "metadata": {
+      "deviceInfo": {
+        "platform": "Android",
+        "deviceModel": "Google Pixel",
+        "ipAddress": "8e5e:ab8b:fe10:ccb7:c006:837d:9acf:581b"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/599.68 (KHTML, like Gecko) Chrome/100.5.6.5 Safari/588.92 Edg/113.2.4.17",
+      "sessionId": "463e7b5a-0693-466e-96af-18de2db95d1c"
+    }
+  }
+]

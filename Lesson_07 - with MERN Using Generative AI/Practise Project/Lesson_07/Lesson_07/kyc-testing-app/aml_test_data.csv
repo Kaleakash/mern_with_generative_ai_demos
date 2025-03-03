@@ -1,0 +1,1001 @@
+Transaction ID,Customer ID,Amount,Date,Transaction Type,Sender Country,Receiver Country,Sender Bank,Receiver Bank,Account Balance,Customer Type,Suspicious Activity Flag,Reason for Suspicion,Transaction Purpose
+1,7246,394025.90,2020-10-03T07:46:31.959Z,Transfer,UK,Russia,Towne, O'Keefe and Grady,Padberg - Klein,7192889.39,Individual,Yes,Large transaction amount,Loan repayment
+2,4299,290549.15,2023-09-09T21:00:01.481Z,Withdrawal,India,Canada,West LLC,Hoeger, Mitchell and Quigley,5906522.39,Individual,Yes,Large transaction amount,Personal transfer
+3,6839,393412.34,2023-11-11T10:48:49.556Z,Deposit,Russia,China,Spencer Group,Boyer, Kuhic and Greenfelder,2003433.47,Individual,Yes,Large transaction amount,Loan repayment
+4,9812,61777.75,2022-07-10T22:10:27.688Z,Withdrawal,Australia,China,Rohan - Jacobi,Glover and Sons,3298320.70,Individual,Yes,Large transaction amount,Loan repayment
+5,7283,266928.85,2025-02-19T15:54:41.641Z,Transfer,China,China,Fay Group,Herzog, Bradtke and Greenholt,2731842.65,Individual,Yes,Large transaction amount,Personal transfer
+6,6684,869580.34,2020-06-02T00:23:02.774Z,Transfer,Russia,India,Turner, Strosin and Funk,Pagac, Cassin and Fritsch,282443.31,Business,Yes,Large transaction amount,Business payment
+7,8364,772176.66,2024-03-07T06:21:01.161Z,Deposit,Russia,Germany,Windler, King and Padberg,Gulgowski - Runolfsson,8672407.28,Individual,Yes,Large transaction amount,Business payment
+8,4524,402197.81,2021-09-17T02:17:30.473Z,Transfer,China,UK,Pfeffer - Goodwin,Gislason - Kovacek,4051114.91,Individual,Yes,Large transaction amount,Business payment
+9,8681,190882.57,2024-05-13T22:40:11.216Z,Transfer,Canada,Russia,Schimmel Group,Goldner, Walter and Aufderhar,1305235.46,Individual,Yes,Large transaction amount,Business payment
+10,5535,718941.35,2020-11-12T16:11:57.265Z,Transfer,UK,Canada,Prohaska - Auer,Hickle Inc,9636549.44,Business,Yes,Large transaction amount,Business payment
+11,3797,369332.87,2023-10-05T19:50:33.612Z,Withdrawal,UK,Germany,Donnelly - Dooley,Farrell Inc,2741010.53,Individual,Yes,Large transaction amount,Personal transfer
+12,8727,549749.74,2021-09-15T00:39:07.158Z,Withdrawal,Russia,UK,Gerlach - Hintz,Gerhold - Breitenberg,6214286.39,Business,Yes,Large transaction amount,Personal transfer
+13,2728,247320.23,2021-07-11T05:42:10.449Z,Transfer,China,India,Daniel - Gorczany,Howe - Gorczany,1519186.21,Business,Yes,Large transaction amount,Loan repayment
+14,7410,2471.41,2021-04-16T09:49:23.559Z,Withdrawal,Canada,Canada,Rempel - Weber,O'Conner - Shields,746047.19,Business,No,,Loan repayment
+15,4359,669548.40,2023-04-10T01:29:49.160Z,Transfer,UK,Japan,Mante, Brown and Parker,Marvin - Steuber,9173738.54,Individual,Yes,Large transaction amount,Business payment
+16,6754,815160.73,2024-03-07T19:26:36.056Z,Deposit,Germany,Japan,Schroeder, Williamson and Auer,Runte Inc,5147577.97,Individual,Yes,Large transaction amount,Loan repayment
+17,6418,62225.47,2024-07-05T22:17:27.966Z,Transfer,USA,China,Koss - Grady,Schoen, Waters and Wolff,160577.60,Business,Yes,Large transaction amount,Loan repayment
+18,4750,276975.06,2021-12-11T06:29:50.330Z,Deposit,India,Japan,Reichert - Kunde,Waters - Brekke,6686785.13,Business,Yes,Large transaction amount,Personal transfer
+19,8367,856402.49,2024-10-18T08:51:14.091Z,Withdrawal,China,Japan,Marquardt - Kutch,Bartell LLC,4209382.39,Individual,Yes,Large transaction amount,Loan repayment
+20,3136,189084.35,2020-03-30T04:03:46.349Z,Deposit,Japan,China,Bergstrom, Will and Hills,Feest Group,5663701.06,Business,Yes,Large transaction amount,Business payment
+21,4410,652375.83,2020-07-24T21:44:52.537Z,Transfer,Germany,Russia,Hyatt - Fisher,Robel - Kunde,5939120.66,Business,Yes,Large transaction amount,Loan repayment
+22,9469,822507.65,2023-08-19T10:40:06.592Z,Deposit,Germany,Germany,Champlin, Feil and Lueilwitz,Cruickshank - Stanton,3206274.35,Individual,Yes,Large transaction amount,Business payment
+23,5866,144226.23,2021-05-23T19:54:31.580Z,Deposit,China,India,Yundt, Jacobs and Schaden,Wehner, Little and Olson,8895111.04,Business,Yes,Large transaction amount,Business payment
+24,8136,465537.30,2021-09-25T04:48:16.345Z,Transfer,USA,Russia,Collier - Dooley,Breitenberg - Conn,3270759.84,Business,Yes,Large transaction amount,Business payment
+25,2953,298336.54,2024-06-29T10:23:31.346Z,Deposit,India,Germany,Roberts and Sons,Ward, Hartmann and Kassulke,6063728.48,Business,Yes,Large transaction amount,Loan repayment
+26,7863,23672.74,2023-07-14T01:32:03.145Z,Withdrawal,USA,China,Altenwerth - Nader,Goldner LLC,5086085.52,Individual,No,,Loan repayment
+27,6448,332832.41,2021-03-13T20:24:59.926Z,Withdrawal,Germany,Japan,Raynor Group,Pollich, Abernathy and Wyman,1305257.49,Business,Yes,Large transaction amount,Loan repayment
+28,9203,832196.44,2021-02-14T12:18:45.722Z,Withdrawal,USA,Canada,Mohr Group,Toy - Rowe,5669275.31,Individual,Yes,Large transaction amount,Loan repayment
+29,2889,669830.62,2024-04-28T00:08:46.562Z,Transfer,Germany,USA,McLaughlin and Sons,Hoeger LLC,4976271.20,Individual,Yes,Large transaction amount,Loan repayment
+30,7077,896685.04,2025-02-16T22:35:05.512Z,Transfer,Australia,Australia,Sauer LLC,Huels, Ortiz and Jacobson,80637.60,Business,Yes,Large transaction amount,Loan repayment
+31,8405,442856.94,2024-05-21T23:58:38.780Z,Transfer,Australia,UK,Botsford, Sipes and Prosacco,Swaniawski, Lebsack and Reichel,8428210.80,Individual,Yes,Large transaction amount,Loan repayment
+32,6074,80188.43,2023-09-26T23:21:20.701Z,Deposit,Canada,Germany,Feil, Wisoky and Legros,West - Streich,4860684.17,Individual,Yes,Large transaction amount,Loan repayment
+33,8985,30170.50,2024-04-24T09:43:05.540Z,Withdrawal,India,UK,Rice and Sons,Williamson, Hermann and Schulist,490076.44,Individual,No,,Loan repayment
+34,7412,763303.97,2021-01-29T03:32:18.600Z,Withdrawal,UK,Australia,Kunde and Sons,Stokes, Cummings and Abshire,8374521.48,Individual,Yes,Large transaction amount,Loan repayment
+35,8345,955885.86,2024-02-13T11:44:46.508Z,Transfer,Germany,Australia,Hirthe - Ankunding,Tillman - Romaguera,2613892.92,Business,Yes,Large transaction amount,Personal transfer
+36,9097,638853.23,2024-01-21T19:27:33.756Z,Deposit,Germany,Germany,Heaney, Jerde and Jast,Prosacco LLC,9454704.14,Business,Yes,Large transaction amount,Business payment
+37,4802,755937.97,2022-04-13T18:33:20.956Z,Transfer,UK,Japan,Satterfield, Fahey and Mante,Torp - Harris,268536.09,Individual,Yes,Large transaction amount,Loan repayment
+38,5016,417388.62,2022-08-29T22:03:11.227Z,Transfer,USA,UK,Bednar, Becker and Feil,Bartoletti - Torphy,8597919.68,Individual,Yes,Large transaction amount,Personal transfer
+39,7787,157965.77,2024-08-15T04:50:29.840Z,Deposit,Japan,Russia,Koss - Prosacco,Schamberger Inc,6161082.75,Business,Yes,Large transaction amount,Personal transfer
+40,4097,397782.00,2021-06-08T02:45:13.379Z,Transfer,UK,Germany,Mitchell - O'Kon,Keebler - Conn,469771.30,Individual,Yes,Large transaction amount,Personal transfer
+41,9646,68900.76,2025-01-31T18:35:52.708Z,Withdrawal,China,Australia,Konopelski, Terry and Bartoletti,Rohan, Casper and Halvorson,8114376.28,Business,Yes,Large transaction amount,Loan repayment
+42,3404,424225.53,2022-08-17T14:30:56.552Z,Deposit,Russia,UK,Predovic - Veum,Huels Group,4368747.22,Individual,Yes,Large transaction amount,Loan repayment
+43,6624,313539.40,2020-09-05T21:06:02.956Z,Transfer,India,UK,Jerde - Huels,Wilkinson Inc,1798639.64,Individual,Yes,Large transaction amount,Loan repayment
+44,8028,175864.86,2024-03-26T23:59:22.217Z,Withdrawal,India,Japan,Bashirian, Bernhard and Koss,Bogan and Sons,6532960.40,Individual,Yes,Large transaction amount,Loan repayment
+45,3964,690419.34,2021-09-02T13:37:47.706Z,Transfer,Russia,UK,Cartwright - Balistreri,Hintz - Brakus,8067089.71,Individual,Yes,Large transaction amount,Business payment
+46,1862,791750.23,2022-07-12T11:15:14.904Z,Deposit,Canada,Russia,Toy - Lindgren,Mitchell, Jast and Sauer,3346712.35,Business,Yes,Large transaction amount,Personal transfer
+47,9356,439296.76,2025-01-25T00:25:49.942Z,Deposit,UK,Germany,Parisian, Heidenreich and Ondricka,Baumbach and Sons,3891260.83,Business,Yes,Large transaction amount,Personal transfer
+48,2992,573392.70,2021-04-18T08:13:38.660Z,Deposit,Australia,India,Schamberger Inc,Adams, Rogahn and Heathcote,2688975.11,Individual,Yes,Large transaction amount,Loan repayment
+49,5894,334041.44,2021-03-22T08:01:19.314Z,Withdrawal,Russia,Russia,Waelchi Inc,Schaefer, Emmerich and Kertzmann,1819766.32,Business,Yes,Large transaction amount,Business payment
+50,7551,997020.74,2022-08-13T11:28:25.510Z,Withdrawal,Russia,Canada,Ankunding LLC,Streich, Heidenreich and Bashirian,4019110.50,Business,Yes,Large transaction amount,Personal transfer
+51,9243,996571.25,2022-04-28T00:41:05.510Z,Withdrawal,Russia,USA,Friesen, Grant and Kautzer,Jenkins - Windler,9829039.34,Individual,Yes,Large transaction amount,Business payment
+52,2651,959080.62,2021-04-05T23:53:48.578Z,Withdrawal,USA,Japan,Toy, McCullough and Cassin,Labadie, Bogisich and O'Connell,606067.07,Individual,Yes,Large transaction amount,Personal transfer
+53,1302,293625.51,2023-10-06T01:27:25.664Z,Withdrawal,India,India,Keebler and Sons,Conroy, McLaughlin and Welch,7803849.12,Business,Yes,Large transaction amount,Loan repayment
+54,3910,217394.57,2020-11-19T13:47:54.199Z,Transfer,Canada,UK,Jerde and Sons,Auer - Kuvalis,1502822.64,Business,Yes,Large transaction amount,Business payment
+55,5207,951993.08,2023-05-22T23:40:32.843Z,Deposit,USA,Japan,Rogahn - Kirlin,Gislason and Sons,3229755.61,Business,Yes,Large transaction amount,Business payment
+56,3707,910598.47,2020-07-07T09:00:43.465Z,Withdrawal,Australia,Australia,Wyman - Luettgen,Cassin Group,1824012.48,Business,Yes,Large transaction amount,Loan repayment
+57,9658,747382.24,2021-02-25T01:51:11.737Z,Transfer,China,UK,Hudson, Howell and Macejkovic,Jast - Koelpin,7548572.11,Business,Yes,Large transaction amount,Personal transfer
+58,5814,220005.38,2022-06-16T09:03:50.829Z,Withdrawal,USA,USA,Pfannerstill - Kuvalis,Anderson - Huel,5098262.97,Business,Yes,Large transaction amount,Business payment
+59,5039,197092.21,2020-10-14T13:28:27.251Z,Deposit,China,Russia,Johns, Feest and Gaylord,Kulas, Rodriguez and Fisher,5598984.27,Individual,Yes,Large transaction amount,Personal transfer
+60,8157,401077.30,2023-07-18T19:15:00.328Z,Withdrawal,USA,China,Brakus, Swaniawski and Gerhold,Runolfsson Group,8105617.85,Individual,Yes,Large transaction amount,Business payment
+61,3736,119711.27,2022-11-24T03:56:11.477Z,Deposit,Japan,Germany,Satterfield, Moen and Klocko,Runolfsson Inc,5607937.71,Individual,Yes,Large transaction amount,Loan repayment
+62,5113,688670.00,2023-07-31T21:54:54.218Z,Deposit,USA,Russia,Vandervort, Bashirian and Gislason,Bosco, Cummings and Wunsch,7887735.97,Individual,Yes,Large transaction amount,Loan repayment
+63,8439,599062.48,2025-01-10T19:03:33.622Z,Transfer,China,Canada,Langworth LLC,Gerlach, Wunsch and Hoppe,3771748.69,Individual,Yes,Large transaction amount,Business payment
+64,8696,192307.83,2022-11-05T03:06:41.354Z,Deposit,USA,Australia,Shanahan, Lowe and Stroman,Lubowitz, Hamill and Rohan,9081703.86,Individual,Yes,Large transaction amount,Loan repayment
+65,9261,816684.57,2022-07-14T18:19:01.797Z,Transfer,Japan,India,McClure, Stracke and Bins,Boyer, Keebler and Walter,7486441.44,Individual,Yes,Large transaction amount,Business payment
+66,8348,394569.21,2023-10-27T17:21:41.643Z,Withdrawal,Japan,USA,Schoen, Watsica and Block,Brakus - Fay,8762549.99,Individual,Yes,Large transaction amount,Business payment
+67,5855,194246.83,2020-06-27T13:24:37.724Z,Deposit,Germany,Russia,Morar, Keeling and Mosciski,Heller - Bradtke,1480148.19,Individual,Yes,Large transaction amount,Loan repayment
+68,3880,972770.71,2024-07-18T07:14:23.724Z,Transfer,Germany,Canada,Batz, Konopelski and Waters,Mills - Wiza,9288323.61,Business,Yes,Large transaction amount,Loan repayment
+69,7491,658162.13,2024-03-04T15:14:03.180Z,Deposit,Canada,India,Borer - Gottlieb,Kuhic and Sons,3764248.06,Individual,Yes,Large transaction amount,Loan repayment
+70,2826,205479.19,2023-01-21T08:01:58.188Z,Deposit,UK,Canada,Farrell, Ryan and Wiegand,Hintz LLC,3702337.04,Individual,Yes,Large transaction amount,Personal transfer
+71,3267,463135.25,2021-06-25T05:51:07.561Z,Transfer,Japan,UK,Becker, Hahn and Kozey,Cassin LLC,5850466.30,Business,Yes,Large transaction amount,Loan repayment
+72,8134,703810.78,2022-09-21T11:15:52.961Z,Deposit,Canada,India,Schulist Inc,Hickle Inc,1001374.89,Business,Yes,Large transaction amount,Loan repayment
+73,9105,570910.99,2024-09-13T22:26:45.539Z,Withdrawal,UK,India,Bernier Inc,Carter - Dibbert,2500714.52,Individual,Yes,Large transaction amount,Business payment
+74,1526,674895.98,2023-01-25T20:26:31.971Z,Transfer,China,China,Heaney, Hand and Reilly,Leannon, Crona and Witting,5044719.35,Individual,Yes,Large transaction amount,Loan repayment
+75,9531,872146.49,2021-06-09T02:55:32.183Z,Withdrawal,Russia,India,Wuckert LLC,Doyle - Dach,7341955.95,Individual,Yes,Large transaction amount,Business payment
+76,1899,377992.74,2022-07-26T13:15:50.306Z,Transfer,Canada,Canada,Wyman LLC,Murphy, McLaughlin and Brekke,1606672.52,Business,Yes,Large transaction amount,Business payment
+77,5317,237368.19,2024-04-08T20:26:59.384Z,Transfer,Germany,India,Moen Group,Lueilwitz - Emard,3862015.84,Business,Yes,Large transaction amount,Personal transfer
+78,5022,339857.69,2023-07-29T18:14:28.988Z,Deposit,India,India,Weimann LLC,Olson - Larkin,2417716.56,Individual,Yes,Large transaction amount,Loan repayment
+79,2053,240771.31,2021-06-29T02:27:59.190Z,Withdrawal,Australia,Germany,Purdy - Nicolas,Torphy and Sons,7513821.42,Business,Yes,Large transaction amount,Business payment
+80,9712,781691.98,2021-01-02T21:42:31.127Z,Withdrawal,UK,Germany,Effertz - Bergstrom,Moore, Ledner and Swaniawski,9254141.19,Business,Yes,Large transaction amount,Loan repayment
+81,5998,978241.22,2020-11-14T19:04:00.578Z,Deposit,India,UK,Hyatt Inc,Nienow, Abernathy and Brakus,1997254.06,Individual,Yes,Large transaction amount,Personal transfer
+82,1981,408943.42,2021-02-07T14:51:16.935Z,Deposit,Australia,USA,Orn, Kemmer and Kihn,Crooks LLC,8534115.14,Individual,Yes,Large transaction amount,Loan repayment
+83,8481,566566.79,2023-04-15T23:08:23.400Z,Transfer,USA,India,Wuckert - Russel,Ratke, Lynch and Hilpert,786276.31,Business,Yes,Large transaction amount,Business payment
+84,3055,319928.91,2021-11-05T13:32:29.696Z,Deposit,Australia,Japan,Collier, Wuckert and Simonis,Gutmann Inc,6024388.35,Individual,Yes,Large transaction amount,Loan repayment
+85,1651,544633.16,2021-09-10T21:10:10.020Z,Transfer,USA,Australia,Walker - Hermiston,O'Hara - Schiller,798629.06,Individual,Yes,Large transaction amount,Loan repayment
+86,6186,682748.08,2021-10-10T19:26:41.655Z,Transfer,UK,Japan,O'Connell - Borer,Schulist - Quigley,9203058.54,Individual,Yes,Large transaction amount,Loan repayment
+87,3511,789335.06,2023-03-30T19:21:48.052Z,Deposit,Russia,Australia,Cronin, Flatley and Wolf,Vandervort - Stroman,4787847.09,Individual,Yes,Large transaction amount,Business payment
+88,4640,442954.10,2021-02-16T01:27:19.566Z,Withdrawal,China,Germany,Olson - Goldner,Bartell - Heaney,6653119.52,Individual,Yes,Large transaction amount,Personal transfer
+89,3619,154249.41,2022-07-03T11:25:13.499Z,Deposit,Australia,Australia,Nolan Group,Ullrich, Hamill and Paucek,4977145.48,Business,Yes,Large transaction amount,Business payment
+90,4472,124038.27,2023-05-22T18:55:52.574Z,Transfer,Canada,China,Witting - Paucek,Flatley Group,3294588.77,Business,Yes,Large transaction amount,Personal transfer
+91,4255,129076.29,2020-07-19T21:07:32.211Z,Withdrawal,USA,China,Cronin Group,Bergstrom, Waters and Kuhic,7997481.70,Individual,Yes,Large transaction amount,Personal transfer
+92,1496,471904.42,2025-01-16T01:37:13.835Z,Withdrawal,Germany,USA,Littel, Hudson and Rolfson,Bailey Group,9863644.01,Individual,Yes,Large transaction amount,Business payment
+93,6190,665037.63,2022-08-03T06:38:22.557Z,Transfer,Germany,China,Blick LLC,Hills, Swift and Morar,704208.12,Individual,Yes,Large transaction amount,Business payment
+94,3980,650458.69,2024-12-23T01:40:23.092Z,Deposit,Germany,Japan,Watsica LLC,Bashirian and Sons,9964580.27,Business,Yes,Large transaction amount,Personal transfer
+95,7980,739359.63,2023-07-14T06:54:00.840Z,Deposit,China,UK,Stehr, Cole and Hirthe,Collins - McClure,3739970.28,Business,Yes,Large transaction amount,Business payment
+96,2304,697201.21,2021-01-27T09:44:18.938Z,Deposit,Russia,USA,Prosacco LLC,Prohaska LLC,8162985.12,Individual,Yes,Large transaction amount,Business payment
+97,6330,245197.67,2023-04-24T18:39:36.680Z,Withdrawal,Japan,India,Turner Group,Johnson - Pagac,4187851.03,Individual,Yes,Large transaction amount,Personal transfer
+98,4221,635197.17,2024-06-21T17:40:58.497Z,Withdrawal,USA,Japan,Krajcik LLC,Little - Gleason,570833.93,Individual,Yes,Large transaction amount,Loan repayment
+99,8598,637298.26,2023-12-04T20:20:14.510Z,Transfer,China,Russia,Bradtke - Collins,Bernhard, Ward and Shanahan,5479264.33,Business,Yes,Large transaction amount,Personal transfer
+100,7303,927711.08,2025-01-14T05:05:48.639Z,Transfer,USA,Russia,Wehner Inc,Wintheiser - Klocko,6229321.61,Individual,Yes,Large transaction amount,Loan repayment
+101,4872,28301.91,2022-10-29T13:29:43.632Z,Withdrawal,China,India,Kessler - Wilderman,Spinka Inc,7710957.29,Individual,No,,Loan repayment
+102,8753,363051.77,2020-10-11T04:42:21.469Z,Transfer,Canada,USA,Lindgren Inc,Jacobi - Sipes,6217159.17,Business,Yes,Large transaction amount,Personal transfer
+103,7257,445114.27,2021-03-27T08:02:33.485Z,Withdrawal,Germany,India,Moore, Torp and Will,Braun - O'Connell,7008574.28,Business,Yes,Large transaction amount,Personal transfer
+104,6608,617275.60,2023-11-18T15:39:12.095Z,Withdrawal,Canada,Japan,Kuhic, Kreiger and Conroy,Simonis, Schroeder and Keebler,2564467.18,Business,Yes,Large transaction amount,Personal transfer
+105,1520,122869.78,2022-08-08T16:24:25.841Z,Deposit,Germany,China,Kling - Lehner,Weissnat, Wilkinson and MacGyver,5876165.48,Individual,Yes,Large transaction amount,Loan repayment
+106,9400,24472.87,2022-05-31T15:40:03.247Z,Transfer,Australia,China,Mraz - McGlynn,Jones, Marvin and Zieme,9810972.53,Business,Yes,Large cross-border transfer,Personal transfer
+107,5021,778868.34,2023-04-20T18:46:53.855Z,Withdrawal,China,Russia,Trantow - Rohan,Schumm, Hodkiewicz and Zieme,1626355.70,Individual,Yes,Large transaction amount,Business payment
+108,1165,136884.39,2021-08-15T08:14:28.572Z,Deposit,Canada,India,Lang - Legros,Wiegand - Koch,786002.05,Individual,Yes,Large transaction amount,Personal transfer
+109,1472,852796.49,2020-07-12T19:47:02.735Z,Transfer,Germany,India,Kovacek, Konopelski and Reynolds,Wilkinson, Littel and Ernser,5341136.48,Individual,Yes,Large transaction amount,Business payment
+110,5417,51565.44,2025-02-10T09:36:54.278Z,Deposit,Canada,Japan,Mertz, Wilkinson and Moen,Thompson, Farrell and Stroman,2149208.35,Business,Yes,Large transaction amount,Loan repayment
+111,8855,283921.35,2021-11-22T08:39:15.163Z,Deposit,Russia,Germany,Bode, Quitzon and Rutherford,Cremin Group,1661003.07,Individual,Yes,Large transaction amount,Loan repayment
+112,1696,312570.00,2022-07-05T03:16:09.763Z,Transfer,USA,UK,Pollich, Cormier and Mante,Pacocha, Harvey and Renner,154847.12,Individual,Yes,Large transaction amount,Loan repayment
+113,3150,802004.70,2020-06-28T23:21:20.693Z,Withdrawal,Germany,Germany,Schneider LLC,Gulgowski - Jacobson,4586511.98,Business,Yes,Large transaction amount,Loan repayment
+114,2294,83076.68,2020-06-11T18:37:37.468Z,Deposit,Russia,Australia,Schuster and Sons,Rogahn, Feil and Metz,3557213.51,Individual,Yes,Large transaction amount,Personal transfer
+115,2551,875292.51,2022-05-20T18:20:11.752Z,Transfer,Australia,Australia,Gaylord LLC,Mraz LLC,6264183.01,Individual,Yes,Large transaction amount,Personal transfer
+116,4641,518549.93,2022-12-03T07:07:59.866Z,Transfer,India,China,Lesch Inc,Bayer Inc,4872105.63,Individual,Yes,Large transaction amount,Personal transfer
+117,7905,34181.48,2021-06-18T08:23:42.225Z,Withdrawal,UK,USA,Crist LLC,Dickens Group,7120425.19,Individual,No,,Business payment
+118,6743,103460.67,2020-03-24T04:02:07.213Z,Transfer,Japan,Australia,Parisian - Kovacek,Dickens, Runte and Larson,2753886.86,Individual,Yes,Large transaction amount,Personal transfer
+119,9828,961955.74,2022-05-22T02:47:12.191Z,Transfer,Russia,Canada,Reichert - Heller,Parisian - Boyer,1969511.42,Individual,Yes,Large transaction amount,Personal transfer
+120,8363,788623.03,2020-05-01T20:14:25.086Z,Transfer,China,Russia,Homenick, Feest and Gleichner,Runte - Wisozk,6040300.74,Business,Yes,Large transaction amount,Personal transfer
+121,8197,782853.92,2023-08-20T15:11:39.204Z,Deposit,China,Australia,McCullough, Christiansen and Kulas,Reilly Group,4099589.25,Business,Yes,Large transaction amount,Business payment
+122,5640,526661.28,2022-03-14T17:38:28.252Z,Deposit,Germany,USA,Kohler LLC,Metz, Balistreri and Mueller,1480821.44,Business,Yes,Large transaction amount,Business payment
+123,9215,892598.36,2022-11-16T20:16:43.309Z,Withdrawal,India,Germany,Kemmer Group,Windler, Willms and Corwin,4908067.86,Individual,Yes,Large transaction amount,Business payment
+124,6397,391191.55,2021-09-02T09:02:43.720Z,Transfer,UK,UK,Kemmer - Dach,Lebsack - Emmerich,553540.43,Individual,Yes,Large transaction amount,Personal transfer
+125,5758,573928.31,2021-06-08T16:43:41.028Z,Transfer,India,Canada,Renner, Mills and Medhurst,Becker - Turcotte,8641147.50,Business,Yes,Large transaction amount,Personal transfer
+126,1001,223493.71,2022-07-25T20:49:11.866Z,Withdrawal,Russia,India,Pouros, Wiza and Sporer,Spinka - Rippin,8669617.89,Individual,Yes,Large transaction amount,Loan repayment
+127,1675,182324.98,2021-11-13T16:18:19.803Z,Transfer,Russia,Australia,Nienow, Nitzsche and Heidenreich,Hills and Sons,6130461.59,Business,Yes,Large transaction amount,Personal transfer
+128,1765,567031.21,2025-02-26T22:27:41.164Z,Transfer,USA,China,Hermiston, Lindgren and Stoltenberg,Torphy, Kshlerin and Farrell,2725864.19,Business,Yes,Large transaction amount,Loan repayment
+129,1353,207035.30,2020-06-03T04:16:01.898Z,Deposit,Canada,Australia,Hilpert Inc,Terry LLC,6775102.24,Business,Yes,Large transaction amount,Business payment
+130,5540,598358.10,2020-10-10T06:09:39.561Z,Transfer,Germany,China,Schamberger, Cartwright and Dickens,Kovacek and Sons,9487257.48,Business,Yes,Large transaction amount,Personal transfer
+131,7127,336300.48,2022-10-22T02:36:54.568Z,Deposit,India,India,Grant and Sons,Batz, Swaniawski and Miller,4761502.76,Business,Yes,Large transaction amount,Business payment
+132,9166,439988.70,2024-11-14T01:10:06.854Z,Withdrawal,India,Russia,West - Tillman,Larkin Inc,7800042.71,Business,Yes,Large transaction amount,Loan repayment
+133,1484,912292.47,2021-01-09T06:19:31.023Z,Transfer,Canada,Germany,Homenick and Sons,McKenzie - Kiehn,9386213.51,Individual,Yes,Large transaction amount,Business payment
+134,9893,743490.81,2022-01-10T02:46:06.341Z,Deposit,China,China,Padberg, Davis and Heaney,Volkman, Hahn and Tromp,644854.92,Business,Yes,Large transaction amount,Personal transfer
+135,3411,57516.45,2023-11-07T21:08:25.174Z,Withdrawal,Australia,Japan,Abbott Inc,Sipes, Stracke and Streich,4441915.43,Individual,Yes,Large transaction amount,Loan repayment
+136,7510,61540.94,2023-05-04T00:20:07.181Z,Deposit,China,Canada,Abshire, Ryan and Considine,Keeling LLC,9953813.21,Individual,Yes,Large transaction amount,Loan repayment
+137,6130,921138.97,2024-11-22T03:47:23.312Z,Transfer,Canada,Canada,Kunze - Kris,McDermott, Sawayn and Walsh,9043342.91,Individual,Yes,Large transaction amount,Personal transfer
+138,3364,503482.54,2024-11-04T05:51:33.043Z,Deposit,China,Australia,Reilly Group,Stark, Daugherty and Feest,1536365.75,Business,Yes,Large transaction amount,Loan repayment
+139,6664,434247.10,2024-11-07T06:35:08.559Z,Transfer,India,Russia,Kilback, Bartell and Runolfsson,Nolan Group,8175456.41,Business,Yes,Large transaction amount,Loan repayment
+140,9121,25074.00,2020-09-03T08:55:13.068Z,Transfer,UK,China,Graham and Sons,DuBuque - Stiedemann,1766056.87,Business,Yes,Large cross-border transfer,Loan repayment
+141,8923,261493.42,2022-01-07T00:46:32.461Z,Deposit,Australia,Australia,Roberts - Schiller,Ferry - King,3383549.66,Business,Yes,Large transaction amount,Loan repayment
+142,9927,407148.89,2022-10-14T01:51:02.032Z,Deposit,UK,Japan,Gorczany, Hintz and Hane,Kessler and Sons,4832905.76,Individual,Yes,Large transaction amount,Loan repayment
+143,5457,706562.30,2024-01-31T09:07:55.158Z,Transfer,UK,USA,Upton, Bruen and Larson,Morar, Watsica and Keeling,2904879.42,Individual,Yes,Large transaction amount,Personal transfer
+144,8357,868445.46,2023-03-05T03:23:55.765Z,Deposit,Russia,China,D'Amore - Turcotte,Schultz Inc,252100.79,Individual,Yes,Large transaction amount,Loan repayment
+145,6277,870156.01,2020-06-16T07:26:49.489Z,Withdrawal,Russia,UK,Thiel and Sons,McCullough and Sons,1792916.87,Individual,Yes,Large transaction amount,Business payment
+146,9238,429605.91,2024-12-27T07:57:18.323Z,Withdrawal,Germany,Japan,Baumbach Inc,Bartell, Weissnat and Langworth,9564608.15,Individual,Yes,Large transaction amount,Business payment
+147,8010,479620.04,2021-04-04T18:33:16.020Z,Withdrawal,Japan,UK,Schroeder Inc,Mills, Hyatt and Stamm,4913684.99,Individual,Yes,Large transaction amount,Loan repayment
+148,5084,460103.15,2024-06-14T21:20:56.076Z,Deposit,UK,Japan,Mayer, Kreiger and Weissnat,Reichel, Blanda and Hickle,6504145.02,Individual,Yes,Large transaction amount,Loan repayment
+149,9786,275265.28,2021-11-28T22:34:36.694Z,Withdrawal,Germany,Australia,Kautzer - Beatty,Waters, Nikolaus and Fahey,336896.08,Business,Yes,Large transaction amount,Loan repayment
+150,2230,439824.62,2021-04-01T06:53:24.150Z,Withdrawal,India,UK,Lakin, Connelly and Cremin,Shields, Hirthe and Gleichner,5579271.11,Business,Yes,Large transaction amount,Loan repayment
+151,2597,307294.67,2022-05-21T07:05:01.939Z,Transfer,Australia,Canada,Bartell - Parisian,Kiehn, Kassulke and Carter,1463163.89,Business,Yes,Large transaction amount,Loan repayment
+152,5073,962580.19,2024-11-16T20:21:47.254Z,Deposit,Germany,USA,Green - Hane,Strosin, Mante and Mraz,3223323.08,Individual,Yes,Large transaction amount,Business payment
+153,6592,85632.68,2022-03-02T17:57:24.955Z,Withdrawal,Germany,Australia,Kuvalis Inc,Mayert Group,249944.36,Business,Yes,Large transaction amount,Loan repayment
+154,5827,401621.88,2024-02-29T13:18:20.440Z,Deposit,USA,Canada,Brakus, Hilpert and Barton,Dibbert Inc,1896613.03,Individual,Yes,Large transaction amount,Business payment
+155,6912,523612.17,2020-05-09T21:11:36.260Z,Withdrawal,Canada,USA,Dooley, Collins and Hudson,Hamill - Weimann,1085209.98,Business,Yes,Large transaction amount,Personal transfer
+156,6499,823740.14,2023-11-18T01:49:22.506Z,Withdrawal,Germany,Russia,Beahan - Stokes,Parisian - Bogan,6422821.96,Business,Yes,Large transaction amount,Business payment
+157,7453,398526.44,2022-06-18T12:43:24.483Z,Withdrawal,China,China,Schoen, Beier and Howe,Hane Inc,9581338.48,Individual,Yes,Large transaction amount,Business payment
+158,6823,918227.18,2024-04-09T14:05:27.060Z,Deposit,Russia,Russia,Klocko - Lowe,Okuneva, MacGyver and Davis,8987843.00,Business,Yes,Large transaction amount,Business payment
+159,7662,720988.84,2024-12-11T17:24:26.369Z,Withdrawal,India,Japan,Nienow - Torphy,Connelly, Murray and Beatty,7440855.27,Business,Yes,Large transaction amount,Business payment
+160,6122,659150.48,2024-07-28T09:55:36.782Z,Withdrawal,Russia,Japan,Nader - Lowe,Nitzsche and Sons,4630036.57,Individual,Yes,Large transaction amount,Business payment
+161,9919,126890.40,2023-07-18T10:38:38.492Z,Deposit,Germany,Canada,Stamm Group,Trantow - Schmidt,3615583.29,Business,Yes,Large transaction amount,Business payment
+162,7977,960161.69,2024-01-10T16:14:19.817Z,Deposit,UK,China,Blanda - Hahn,Quigley - Dooley,2773939.81,Individual,Yes,Large transaction amount,Loan repayment
+163,5478,931325.92,2024-11-25T12:46:38.017Z,Transfer,Canada,USA,Hand Inc,Auer - Torphy,2038256.01,Business,Yes,Large transaction amount,Loan repayment
+164,9867,817841.91,2023-08-18T06:46:03.271Z,Withdrawal,USA,UK,Gulgowski LLC,Harris Inc,9229104.03,Business,Yes,Large transaction amount,Personal transfer
+165,5816,920287.02,2021-07-03T04:15:21.912Z,Transfer,Australia,Germany,Okuneva LLC,Daugherty - Schimmel,1116727.22,Individual,Yes,Large transaction amount,Personal transfer
+166,5822,540902.33,2020-12-01T12:10:21.018Z,Transfer,USA,India,Harvey - Bins,Goldner - Erdman,5698281.66,Business,Yes,Large transaction amount,Business payment
+167,7050,485238.20,2023-09-25T00:39:46.382Z,Withdrawal,Russia,Canada,D'Amore - Green,Corwin - Kemmer,3668035.85,Individual,Yes,Large transaction amount,Business payment
+168,4787,448666.23,2021-05-22T16:17:28.139Z,Transfer,Germany,Japan,Boyer - Kautzer,Paucek and Sons,1458927.38,Individual,Yes,Large transaction amount,Business payment
+169,3710,571848.55,2022-09-25T15:53:16.978Z,Deposit,Germany,USA,Koss LLC,Tremblay, Hickle and Hyatt,7431459.85,Individual,Yes,Large transaction amount,Loan repayment
+170,5802,692277.97,2022-01-25T04:57:33.733Z,Deposit,Japan,Russia,Berge and Sons,Hintz - Hessel,6171970.54,Individual,Yes,Large transaction amount,Loan repayment
+171,7574,23006.54,2023-08-26T11:54:55.750Z,Deposit,Australia,China,Hintz - Langworth,Schroeder - Douglas,6230517.25,Business,No,,Business payment
+172,1382,646860.74,2022-06-25T12:20:38.357Z,Withdrawal,Canada,Australia,West Inc,Sipes - Kuvalis,6655096.20,Business,Yes,Large transaction amount,Loan repayment
+173,8848,659591.23,2023-07-08T19:20:43.580Z,Deposit,Russia,Germany,Kozey, Mraz and Nikolaus,Stark and Sons,7587746.03,Business,Yes,Large transaction amount,Personal transfer
+174,3528,533035.88,2021-06-29T01:33:30.660Z,Withdrawal,UK,USA,Collins, Kiehn and Kub,Bergnaum Group,1168058.33,Business,Yes,Large transaction amount,Business payment
+175,2905,345824.44,2021-05-03T10:02:33.009Z,Withdrawal,China,USA,Adams - Hermann,Lind, Konopelski and Flatley,869073.14,Business,Yes,Large transaction amount,Personal transfer
+176,2476,948886.05,2024-10-09T07:18:55.021Z,Withdrawal,Japan,USA,Feil - Bernhard,Dickinson Group,3898386.23,Individual,Yes,Large transaction amount,Business payment
+177,5268,695471.46,2023-04-05T22:15:22.303Z,Transfer,Canada,Australia,Schinner - Kris,Collier, Zulauf and Hilpert,6746537.89,Business,Yes,Large transaction amount,Personal transfer
+178,9029,227320.86,2023-04-02T15:23:38.973Z,Withdrawal,USA,Russia,Ruecker - Abbott,Wolff - Osinski,7968890.84,Business,Yes,Large transaction amount,Business payment
+179,7376,275330.61,2021-10-06T06:37:13.339Z,Deposit,China,Australia,Lemke, Schimmel and Will,Rice, Abshire and Hammes,4477511.20,Individual,Yes,Large transaction amount,Loan repayment
+180,8147,568555.74,2024-02-26T03:49:10.851Z,Transfer,China,Japan,White Group,Tromp, Yundt and Fahey,9380491.65,Business,Yes,Large transaction amount,Personal transfer
+181,5727,635270.69,2020-09-03T12:33:34.633Z,Deposit,UK,Japan,Bode, Leuschke and Bernhard,Simonis - Johnson,7271664.99,Business,Yes,Large transaction amount,Loan repayment
+182,6362,825706.46,2022-02-27T13:13:18.581Z,Deposit,Japan,Germany,Larkin LLC,Rippin, Gutmann and Waters,5341208.64,Individual,Yes,Large transaction amount,Business payment
+183,7722,698566.16,2021-02-06T18:22:29.580Z,Transfer,Japan,Germany,Gleason, Connelly and Wehner,Conn, Wilderman and Luettgen,4406294.78,Business,Yes,Large transaction amount,Personal transfer
+184,4170,144265.05,2024-06-07T10:53:31.473Z,Deposit,China,Australia,Stoltenberg - Reichel,Lakin - Marks,1154548.75,Individual,Yes,Large transaction amount,Business payment
+185,2405,484641.76,2024-12-21T18:18:20.669Z,Transfer,Japan,India,Howe, Jacobs and Kuphal,Wyman - Gaylord,3552894.54,Individual,Yes,Large transaction amount,Loan repayment
+186,9307,768007.62,2023-02-02T16:24:13.989Z,Withdrawal,UK,Japan,Rice Group,Rippin, Reilly and Breitenberg,143457.45,Business,Yes,Large transaction amount,Loan repayment
+187,5625,452663.45,2024-02-16T02:30:34.863Z,Deposit,Germany,Russia,Gutmann, Mosciski and Anderson,Hudson, Tromp and Wolff,4746654.21,Business,Yes,Large transaction amount,Business payment
+188,8777,610169.87,2021-07-17T01:43:42.752Z,Deposit,USA,China,Bruen, Rosenbaum and Yost,Mosciski Group,3734139.40,Individual,Yes,Large transaction amount,Personal transfer
+189,2439,947208.37,2024-01-01T16:49:17.466Z,Transfer,China,Canada,Boehm - Corwin,Aufderhar Inc,9358385.90,Individual,Yes,Large transaction amount,Loan repayment
+190,2398,48563.97,2024-08-03T16:57:48.773Z,Deposit,Canada,UK,Tremblay, Ferry and Bode,Mante - Gutkowski,1547103.69,Business,No,,Loan repayment
+191,9104,770561.74,2024-05-30T11:12:21.897Z,Deposit,Russia,India,Grady Inc,Schroeder - Towne,9961162.13,Individual,Yes,Large transaction amount,Business payment
+192,3032,241.74,2021-05-17T19:36:54.905Z,Transfer,Canada,Australia,Larkin Inc,Block, Kuhic and Lemke,5730166.50,Individual,Yes,Large cross-border transfer,Loan repayment
+193,2975,603740.14,2024-08-17T05:18:25.656Z,Withdrawal,Canada,UK,Reynolds - Armstrong,Keebler, Wolf and Shields,4426810.60,Individual,Yes,Large transaction amount,Personal transfer
+194,4714,783605.57,2023-03-14T21:38:04.830Z,Withdrawal,Germany,China,Gibson LLC,Price LLC,4951396.15,Individual,Yes,Large transaction amount,Loan repayment
+195,3807,971370.13,2023-08-06T12:07:16.102Z,Transfer,Germany,USA,Waters Group,Kozey LLC,1798456.67,Business,Yes,Large transaction amount,Personal transfer
+196,9168,483833.99,2021-08-22T23:30:31.718Z,Withdrawal,USA,India,Stoltenberg, Schultz and Cummerata,Monahan, Gusikowski and Lesch,8499250.19,Business,Yes,Large transaction amount,Business payment
+197,3279,660120.14,2021-07-01T22:59:32.296Z,Transfer,UK,China,Miller - Wyman,Cole - Gislason,5140203.42,Individual,Yes,Large transaction amount,Business payment
+198,5561,38008.23,2024-10-04T07:04:42.360Z,Withdrawal,India,Australia,Lindgren Group,Murazik - Tromp,2944488.65,Business,No,,Loan repayment
+199,6071,133889.34,2024-12-11T04:44:41.048Z,Withdrawal,Canada,Australia,Ferry, Heathcote and Jacobi,Blick - Weimann,5243677.98,Individual,Yes,Large transaction amount,Personal transfer
+200,9361,552058.72,2022-03-05T03:47:30.554Z,Transfer,Russia,Australia,Roob - Quigley,Kassulke and Sons,4404830.82,Individual,Yes,Large transaction amount,Loan repayment
+201,7004,24611.45,2021-10-13T11:29:27.370Z,Transfer,China,Germany,Homenick, Gerlach and Hoppe,Yost - Marvin,5778838.18,Individual,Yes,Large cross-border transfer,Business payment
+202,9423,836292.31,2025-02-09T15:25:48.904Z,Deposit,USA,Germany,Cormier and Sons,Gottlieb, Barton and Senger,9865203.26,Business,Yes,Large transaction amount,Personal transfer
+203,5377,707919.56,2022-03-30T06:27:47.058Z,Withdrawal,UK,Australia,Brakus - Herman,Gaylord, Graham and McCullough,6527141.90,Individual,Yes,Large transaction amount,Business payment
+204,4048,284113.05,2021-07-18T01:22:23.543Z,Deposit,China,UK,Boehm, Lemke and Cronin,Barrows - Mertz,5352233.70,Individual,Yes,Large transaction amount,Business payment
+205,1855,71366.38,2023-04-07T06:28:43.314Z,Withdrawal,Germany,Germany,Gorczany Inc,Treutel, Miller and Altenwerth,577883.79,Individual,Yes,Large transaction amount,Personal transfer
+206,7605,800459.39,2021-08-29T14:08:30.585Z,Deposit,India,Germany,Roob Group,Nikolaus Inc,697378.62,Individual,Yes,Large transaction amount,Personal transfer
+207,5004,416984.52,2024-05-01T15:50:13.660Z,Withdrawal,Russia,Russia,Gottlieb, Corkery and Brakus,Hilpert Group,376709.65,Individual,Yes,Large transaction amount,Loan repayment
+208,5345,976616.34,2024-01-28T06:25:04.520Z,Withdrawal,Russia,Germany,Labadie Group,Schoen LLC,662289.40,Individual,Yes,Large transaction amount,Loan repayment
+209,1079,550483.68,2020-10-06T15:16:43.287Z,Transfer,USA,Germany,Douglas - Goldner,Wunsch Inc,5640874.52,Business,Yes,Large transaction amount,Loan repayment
+210,4462,558668.36,2020-10-03T16:37:53.021Z,Transfer,China,China,Homenick, Sipes and Cremin,Glover and Sons,3807735.08,Business,Yes,Large transaction amount,Personal transfer
+211,2824,153221.55,2024-10-22T15:11:23.359Z,Transfer,India,Australia,Oberbrunner Group,Stokes, Schmitt and Ratke,4897814.87,Individual,Yes,Large transaction amount,Loan repayment
+212,2040,977680.45,2020-06-23T03:55:37.790Z,Withdrawal,UK,Germany,Kiehn, Mraz and Wyman,Hammes, Tremblay and Jerde,3293026.29,Business,Yes,Large transaction amount,Personal transfer
+213,8701,937600.19,2020-07-18T03:07:24.540Z,Transfer,Japan,Russia,Mante and Sons,Upton, Reilly and McKenzie,9303814.86,Individual,Yes,Large transaction amount,Business payment
+214,3708,711170.21,2025-02-04T00:28:37.308Z,Withdrawal,Germany,Canada,Keebler - Muller,Haag, Considine and Hermann,5327063.19,Business,Yes,Large transaction amount,Personal transfer
+215,1904,478681.29,2022-07-02T21:14:44.090Z,Withdrawal,Japan,Japan,Little Inc,Bradtke - Grant,7696366.73,Business,Yes,Large transaction amount,Personal transfer
+216,9271,235928.92,2022-10-06T12:12:39.903Z,Withdrawal,UK,Russia,Carter - Cronin,Sporer and Sons,7352561.45,Individual,Yes,Large transaction amount,Personal transfer
+217,4864,36636.40,2020-10-19T16:53:32.242Z,Deposit,UK,China,Pfannerstill, Kunde and Hammes,Lockman, Konopelski and Towne,7805500.10,Individual,No,,Loan repayment
+218,2926,793545.72,2021-10-10T10:11:07.933Z,Transfer,Japan,Australia,Spinka - Lemke,Lynch, Stroman and Krajcik,1751482.62,Individual,Yes,Large transaction amount,Loan repayment
+219,2059,729051.00,2023-02-11T22:27:22.350Z,Withdrawal,China,Australia,Bernier, Frami and Hilpert,Rolfson - Batz,702637.36,Individual,Yes,Large transaction amount,Loan repayment
+220,9392,327040.13,2021-03-26T18:07:11.542Z,Deposit,Russia,Australia,O'Conner, Nienow and Turner,Keebler - Kreiger,2723598.57,Individual,Yes,Large transaction amount,Personal transfer
+221,1587,768333.16,2020-12-03T05:23:33.131Z,Withdrawal,Australia,China,O'Keefe - Murazik,Howell - Leannon,5168357.43,Individual,Yes,Large transaction amount,Personal transfer
+222,4963,92473.72,2020-04-15T08:32:26.153Z,Withdrawal,Russia,USA,Boehm - Quitzon,Yost, Swaniawski and O'Keefe,4710215.00,Business,Yes,Large transaction amount,Personal transfer
+223,1610,547557.42,2022-11-16T22:15:17.841Z,Withdrawal,Japan,USA,Schimmel - Stiedemann,Schinner LLC,2869797.44,Business,Yes,Large transaction amount,Business payment
+224,1546,599153.27,2023-08-13T01:17:23.757Z,Deposit,Russia,Germany,Mraz Inc,Rogahn LLC,6067129.32,Business,Yes,Large transaction amount,Loan repayment
+225,9088,535577.25,2020-07-19T07:39:41.461Z,Withdrawal,Canada,India,Pagac LLC,Will - Ebert,6817357.67,Individual,Yes,Large transaction amount,Personal transfer
+226,8139,638745.97,2020-10-08T22:52:09.918Z,Deposit,Canada,USA,Padberg - Altenwerth,Bauch Group,9818490.27,Individual,Yes,Large transaction amount,Loan repayment
+227,3297,654279.67,2024-03-21T06:08:15.513Z,Withdrawal,Japan,Australia,Lindgren - Macejkovic,Goyette LLC,6762797.81,Individual,Yes,Large transaction amount,Business payment
+228,5909,286967.36,2023-10-02T12:29:42.661Z,Transfer,Canada,China,Barrows - Lesch,Connelly, Huel and Adams,1887218.10,Individual,Yes,Large transaction amount,Personal transfer
+229,1591,674708.54,2023-03-27T09:59:57.484Z,Transfer,Japan,India,Pfannerstill - Dicki,Deckow - Heaney,5577496.05,Individual,Yes,Large transaction amount,Personal transfer
+230,2966,196723.16,2024-02-19T02:22:35.795Z,Transfer,Japan,Australia,Kassulke - Huel,Lubowitz and Sons,8106782.37,Individual,Yes,Large transaction amount,Loan repayment
+231,5680,900896.68,2023-08-31T15:43:48.861Z,Transfer,USA,Germany,Wuckert LLC,Okuneva Group,1792713.02,Individual,Yes,Large transaction amount,Loan repayment
+232,3208,523444.09,2022-03-19T07:34:29.606Z,Withdrawal,Australia,Australia,Lubowitz, Nitzsche and Lemke,Douglas, McCullough and Smith,5350163.59,Individual,Yes,Large transaction amount,Loan repayment
+233,8319,723700.19,2021-01-09T13:11:12.131Z,Deposit,India,Canada,Effertz - Larson,Gerhold, Spencer and Wilderman,910184.76,Individual,Yes,Large transaction amount,Loan repayment
+234,9070,761597.01,2020-08-22T14:24:17.553Z,Withdrawal,Canada,USA,Graham - Runolfsson,Braun, Konopelski and Block,8676364.17,Business,Yes,Large transaction amount,Business payment
+235,5386,889796.32,2024-06-26T12:43:12.154Z,Withdrawal,USA,USA,Gaylord LLC,O'Conner and Sons,1112181.66,Individual,Yes,Large transaction amount,Loan repayment
+236,5674,251623.46,2020-10-05T09:04:53.979Z,Deposit,China,China,Hegmann - Torp,Shanahan Inc,8532016.29,Individual,Yes,Large transaction amount,Business payment
+237,2299,791896.88,2023-12-26T00:55:35.332Z,Withdrawal,USA,USA,Kuhlman Group,Hoppe, Rempel and Roob,8604806.39,Individual,Yes,Large transaction amount,Personal transfer
+238,1948,278283.46,2021-09-03T02:02:20.143Z,Transfer,Russia,Russia,Balistreri LLC,Spinka - Russel,6618767.40,Individual,Yes,Large transaction amount,Business payment
+239,1620,866934.47,2021-11-14T04:14:39.633Z,Withdrawal,India,USA,Davis Group,Brekke LLC,9846997.83,Individual,Yes,Large transaction amount,Personal transfer
+240,7425,153200.98,2020-08-16T04:46:41.705Z,Deposit,India,Canada,Becker - Hauck,Daniel - Balistreri,9335824.86,Business,Yes,Large transaction amount,Loan repayment
+241,8089,809401.18,2023-03-31T11:55:53.703Z,Withdrawal,Australia,Japan,O'Conner - Bradtke,Roob, Fahey and Gaylord,3829717.49,Business,Yes,Large transaction amount,Business payment
+242,7222,678175.76,2021-08-11T16:07:39.313Z,Deposit,China,USA,Ratke - Johns,Stokes and Sons,1437868.31,Business,Yes,Large transaction amount,Loan repayment
+243,2606,321656.17,2024-01-17T15:51:12.038Z,Deposit,Canada,Germany,Douglas and Sons,Rosenbaum - Rath,6775848.48,Business,Yes,Large transaction amount,Personal transfer
+244,5368,355660.99,2021-09-09T23:33:12.507Z,Transfer,Germany,Canada,Abbott Group,Jones - Hegmann,7165523.45,Individual,Yes,Large transaction amount,Loan repayment
+245,4905,481078.77,2023-09-11T23:56:00.211Z,Transfer,China,Canada,Donnelly - Carter,Reinger, Grant and Treutel,5328042.80,Individual,Yes,Large transaction amount,Business payment
+246,8363,911207.57,2020-03-29T03:30:58.371Z,Deposit,Russia,UK,Wunsch - Hane,Wisozk - Cartwright,9393071.45,Business,Yes,Large transaction amount,Business payment
+247,4797,720812.66,2020-10-31T22:22:32.608Z,Transfer,UK,USA,Pagac, Dicki and Ryan,Larkin - Borer,7273758.20,Business,Yes,Large transaction amount,Personal transfer
+248,4283,781408.74,2023-12-26T00:21:43.173Z,Withdrawal,China,UK,Reynolds - Miller,O'Connell - Lowe,9225518.10,Individual,Yes,Large transaction amount,Personal transfer
+249,7957,556967.23,2023-07-01T17:47:26.705Z,Withdrawal,UK,Russia,Prohaska, Legros and Schinner,Haley and Sons,2990518.79,Individual,Yes,Large transaction amount,Personal transfer
+250,4933,77452.58,2021-01-22T23:23:27.271Z,Withdrawal,Japan,India,Leannon, Hayes and Beer,Connelly - Wunsch,8954760.76,Individual,Yes,Large transaction amount,Business payment
+251,7085,820156.27,2021-05-26T05:10:43.270Z,Deposit,India,Japan,Veum, Cassin and O'Reilly,Berge Group,457737.86,Business,Yes,Large transaction amount,Business payment
+252,5332,923865.55,2020-09-19T09:43:08.271Z,Transfer,China,Japan,Bechtelar - Kuvalis,Bernhard, Parker and Rowe,401140.45,Business,Yes,Large transaction amount,Loan repayment
+253,7386,592644.61,2025-01-26T04:07:56.434Z,Transfer,Canada,UK,O'Conner and Sons,Block - Swift,6795937.57,Individual,Yes,Large transaction amount,Loan repayment
+254,9131,288614.04,2022-04-27T13:25:26.736Z,Deposit,Australia,India,Lockman, Dare and Smith,Little and Sons,4977918.90,Individual,Yes,Large transaction amount,Business payment
+255,3863,347625.63,2023-10-10T09:51:57.606Z,Withdrawal,China,China,Sanford - Herman,Rogahn - Krajcik,1039703.17,Business,Yes,Large transaction amount,Personal transfer
+256,2381,130467.54,2021-01-29T07:04:05.115Z,Deposit,Canada,Canada,DuBuque LLC,White - Morar,3753110.78,Individual,Yes,Large transaction amount,Business payment
+257,6398,235387.86,2024-12-24T03:39:53.883Z,Transfer,Canada,China,Emard, Stracke and Larkin,Stracke, Kertzmann and Walter,3896010.98,Individual,Yes,Large transaction amount,Personal transfer
+258,3572,357158.04,2021-03-21T09:26:38.397Z,Withdrawal,USA,India,Schimmel Group,Reilly Inc,5922994.50,Individual,Yes,Large transaction amount,Personal transfer
+259,7460,885680.57,2024-06-04T07:09:38.595Z,Deposit,India,Canada,Langworth Inc,Brakus Inc,1981566.86,Business,Yes,Large transaction amount,Business payment
+260,3010,960556.18,2022-01-02T23:25:53.551Z,Withdrawal,India,China,Considine - Pollich,Franecki - Goodwin,6735255.99,Individual,Yes,Large transaction amount,Loan repayment
+261,3261,307587.36,2023-09-29T20:33:33.930Z,Transfer,Canada,Germany,Braun, Kuhn and Langworth,Pollich - Gutmann,3431665.62,Business,Yes,Large transaction amount,Business payment
+262,1267,826716.18,2023-07-08T09:02:00.809Z,Transfer,UK,USA,Tillman, Schmidt and Mitchell,Bahringer, Bahringer and Terry,4908704.77,Individual,Yes,Large transaction amount,Loan repayment
+263,2971,870145.34,2022-05-13T13:11:57.844Z,Withdrawal,Canada,USA,Leuschke, Cassin and Turner,Graham Inc,2946414.03,Individual,Yes,Large transaction amount,Business payment
+264,9835,951054.88,2024-07-11T15:14:47.837Z,Withdrawal,Canada,Russia,Lakin, Herman and Gleichner,Jacobson, Stroman and Mills,7222224.20,Individual,Yes,Large transaction amount,Personal transfer
+265,7891,901382.25,2021-01-17T11:55:51.732Z,Withdrawal,USA,Russia,Hansen, Hagenes and Kemmer,Smitham, Hegmann and Yundt,1555355.87,Individual,Yes,Large transaction amount,Business payment
+266,2201,518718.71,2024-01-23T08:39:51.819Z,Transfer,Germany,Canada,Considine LLC,Bradtke LLC,3752907.39,Individual,Yes,Large transaction amount,Business payment
+267,5798,303114.45,2024-09-25T17:05:48.328Z,Withdrawal,Japan,India,Goldner, Block and McLaughlin,Keeling - Jacobs,3471227.22,Business,Yes,Large transaction amount,Loan repayment
+268,8616,56356.86,2023-08-26T18:58:22.258Z,Transfer,Canada,India,Runolfsdottir, Sporer and O'Conner,Williamson, O'Reilly and Stokes,1188467.07,Individual,Yes,Large transaction amount,Personal transfer
+269,5028,673196.99,2020-06-11T23:16:29.640Z,Deposit,Russia,UK,Fisher - Cummerata,Wiegand, Will and Stracke,8315964.61,Individual,Yes,Large transaction amount,Personal transfer
+270,7051,64861.97,2023-04-08T06:22:57.462Z,Withdrawal,India,Japan,Feest, Farrell and Wiegand,King, Orn and Hayes,5137423.40,Individual,Yes,Large transaction amount,Business payment
+271,7679,764292.12,2023-07-14T03:04:53.918Z,Deposit,China,China,Kunze, Dare and Runte,Goyette Group,3350465.34,Business,Yes,Large transaction amount,Loan repayment
+272,3050,635320.16,2023-03-28T09:06:01.527Z,Withdrawal,UK,Russia,Treutel - Hayes,Ortiz, Bartell and Hane,7494500.74,Business,Yes,Large transaction amount,Personal transfer
+273,6220,73340.78,2023-04-24T15:58:02.660Z,Deposit,Canada,Japan,Deckow, Hermiston and Dare,Will LLC,2791728.53,Individual,Yes,Large transaction amount,Loan repayment
+274,4469,99745.11,2022-06-17T08:43:28.064Z,Transfer,Germany,Germany,Hahn LLC,Bashirian Inc,7494512.40,Individual,Yes,Large transaction amount,Business payment
+275,2402,749073.91,2023-04-01T02:44:53.384Z,Transfer,UK,USA,Lesch and Sons,Paucek, Ondricka and Adams,3571237.98,Individual,Yes,Large transaction amount,Business payment
+276,3625,458236.60,2022-03-31T04:14:45.582Z,Deposit,Japan,UK,Hand LLC,Gaylord and Sons,9550191.94,Individual,Yes,Large transaction amount,Business payment
+277,8013,295448.25,2020-04-11T07:15:36.471Z,Transfer,UK,UK,Farrell, Mueller and Schamberger,Moen, Morar and Boyer,5761278.95,Business,Yes,Large transaction amount,Business payment
+278,1458,187171.07,2022-07-16T10:28:53.859Z,Transfer,UK,Australia,Wilderman Group,Schulist - Schuster,1482224.99,Individual,Yes,Large transaction amount,Personal transfer
+279,3321,609099.37,2023-08-26T16:30:21.449Z,Withdrawal,India,India,Medhurst - Legros,Gutmann - Medhurst,7194237.67,Business,Yes,Large transaction amount,Loan repayment
+280,8377,856276.85,2024-11-30T07:12:46.137Z,Transfer,Canada,Germany,Hegmann, Moore and Swaniawski,Pacocha - Harber,2437662.37,Business,Yes,Large transaction amount,Business payment
+281,7556,713540.36,2020-08-28T15:11:45.898Z,Deposit,UK,Australia,Doyle - Hartmann,Schaden, Reynolds and Rippin,6510101.03,Individual,Yes,Large transaction amount,Personal transfer
+282,5458,489023.51,2023-03-12T14:29:12.829Z,Deposit,Russia,USA,Jacobson Inc,Leuschke Group,9207634.00,Individual,Yes,Large transaction amount,Business payment
+283,8274,706290.39,2024-11-08T11:48:32.699Z,Withdrawal,Australia,India,Hintz - McKenzie,Hilll - Schmidt,6577455.57,Business,Yes,Large transaction amount,Business payment
+284,6839,312926.23,2024-03-03T05:46:42.443Z,Withdrawal,Canada,Russia,Kertzmann, Beahan and Lesch,DuBuque, Kuvalis and Abshire,7904283.86,Business,Yes,Large transaction amount,Loan repayment
+285,3456,841536.02,2022-04-27T20:12:51.033Z,Withdrawal,Australia,USA,Ferry, Abernathy and Hintz,Turner - Becker,8333581.98,Individual,Yes,Large transaction amount,Personal transfer
+286,1485,290913.27,2021-01-02T19:35:03.955Z,Withdrawal,USA,Japan,Stoltenberg - Shields,Sanford, Morar and Prohaska,4930669.09,Individual,Yes,Large transaction amount,Personal transfer
+287,5342,215495.30,2024-01-08T09:39:31.433Z,Deposit,India,India,Barrows and Sons,Glover and Sons,4820612.55,Individual,Yes,Large transaction amount,Personal transfer
+288,1821,126899.58,2023-10-24T02:55:04.835Z,Transfer,Japan,Germany,Franecki LLC,Streich Group,6369425.31,Individual,Yes,Large transaction amount,Loan repayment
+289,4547,156176.47,2021-04-12T11:11:55.173Z,Withdrawal,USA,India,O'Kon - Runte,McClure - Kuhic,9249489.94,Business,Yes,Large transaction amount,Business payment
+290,1585,239759.00,2021-09-10T07:56:22.569Z,Deposit,UK,China,Feil LLC,Gutkowski - Erdman,7719158.64,Business,Yes,Large transaction amount,Loan repayment
+291,6841,435795.22,2020-08-24T21:13:51.101Z,Deposit,Germany,USA,Pacocha - Ryan,Hodkiewicz Group,9792968.26,Individual,Yes,Large transaction amount,Business payment
+292,4726,422891.39,2023-02-10T20:02:44.964Z,Transfer,UK,Germany,Lindgren, Bashirian and Ankunding,Lowe Group,3644076.02,Individual,Yes,Large transaction amount,Business payment
+293,5824,443788.99,2023-10-18T22:48:19.866Z,Deposit,UK,Germany,Bosco Inc,Yundt and Sons,5566710.22,Individual,Yes,Large transaction amount,Personal transfer
+294,6129,346880.11,2025-02-06T14:50:02.589Z,Deposit,USA,UK,Hoeger - Hamill,Bogan, Russel and Bernhard,9158752.57,Business,Yes,Large transaction amount,Personal transfer
+295,3191,277232.00,2024-08-07T07:55:29.369Z,Withdrawal,Canada,USA,Kunde LLC,Dickens, Konopelski and Gorczany,5564782.68,Individual,Yes,Large transaction amount,Business payment
+296,2349,353062.44,2020-11-12T18:50:47.473Z,Deposit,Germany,Japan,McClure - Rosenbaum,Pollich Group,8512434.90,Business,Yes,Large transaction amount,Loan repayment
+297,6324,971701.92,2023-01-29T08:10:20.253Z,Withdrawal,Canada,Canada,Emard - Graham,Lesch - Lockman,3389889.42,Individual,Yes,Large transaction amount,Loan repayment
+298,9199,467515.61,2022-12-06T10:50:45.181Z,Transfer,Japan,Russia,Fritsch, Pouros and Boyer,Beer, Maggio and Pagac,929050.80,Individual,Yes,Large transaction amount,Loan repayment
+299,1847,570072.89,2023-05-28T08:18:19.445Z,Transfer,China,China,Becker - Little,Watsica Inc,7507736.04,Business,Yes,Large transaction amount,Loan repayment
+300,1031,167551.45,2023-10-24T07:29:46.395Z,Transfer,UK,Japan,Mayert - Will,Cartwright LLC,4503274.77,Individual,Yes,Large transaction amount,Loan repayment
+301,4526,849273.73,2023-07-15T19:04:28.823Z,Withdrawal,USA,Australia,Jerde, Parker and Leannon,Dicki, Thiel and Muller,2895998.27,Individual,Yes,Large transaction amount,Loan repayment
+302,9074,47771.49,2021-05-05T23:23:15.731Z,Transfer,China,Russia,Strosin, Boyer and Thompson,Gutmann - Boehm,4582672.58,Business,Yes,Large cross-border transfer,Personal transfer
+303,6230,935836.74,2021-06-17T15:29:21.337Z,Transfer,Germany,Russia,Aufderhar LLC,Dooley and Sons,4875096.61,Business,Yes,Large transaction amount,Personal transfer
+304,3154,27091.52,2021-12-31T05:11:15.078Z,Deposit,Australia,Russia,Greenfelder Inc,Renner, McLaughlin and Heathcote,5033739.50,Business,No,,Business payment
+305,9513,984222.24,2021-09-13T04:30:40.436Z,Transfer,China,India,Yost - Lockman,Ziemann - Wiegand,2703766.05,Individual,Yes,Large transaction amount,Personal transfer
+306,5501,55164.29,2022-06-05T02:49:17.232Z,Transfer,Russia,UK,Prohaska, Rosenbaum and Braun,Johns Group,3425870.45,Business,Yes,Large transaction amount,Business payment
+307,1894,887331.64,2021-08-12T18:37:37.510Z,Transfer,India,Russia,Christiansen, Greenholt and Lebsack,Jakubowski Inc,972139.85,Individual,Yes,Large transaction amount,Loan repayment
+308,5619,404049.29,2024-06-23T13:49:13.291Z,Deposit,USA,Australia,Haag - Hand,Jones Group,6533249.43,Individual,Yes,Large transaction amount,Personal transfer
+309,5617,772678.85,2023-02-22T18:06:35.344Z,Transfer,Japan,Germany,Littel Inc,Hagenes - Medhurst,7860839.65,Business,Yes,Large transaction amount,Loan repayment
+310,6599,119743.60,2024-02-24T12:52:49.562Z,Withdrawal,Australia,Canada,Goodwin, Beahan and Parker,O'Hara - Wilderman,9401362.98,Business,Yes,Large transaction amount,Loan repayment
+311,1823,770093.74,2022-06-24T17:13:17.953Z,Transfer,USA,Germany,Wuckert, Kling and Pouros,Jaskolski LLC,7301447.57,Individual,Yes,Large transaction amount,Loan repayment
+312,7479,45459.89,2021-11-13T17:42:49.850Z,Deposit,India,Germany,Harber - Heidenreich,McClure and Sons,2194796.53,Business,No,,Loan repayment
+313,7823,272185.66,2022-08-09T09:48:45.909Z,Deposit,China,USA,Cummerata - Heathcote,Zieme - Langosh,9108874.75,Business,Yes,Large transaction amount,Business payment
+314,4273,993924.53,2022-02-13T21:48:35.916Z,Transfer,Russia,Germany,Parker - Simonis,Hammes - Tremblay,1654742.11,Individual,Yes,Large transaction amount,Personal transfer
+315,9008,824787.27,2022-02-16T00:36:28.954Z,Transfer,Russia,UK,Collins and Sons,Dare Inc,3905914.84,Individual,Yes,Large transaction amount,Business payment
+316,2937,881238.28,2021-08-27T00:19:06.906Z,Withdrawal,India,Germany,Graham - Effertz,McLaughlin - Mohr,5905569.82,Individual,Yes,Large transaction amount,Loan repayment
+317,6143,955046.78,2022-08-11T18:12:54.358Z,Deposit,USA,India,Keeling, Jones and Cummings,Russel - Kihn,5756175.81,Individual,Yes,Large transaction amount,Loan repayment
+318,3750,796156.40,2023-08-12T02:18:00.778Z,Withdrawal,Canada,Germany,Hauck - Watsica,Gorczany LLC,6325891.74,Individual,Yes,Large transaction amount,Personal transfer
+319,6675,214465.63,2023-07-14T21:05:29.568Z,Withdrawal,Germany,USA,Howell, Harris and Purdy,Torp, Yundt and Larson,4063638.57,Individual,Yes,Large transaction amount,Loan repayment
+320,3984,747657.07,2020-08-20T17:46:34.407Z,Withdrawal,UK,Australia,Lockman, Schimmel and Ryan,Fay - Kertzmann,8005048.58,Business,Yes,Large transaction amount,Loan repayment
+321,4376,587016.83,2020-03-22T18:47:16.555Z,Deposit,Russia,India,Daugherty, Lockman and Parisian,Kling Group,3971146.63,Individual,Yes,Large transaction amount,Personal transfer
+322,7263,912774.95,2021-11-08T17:55:17.057Z,Transfer,UK,USA,Gleason - Schoen,Ebert LLC,4878901.97,Business,Yes,Large transaction amount,Loan repayment
+323,2973,50299.20,2021-07-17T14:02:35.856Z,Deposit,UK,UK,Ankunding - Roberts,Little, Considine and Tremblay,1456796.08,Business,Yes,Large transaction amount,Personal transfer
+324,8036,302737.64,2023-06-05T03:51:00.057Z,Withdrawal,China,UK,Huels Inc,Champlin - Ebert,2220699.19,Business,Yes,Large transaction amount,Personal transfer
+325,4880,215741.42,2024-07-24T21:00:32.051Z,Transfer,UK,Australia,Cronin - Padberg,Schulist, Schamberger and Schuppe,4056275.71,Individual,Yes,Large transaction amount,Loan repayment
+326,9842,246490.76,2023-05-20T16:33:22.658Z,Deposit,Canada,China,Zulauf - Corwin,Mann - Barrows,2935434.29,Individual,Yes,Large transaction amount,Business payment
+327,8721,319663.75,2024-09-27T05:18:22.409Z,Withdrawal,Japan,Russia,Kerluke - Douglas,Erdman, Nikolaus and Hessel,9970945.02,Individual,Yes,Large transaction amount,Personal transfer
+328,1506,945168.84,2020-09-21T22:02:56.858Z,Deposit,China,Australia,Raynor and Sons,Sporer - Veum,2879619.73,Individual,Yes,Large transaction amount,Business payment
+329,7688,388951.47,2025-01-19T09:23:08.539Z,Transfer,India,Canada,Goyette, Hettinger and Gulgowski,Erdman, Koch and Schinner,1957615.98,Business,Yes,Large transaction amount,Loan repayment
+330,2057,632903.36,2021-02-16T17:06:00.375Z,Withdrawal,UK,China,Mitchell - O'Reilly,Donnelly - Pagac,4206818.21,Business,Yes,Large transaction amount,Loan repayment
+331,8809,503163.08,2023-04-12T21:03:35.429Z,Transfer,USA,UK,Bartell Inc,Feeney - Schiller,1699965.44,Business,Yes,Large transaction amount,Personal transfer
+332,7886,830237.12,2021-07-02T01:08:35.468Z,Withdrawal,Canada,Canada,Feeney - Hackett,Hickle - Stamm,4179296.75,Business,Yes,Large transaction amount,Personal transfer
+333,8281,993870.89,2024-11-11T19:13:57.437Z,Deposit,China,Canada,Goyette - Hyatt,Keebler - Frami,2094002.51,Business,Yes,Large transaction amount,Business payment
+334,6039,490055.35,2022-03-21T01:30:58.232Z,Transfer,USA,Russia,Veum, Gusikowski and Champlin,Pollich and Sons,6243339.12,Individual,Yes,Large transaction amount,Personal transfer
+335,6447,450223.77,2024-08-23T04:53:28.507Z,Transfer,India,UK,Marks Group,Olson, Quigley and Medhurst,3698329.86,Individual,Yes,Large transaction amount,Loan repayment
+336,2098,966732.75,2021-02-21T23:19:41.806Z,Transfer,USA,USA,Boyle Inc,D'Amore LLC,2778790.95,Business,Yes,Large transaction amount,Personal transfer
+337,5047,826281.02,2021-07-05T10:42:44.635Z,Deposit,Germany,Japan,Sawayn Inc,McKenzie - Beahan,2799834.88,Business,Yes,Large transaction amount,Loan repayment
+338,5941,921942.91,2023-07-08T12:21:02.920Z,Transfer,Australia,Canada,Kassulke, Johnston and Waelchi,Gerlach - Huels,4869514.05,Individual,Yes,Large transaction amount,Business payment
+339,5373,772812.53,2023-08-09T04:38:03.822Z,Deposit,Russia,Russia,McClure - Morissette,Rutherford - Lindgren,3346723.02,Individual,Yes,Large transaction amount,Business payment
+340,5252,337426.01,2022-07-12T19:37:38.288Z,Withdrawal,Canada,Japan,Gorczany LLC,Spinka - Marks,658988.24,Business,Yes,Large transaction amount,Personal transfer
+341,3296,140696.96,2022-03-30T07:20:30.795Z,Deposit,China,UK,Armstrong - Morar,Schuppe - Altenwerth,3267729.09,Individual,Yes,Large transaction amount,Personal transfer
+342,8342,633518.40,2022-07-24T03:03:18.586Z,Deposit,India,Canada,Heathcote, Schamberger and Blick,Hilpert LLC,3550487.19,Individual,Yes,Large transaction amount,Loan repayment
+343,6800,70204.17,2024-06-27T11:47:12.702Z,Withdrawal,Canada,China,Kohler - VonRueden,Schuster - Shields,6025914.83,Individual,Yes,Large transaction amount,Personal transfer
+344,5954,558462.37,2020-10-15T09:27:14.795Z,Withdrawal,Russia,Japan,Bashirian, Torp and Bogisich,Champlin Inc,5677649.29,Business,Yes,Large transaction amount,Personal transfer
+345,7355,715550.69,2020-12-24T19:36:03.428Z,Transfer,Japan,Germany,Kertzmann - Bergstrom,Koepp - Stanton,9811644.94,Business,Yes,Large transaction amount,Loan repayment
+346,4934,371186.29,2021-03-13T03:24:35.336Z,Withdrawal,Australia,Germany,Braun Inc,Cronin - Prohaska,9864296.42,Business,Yes,Large transaction amount,Business payment
+347,3077,552366.85,2021-03-04T01:33:27.560Z,Deposit,UK,Germany,Adams, Hyatt and Haag,Kemmer, Wyman and Mante,9520093.83,Business,Yes,Large transaction amount,Loan repayment
+348,1823,333257.45,2024-08-02T12:43:12.135Z,Withdrawal,USA,India,West, Jaskolski and Olson,Kemmer Inc,4327666.72,Business,Yes,Large transaction amount,Business payment
+349,3309,778540.65,2022-01-06T19:15:05.414Z,Deposit,China,UK,Lockman Inc,Mills, Beier and Wisozk,6066951.51,Business,Yes,Large transaction amount,Business payment
+350,9940,566105.95,2020-08-14T09:21:08.389Z,Deposit,Russia,UK,Kreiger Group,Wilkinson - Runolfsson,6004840.03,Individual,Yes,Large transaction amount,Business payment
+351,8156,199754.95,2021-08-14T00:06:50.371Z,Transfer,Australia,Australia,Predovic - Ritchie,Macejkovic - Ledner,8457862.77,Business,Yes,Large transaction amount,Personal transfer
+352,2538,940315.72,2022-04-10T02:35:33.225Z,Withdrawal,India,Germany,Hane, Senger and Koelpin,Swaniawski, Hamill and O'Reilly,2776741.17,Business,Yes,Large transaction amount,Business payment
+353,3948,159466.82,2024-01-19T10:08:39.728Z,Withdrawal,Russia,USA,Daugherty and Sons,Purdy - Haag,5780525.16,Individual,Yes,Large transaction amount,Loan repayment
+354,6688,271288.62,2020-10-03T03:00:50.447Z,Deposit,UK,China,Rau Group,Jakubowski, Ullrich and Cormier,1228716.17,Business,Yes,Large transaction amount,Loan repayment
+355,9389,546689.40,2023-07-31T17:20:37.797Z,Transfer,China,UK,Casper - Towne,Oberbrunner, Gottlieb and Stracke,1624970.34,Business,Yes,Large transaction amount,Personal transfer
+356,2963,516559.76,2023-03-20T07:12:32.059Z,Withdrawal,Germany,Australia,Ratke, Rice and Collier,Moen, Lang and Berge,7191643.90,Business,Yes,Large transaction amount,Personal transfer
+357,9030,588539.84,2023-10-10T16:31:00.378Z,Withdrawal,USA,Russia,Metz - Lubowitz,Pacocha - Mueller,3461347.23,Individual,Yes,Large transaction amount,Loan repayment
+358,5027,517138.05,2021-12-26T10:40:13.347Z,Deposit,Germany,Germany,Gibson, Ullrich and Beahan,Beahan - Bechtelar,583815.86,Business,Yes,Large transaction amount,Loan repayment
+359,1294,244391.87,2024-07-06T22:44:49.394Z,Deposit,China,Japan,Littel, Tremblay and O'Conner,Fahey - Streich,1000934.43,Individual,Yes,Large transaction amount,Personal transfer
+360,7243,331524.01,2024-05-27T18:19:46.873Z,Withdrawal,UK,Germany,Reilly Group,Bosco, Bergstrom and Hirthe,8615545.38,Individual,Yes,Large transaction amount,Business payment
+361,1416,800405.78,2025-02-06T00:08:09.412Z,Deposit,Australia,Japan,Bartell - Bailey,Romaguera and Sons,2169960.40,Business,Yes,Large transaction amount,Personal transfer
+362,4064,509093.65,2023-03-31T18:36:12.107Z,Transfer,Australia,Russia,Collins, Jerde and Beatty,Smith and Sons,3396495.40,Individual,Yes,Large transaction amount,Business payment
+363,5956,842976.09,2024-06-05T11:17:11.892Z,Withdrawal,Canada,Canada,Kirlin - Johns,Little and Sons,2601070.43,Business,Yes,Large transaction amount,Business payment
+364,8355,77442.93,2020-04-22T09:34:38.009Z,Deposit,Russia,Germany,Roberts, Upton and Orn,Ratke LLC,8591904.25,Business,Yes,Large transaction amount,Business payment
+365,2570,914298.23,2020-06-10T16:04:28.909Z,Withdrawal,Australia,China,Veum Group,Toy, Lakin and Hamill,231559.87,Business,Yes,Large transaction amount,Personal transfer
+366,4209,455243.77,2024-09-12T06:10:07.000Z,Withdrawal,India,UK,Miller Inc,Kshlerin - O'Connell,2315514.08,Business,Yes,Large transaction amount,Personal transfer
+367,3930,437064.52,2021-12-23T19:44:12.448Z,Transfer,USA,Canada,Schinner - Durgan,McKenzie, Swift and Sawayn,5266092.71,Individual,Yes,Large transaction amount,Personal transfer
+368,6147,527423.58,2023-07-01T15:18:54.004Z,Transfer,Japan,UK,Kuhic - Deckow,Goyette Inc,6804724.14,Individual,Yes,Large transaction amount,Loan repayment
+369,5170,710157.73,2020-08-26T21:43:27.289Z,Withdrawal,Canada,Russia,Goyette and Sons,Aufderhar and Sons,2248623.25,Business,Yes,Large transaction amount,Loan repayment
+370,7357,882525.01,2023-11-26T08:30:50.891Z,Deposit,UK,USA,Schamberger - Goldner,Nitzsche - Zemlak,23311.34,Business,Yes,Large transaction amount,Loan repayment
+371,1026,74313.11,2020-06-25T07:38:54.266Z,Deposit,China,Canada,Davis Group,Orn - Feeney,3636896.81,Business,Yes,Large transaction amount,Business payment
+372,4729,848197.02,2023-01-14T17:34:53.241Z,Deposit,India,Russia,Heidenreich LLC,Labadie, Boehm and O'Keefe,1001054.69,Individual,Yes,Large transaction amount,Personal transfer
+373,3858,19712.78,2020-04-19T01:37:23.884Z,Transfer,Canada,UK,Dooley, Mraz and Tillman,Gibson - Leffler,2738656.29,Business,Yes,Large cross-border transfer,Business payment
+374,4165,719179.75,2024-01-23T01:38:40.546Z,Deposit,Canada,USA,Murray, Pacocha and Kunze,Morissette LLC,9697028.21,Individual,Yes,Large transaction amount,Personal transfer
+375,7374,760211.52,2023-11-06T20:14:57.707Z,Deposit,Canada,Russia,Bradtke Group,Olson and Sons,892716.97,Individual,Yes,Large transaction amount,Personal transfer
+376,6932,929955.24,2020-04-02T22:36:30.463Z,Transfer,Russia,China,Fadel, Collins and Emmerich,Marquardt Inc,998802.78,Individual,Yes,Large transaction amount,Business payment
+377,9037,961418.51,2020-06-05T08:47:58.696Z,Withdrawal,Russia,China,Predovic and Sons,Hudson, Vandervort and Willms,182382.19,Business,Yes,Large transaction amount,Personal transfer
+378,6083,864934.03,2024-05-12T22:27:29.449Z,Transfer,Russia,Australia,Rice Group,Cummings - Huels,4376121.62,Individual,Yes,Large transaction amount,Business payment
+379,8247,380609.51,2023-03-24T19:51:55.502Z,Withdrawal,Germany,Canada,Durgan - Huels,Champlin, Dietrich and Carter,2031682.89,Business,Yes,Large transaction amount,Personal transfer
+380,5828,500799.04,2025-01-07T05:55:47.922Z,Deposit,Russia,Australia,Heathcote, Huels and Boyle,Fadel, Zemlak and Tromp,4115512.13,Business,Yes,Large transaction amount,Loan repayment
+381,3816,152927.72,2025-01-21T04:02:48.932Z,Deposit,India,Australia,Hackett - Halvorson,Hoppe - Jaskolski,7964237.48,Business,Yes,Large transaction amount,Business payment
+382,1287,920723.50,2020-06-05T07:34:20.979Z,Withdrawal,Germany,Japan,Volkman, Thiel and Collier,Koepp - Howe,7024007.01,Business,Yes,Large transaction amount,Personal transfer
+383,3333,9325.78,2023-08-29T09:29:03.373Z,Transfer,Japan,UK,Bartell - Marvin,Cole, Greenholt and Walsh,5386650.12,Business,Yes,Large cross-border transfer,Business payment
+384,4677,444148.98,2021-05-16T17:24:28.886Z,Transfer,UK,UK,Becker, Corkery and Koepp,Collins and Sons,4400741.73,Business,Yes,Large transaction amount,Loan repayment
+385,6760,486937.28,2024-11-02T14:52:18.957Z,Withdrawal,India,UK,Hartmann, Herman and Wolff,Cummerata, Schinner and Aufderhar,211123.45,Business,Yes,Large transaction amount,Personal transfer
+386,2812,738485.46,2022-07-24T12:01:53.103Z,Withdrawal,Russia,Russia,Parisian - McLaughlin,Buckridge, Pollich and Nicolas,254916.12,Business,Yes,Large transaction amount,Loan repayment
+387,2837,729728.07,2024-07-18T23:46:47.331Z,Deposit,Australia,Russia,Schimmel, Howe and Blick,Pfeffer, Huel and Huels,1380283.14,Business,Yes,Large transaction amount,Business payment
+388,5763,828121.31,2024-01-16T06:13:02.546Z,Deposit,Japan,Russia,Corwin, Turcotte and Larkin,Durgan Inc,1333710.00,Business,Yes,Large transaction amount,Loan repayment
+389,1836,525182.48,2020-11-06T05:27:26.139Z,Deposit,USA,Germany,Bradtke Inc,Daugherty - Howe,5759531.59,Individual,Yes,Large transaction amount,Business payment
+390,6864,869850.14,2022-02-14T08:21:44.574Z,Deposit,India,Australia,Greenfelder, Hodkiewicz and Goodwin,Harris LLC,2024082.99,Individual,Yes,Large transaction amount,Loan repayment
+391,9548,513020.89,2021-12-29T23:40:27.475Z,Transfer,India,USA,Romaguera - Stoltenberg,Jaskolski and Sons,6465152.74,Individual,Yes,Large transaction amount,Business payment
+392,3166,405935.86,2021-02-26T14:36:02.291Z,Deposit,Germany,Germany,Nienow, MacGyver and Trantow,Dickinson and Sons,2016382.56,Business,Yes,Large transaction amount,Business payment
+393,2496,675576.99,2024-03-15T05:00:29.503Z,Deposit,UK,UK,Muller and Sons,Cummings - Schaden,3630241.22,Business,Yes,Large transaction amount,Personal transfer
+394,6713,628215.77,2024-12-29T21:44:05.679Z,Transfer,Australia,Germany,Schoen and Sons,Raynor - Wiza,5399941.75,Business,Yes,Large transaction amount,Loan repayment
+395,8394,771880.42,2024-01-28T20:24:23.949Z,Transfer,Australia,Germany,Hettinger Group,Konopelski - Walker,3229106.83,Individual,Yes,Large transaction amount,Personal transfer
+396,5023,151004.19,2021-11-18T07:08:27.828Z,Deposit,Canada,China,Torphy - Pacocha,Grady - Cummerata,3944644.43,Individual,Yes,Large transaction amount,Personal transfer
+397,3584,805122.12,2024-12-02T11:15:26.989Z,Deposit,China,Australia,Kub - Rolfson,Mosciski - Gusikowski,83081.42,Individual,Yes,Large transaction amount,Business payment
+398,9861,877442.00,2023-12-14T00:44:59.632Z,Deposit,Russia,Germany,Schultz Group,Greenholt, Bode and Jones,1776913.63,Individual,Yes,Large transaction amount,Business payment
+399,2155,882850.59,2024-11-28T19:23:09.059Z,Deposit,Russia,USA,Koch, Kuhn and Gaylord,Christiansen, Fisher and Smitham,1533258.62,Individual,Yes,Large transaction amount,Loan repayment
+400,8339,678167.13,2024-02-15T11:25:51.986Z,Withdrawal,India,USA,Turcotte, Runolfsdottir and Schamberger,Steuber LLC,6001145.24,Individual,Yes,Large transaction amount,Business payment
+401,2321,992166.25,2021-07-11T16:22:25.550Z,Deposit,China,Canada,Kuhn, Swaniawski and Steuber,Hintz - Ullrich,3223715.72,Individual,Yes,Large transaction amount,Business payment
+402,6895,421812.79,2021-02-14T15:25:55.738Z,Transfer,Australia,UK,Cummerata Inc,Beatty - Johnston,6559880.15,Individual,Yes,Large transaction amount,Business payment
+403,3309,351435.33,2022-04-09T00:01:03.253Z,Transfer,Canada,Australia,Collins - Powlowski,Steuber, Herman and Daugherty,397993.58,Individual,Yes,Large transaction amount,Loan repayment
+404,3992,18600.73,2020-10-25T04:58:18.541Z,Deposit,Germany,USA,Bahringer - Herzog,Macejkovic, Ullrich and Gerlach,1363913.07,Business,No,,Loan repayment
+405,7977,886602.33,2022-10-18T21:46:31.583Z,Transfer,Canada,UK,Gerlach, Rowe and Spinka,MacGyver, Gutmann and Hettinger,90231.58,Individual,Yes,Large transaction amount,Personal transfer
+406,6196,30834.82,2021-11-26T14:35:00.966Z,Transfer,Australia,Germany,Gerhold, Jacobs and Fisher,Mayert and Sons,1216890.99,Business,Yes,Large cross-border transfer,Loan repayment
+407,9646,701921.32,2024-11-05T19:10:48.869Z,Withdrawal,UK,Germany,Kozey, Ortiz and Terry,Hackett, Osinski and Steuber,4554613.72,Individual,Yes,Large transaction amount,Loan repayment
+408,8207,372856.87,2023-05-06T22:32:12.943Z,Withdrawal,India,Russia,Skiles - Larkin,Leannon, McCullough and O'Hara,9295365.84,Individual,Yes,Large transaction amount,Business payment
+409,6624,720099.03,2024-12-29T18:50:21.356Z,Withdrawal,China,USA,Cummerata, Corkery and Sauer,Bauch, Fadel and Schiller,7051485.26,Individual,Yes,Large transaction amount,Business payment
+410,8924,624565.90,2024-04-10T08:59:39.941Z,Transfer,USA,Canada,Wilderman Group,Reichert Group,1152718.26,Business,Yes,Large transaction amount,Business payment
+411,9007,269864.95,2024-05-15T20:11:43.729Z,Withdrawal,Germany,Russia,Stamm - Stokes,Hickle, VonRueden and Pfeffer,3209298.50,Individual,Yes,Large transaction amount,Loan repayment
+412,3175,772781.25,2023-11-30T10:52:42.815Z,Deposit,UK,USA,Feest and Sons,O'Connell, Hoppe and Witting,1619045.87,Individual,Yes,Large transaction amount,Business payment
+413,1354,968161.08,2020-08-12T17:31:12.670Z,Withdrawal,Japan,Canada,Ebert - McDermott,Robel, Blick and Schowalter,7753957.59,Business,Yes,Large transaction amount,Business payment
+414,2887,491082.48,2023-11-06T06:42:51.318Z,Transfer,UK,Australia,Nikolaus, Bashirian and Bogan,Flatley - Graham,4548875.70,Individual,Yes,Large transaction amount,Business payment
+415,1456,696324.37,2023-08-29T07:32:41.127Z,Deposit,Canada,Germany,Kutch - Klein,Jacobs, Lindgren and King,3497089.98,Individual,Yes,Large transaction amount,Personal transfer
+416,7634,653898.11,2020-10-19T21:06:20.752Z,Transfer,Germany,Russia,Leannon - McClure,Volkman, Lemke and Ward,4144266.20,Individual,Yes,Large transaction amount,Personal transfer
+417,5575,590105.02,2021-01-11T10:36:55.492Z,Transfer,India,USA,Osinski - Ferry,Hartmann Group,4131554.32,Business,Yes,Large transaction amount,Business payment
+418,1799,733148.17,2022-06-18T05:30:56.902Z,Deposit,Canada,Russia,Mueller Group,Mills, Rosenbaum and Hoeger,9740207.44,Individual,Yes,Large transaction amount,Loan repayment
+419,8333,225343.08,2023-09-05T02:49:06.491Z,Deposit,Japan,China,Blanda - Paucek,Hackett LLC,3231636.75,Business,Yes,Large transaction amount,Personal transfer
+420,7564,47326.45,2024-10-17T18:22:23.802Z,Deposit,China,India,Hirthe - Rosenbaum,Mitchell, Blanda and Stoltenberg,6244548.62,Business,No,,Business payment
+421,1602,524702.38,2024-08-27T21:32:59.943Z,Deposit,Germany,India,Brown LLC,Koch, Swaniawski and Greenholt,8075632.93,Individual,Yes,Large transaction amount,Personal transfer
+422,9409,850792.68,2023-08-28T04:45:33.843Z,Withdrawal,Canada,Russia,Brown - Douglas,Breitenberg and Sons,267284.92,Business,Yes,Large transaction amount,Business payment
+423,9790,661716.85,2025-01-30T01:58:47.969Z,Deposit,Canada,China,VonRueden - Parisian,Gibson - Blick,1436235.59,Individual,Yes,Large transaction amount,Business payment
+424,5404,149870.57,2023-06-18T21:21:28.241Z,Withdrawal,Germany,India,Collins, Kirlin and Conroy,Schaefer LLC,3812972.83,Business,Yes,Large transaction amount,Business payment
+425,3538,275983.73,2023-10-17T19:42:41.629Z,Deposit,Japan,India,Satterfield - Botsford,Kohler and Sons,9626040.90,Individual,Yes,Large transaction amount,Loan repayment
+426,3877,456026.02,2024-08-17T19:34:19.748Z,Transfer,Germany,Australia,Flatley LLC,Greenholt Group,808800.70,Individual,Yes,Large transaction amount,Loan repayment
+427,3827,67453.65,2022-08-08T04:28:11.630Z,Transfer,Canada,Australia,Haag Group,Weimann, Baumbach and Goodwin,8548844.62,Business,Yes,Large transaction amount,Loan repayment
+428,3085,184556.12,2020-06-10T02:00:39.885Z,Withdrawal,USA,Japan,Cummings - Pfeffer,Bradtke Group,1151223.08,Business,Yes,Large transaction amount,Personal transfer
+429,8937,528056.05,2020-04-19T09:44:58.652Z,Withdrawal,Russia,UK,Schulist - Gleichner,Becker, Stracke and Conroy,2983285.75,Individual,Yes,Large transaction amount,Business payment
+430,1833,866819.35,2020-12-26T11:18:39.854Z,Deposit,Australia,Australia,Feest Group,Hirthe - Auer,8980046.37,Business,Yes,Large transaction amount,Personal transfer
+431,2476,105729.32,2021-10-25T00:56:52.262Z,Withdrawal,USA,Canada,Effertz, Fadel and Hermann,Gutkowski - Goldner,412125.97,Business,Yes,Large transaction amount,Personal transfer
+432,4626,528458.88,2020-06-10T17:37:07.002Z,Transfer,Russia,Japan,Cartwright - Gibson,Conroy Group,8709430.74,Business,Yes,Large transaction amount,Personal transfer
+433,2691,63496.47,2024-10-01T03:58:57.399Z,Deposit,Russia,Canada,Grady, Harvey and Wyman,Herman and Sons,320710.78,Business,Yes,Large transaction amount,Business payment
+434,2463,67924.45,2024-11-13T21:05:19.439Z,Transfer,India,USA,Nitzsche - Cole,Auer - Erdman,1670097.08,Individual,Yes,Large transaction amount,Business payment
+435,2391,284574.56,2021-05-18T14:25:37.335Z,Withdrawal,Australia,Australia,Cummings LLC,Greenfelder LLC,8202948.05,Business,Yes,Large transaction amount,Personal transfer
+436,4728,14494.65,2021-01-07T15:29:27.816Z,Transfer,Australia,Germany,Nader - Dach,Walsh and Sons,5566421.25,Business,Yes,Large cross-border transfer,Personal transfer
+437,2307,189315.50,2021-02-03T03:14:49.246Z,Deposit,India,UK,Lemke, King and Strosin,Stehr - Denesik,4372698.61,Individual,Yes,Large transaction amount,Loan repayment
+438,3448,284471.94,2021-08-10T15:22:32.970Z,Transfer,UK,UK,McKenzie, Johns and Macejkovic,Paucek, Denesik and Graham,8991866.73,Business,Yes,Large transaction amount,Loan repayment
+439,1863,639809.30,2024-12-14T12:17:08.590Z,Deposit,Russia,Australia,Shanahan, Adams and Hilpert,Kihn Group,8716979.55,Individual,Yes,Large transaction amount,Loan repayment
+440,3881,871882.44,2024-06-23T19:32:27.973Z,Transfer,Japan,China,Bergstrom, Renner and Welch,Doyle Group,6946578.44,Individual,Yes,Large transaction amount,Business payment
+441,4875,659514.60,2023-02-06T11:18:01.054Z,Withdrawal,Canada,China,Goodwin, Bergnaum and White,Legros Group,180833.91,Business,Yes,Large transaction amount,Business payment
+442,1792,474846.98,2024-05-25T22:20:52.156Z,Withdrawal,China,Australia,Kessler LLC,Gutmann, Hudson and Schamberger,8933029.87,Individual,Yes,Large transaction amount,Business payment
+443,3740,440243.67,2022-07-24T08:20:39.142Z,Withdrawal,Canada,UK,Bernier, Friesen and Wintheiser,Little, Koss and Hane,5133307.66,Business,Yes,Large transaction amount,Personal transfer
+444,3504,93389.89,2025-02-01T06:03:22.768Z,Deposit,Germany,India,Keeling, Swaniawski and Mills,Weissnat and Sons,1686393.93,Individual,Yes,Large transaction amount,Business payment
+445,7208,332219.87,2022-03-09T12:41:01.075Z,Transfer,USA,Canada,MacGyver, Lesch and Legros,Luettgen, Barton and Douglas,664178.28,Business,Yes,Large transaction amount,Personal transfer
+446,2812,984321.90,2024-07-31T18:22:46.849Z,Deposit,Germany,Russia,O'Hara, Jenkins and Erdman,Batz - Hahn,6163019.98,Business,Yes,Large transaction amount,Loan repayment
+447,1598,695551.26,2021-10-24T10:37:35.798Z,Transfer,Russia,USA,Reynolds LLC,Bahringer - King,8198510.58,Individual,Yes,Large transaction amount,Personal transfer
+448,4522,435486.27,2020-07-31T21:26:23.838Z,Withdrawal,Canada,Russia,Frami - Jacobs,Fay - Boehm,5799592.18,Business,Yes,Large transaction amount,Loan repayment
+449,2845,921103.36,2023-01-28T20:48:59.314Z,Transfer,Japan,China,Aufderhar and Sons,Kuhlman - Armstrong,3834476.06,Individual,Yes,Large transaction amount,Personal transfer
+450,5235,400816.21,2021-10-08T07:31:44.085Z,Withdrawal,USA,Australia,Simonis - Keebler,Schmitt, Hoeger and Muller,264063.82,Business,Yes,Large transaction amount,Business payment
+451,5147,767200.72,2023-04-17T20:33:32.559Z,Transfer,USA,Japan,Langosh - Runolfsson,Abernathy - Weissnat,386632.54,Individual,Yes,Large transaction amount,Loan repayment
+452,5498,717838.63,2022-07-08T17:19:36.713Z,Withdrawal,UK,USA,O'Kon Group,Stamm - Hansen,3061800.93,Business,Yes,Large transaction amount,Loan repayment
+453,6123,627316.86,2024-12-22T04:23:13.512Z,Transfer,Canada,UK,Jenkins - Bogan,Turcotte - Gaylord,8258171.04,Individual,Yes,Large transaction amount,Business payment
+454,3588,127899.43,2023-04-22T06:19:36.531Z,Transfer,UK,Germany,Jacobs - Lynch,Morar and Sons,5523638.40,Business,Yes,Large transaction amount,Loan repayment
+455,5851,531608.65,2022-07-09T19:23:03.957Z,Deposit,Canada,Japan,Volkman, Bergstrom and Tromp,Mueller, Monahan and Volkman,4494105.21,Individual,Yes,Large transaction amount,Personal transfer
+456,2637,528696.03,2022-11-07T14:59:54.285Z,Withdrawal,UK,Australia,Frami - Marks,Jacobson - Willms,964419.38,Individual,Yes,Large transaction amount,Loan repayment
+457,3267,812155.84,2024-07-27T19:57:40.591Z,Deposit,Japan,Canada,Batz - Prosacco,Dietrich and Sons,5571520.75,Individual,Yes,Large transaction amount,Personal transfer
+458,9969,325903.72,2022-01-03T14:39:36.404Z,Transfer,Canada,China,Funk, Wilderman and Gulgowski,Roberts, Gleason and Baumbach,6430243.58,Individual,Yes,Large transaction amount,Loan repayment
+459,5546,759812.35,2024-02-19T05:12:46.803Z,Deposit,Canada,Japan,Pagac - Bosco,Kulas, Kautzer and Russel,8602980.42,Individual,Yes,Large transaction amount,Business payment
+460,2595,179798.08,2021-02-15T14:57:59.412Z,Withdrawal,USA,USA,Wilkinson and Sons,Runolfsdottir LLC,770619.45,Business,Yes,Large transaction amount,Loan repayment
+461,9416,49946.42,2024-07-02T03:36:18.349Z,Transfer,Russia,UK,Zboncak, Turner and Bogisich,McGlynn - Volkman,2592767.19,Individual,Yes,Large cross-border transfer,Business payment
+462,2499,566856.85,2020-03-14T02:08:26.698Z,Withdrawal,UK,Japan,Gulgowski LLC,Ziemann Group,4601757.43,Individual,Yes,Large transaction amount,Business payment
+463,1759,120702.94,2020-11-09T17:00:42.839Z,Withdrawal,China,UK,Kilback and Sons,Kunze, Sanford and Davis,163203.13,Business,Yes,Large transaction amount,Personal transfer
+464,3094,18056.52,2020-10-26T05:33:03.655Z,Transfer,Japan,China,Lindgren LLC,Schumm - Kohler,9806411.63,Individual,Yes,Large cross-border transfer,Business payment
+465,8342,547433.30,2020-12-10T23:30:18.854Z,Withdrawal,Japan,Canada,Bernhard - Walker,Lang - Schaefer,1478415.84,Business,Yes,Large transaction amount,Personal transfer
+466,3803,933294.14,2024-05-16T18:08:04.392Z,Deposit,Australia,UK,Gerhold - Stoltenberg,Ondricka, Harber and King,7362939.80,Individual,Yes,Large transaction amount,Personal transfer
+467,8903,204549.08,2024-04-09T08:03:19.868Z,Withdrawal,India,UK,Dibbert and Sons,Schuster - Mueller,155744.28,Business,Yes,Large transaction amount,Loan repayment
+468,8669,395484.30,2020-06-08T22:26:07.365Z,Withdrawal,Russia,Canada,Wisoky, Torp and Runte,Moen - Brown,1452624.20,Business,Yes,Large transaction amount,Loan repayment
+469,6715,83596.87,2023-04-29T17:29:28.120Z,Withdrawal,Australia,UK,Muller, Kutch and Quigley,Collier - Little,4281124.68,Business,Yes,Large transaction amount,Loan repayment
+470,6529,926132.10,2020-04-19T20:59:52.031Z,Deposit,Germany,Russia,O'Kon Inc,Mante - Labadie,1774758.15,Business,Yes,Large transaction amount,Personal transfer
+471,7332,699368.22,2020-09-06T11:22:10.093Z,Withdrawal,UK,India,Grant Group,Altenwerth - Robel,5720622.51,Individual,Yes,Large transaction amount,Business payment
+472,2318,822407.77,2023-09-30T05:16:16.245Z,Deposit,China,Japan,Quitzon, Hills and Armstrong,Krajcik, Sporer and Kozey,1986670.53,Individual,Yes,Large transaction amount,Loan repayment
+473,2500,27941.04,2024-06-01T03:55:50.967Z,Transfer,Germany,Australia,Schaden - Altenwerth,Beier, Swift and Homenick,817265.28,Business,Yes,Large cross-border transfer,Business payment
+474,4984,963553.46,2020-08-28T01:06:44.342Z,Transfer,UK,UK,Grimes, Gutkowski and Gleichner,Gerhold - West,6796575.47,Business,Yes,Large transaction amount,Business payment
+475,6860,165352.43,2020-04-24T06:18:45.113Z,Transfer,Russia,India,Stracke - Ebert,Schmidt - Braun,1121784.39,Business,Yes,Large transaction amount,Loan repayment
+476,3516,748641.26,2023-04-28T18:36:07.964Z,Withdrawal,USA,UK,Schuppe, Kuhn and Lesch,Kris, Gibson and Hudson,1718969.99,Business,Yes,Large transaction amount,Business payment
+477,1916,665513.39,2023-06-23T21:24:54.212Z,Deposit,China,India,Beier - Johnson,Watsica, Toy and Dickens,267992.25,Business,Yes,Large transaction amount,Personal transfer
+478,7898,265601.90,2024-05-11T09:09:30.899Z,Withdrawal,USA,Germany,Hamill - Kozey,Cruickshank, Olson and Witting,483805.92,Individual,Yes,Large transaction amount,Personal transfer
+479,8643,783409.51,2020-03-17T18:50:13.184Z,Withdrawal,China,China,Cole, Lynch and Fay,Witting - Tillman,5319463.66,Individual,Yes,Large transaction amount,Loan repayment
+480,6967,971188.41,2022-06-27T00:08:54.783Z,Withdrawal,Russia,Canada,Schaden - Hodkiewicz,Bailey, Rohan and Kuhlman,2650773.13,Individual,Yes,Large transaction amount,Loan repayment
+481,5695,788623.16,2023-01-27T11:24:33.205Z,Withdrawal,Germany,Canada,Walker - Hilll,Bode, Jones and Rogahn,6543580.76,Business,Yes,Large transaction amount,Personal transfer
+482,2117,702765.04,2024-06-29T12:16:42.359Z,Deposit,Canada,Germany,Funk, Weber and Grant,Harber - Rath,9077006.40,Individual,Yes,Large transaction amount,Loan repayment
+483,2635,324278.29,2025-01-04T18:17:40.589Z,Transfer,UK,UK,Hermann - Auer,Hintz, Baumbach and Kunde,1711463.27,Individual,Yes,Large transaction amount,Personal transfer
+484,5234,706921.18,2023-06-11T10:49:41.769Z,Withdrawal,Japan,Germany,Wilkinson - Bechtelar,Koss - Jacobson,9979974.48,Business,Yes,Large transaction amount,Personal transfer
+485,6513,729019.44,2024-04-27T09:02:42.271Z,Withdrawal,Canada,Canada,Hintz Inc,Price, Schumm and Watsica,5543569.84,Individual,Yes,Large transaction amount,Personal transfer
+486,7855,122320.24,2023-08-11T10:36:30.136Z,Withdrawal,Japan,USA,Crona Inc,Simonis - Ziemann,937965.50,Business,Yes,Large transaction amount,Loan repayment
+487,9227,310384.59,2022-02-19T04:46:12.308Z,Deposit,UK,UK,Denesik, Dach and Steuber,Greenholt and Sons,5978181.56,Business,Yes,Large transaction amount,Loan repayment
+488,4097,447731.48,2023-10-09T02:12:08.548Z,Deposit,Australia,UK,Wunsch, Emmerich and Willms,MacGyver - McLaughlin,6174932.70,Individual,Yes,Large transaction amount,Personal transfer
+489,7588,554235.40,2021-07-26T08:15:47.834Z,Transfer,China,China,Barrows LLC,Cruickshank Group,6863044.31,Individual,Yes,Large transaction amount,Business payment
+490,4317,993352.99,2023-05-21T15:23:50.866Z,Transfer,Canada,China,Bode - Luettgen,Hermiston - Rogahn,4182949.66,Individual,Yes,Large transaction amount,Loan repayment
+491,7995,893042.02,2021-08-25T03:41:24.648Z,Deposit,Canada,Japan,Goodwin, Skiles and Fay,Mertz Group,9818146.68,Individual,Yes,Large transaction amount,Loan repayment
+492,1244,34835.42,2020-05-16T17:31:12.795Z,Transfer,China,Japan,Kassulke, Roberts and Ritchie,Grady - O'Conner,2364873.79,Individual,Yes,Large cross-border transfer,Business payment
+493,1878,493049.19,2020-07-13T07:21:17.333Z,Transfer,USA,Australia,Hirthe - Borer,Sauer, Balistreri and Stroman,6943515.82,Business,Yes,Large transaction amount,Business payment
+494,7378,39317.85,2022-02-09T19:08:22.482Z,Deposit,Canada,Germany,Jacobs Group,Medhurst Group,338102.41,Individual,No,,Business payment
+495,7512,93645.64,2021-09-01T05:19:43.421Z,Transfer,Russia,Australia,Homenick, Marquardt and Block,Williamson, Koepp and Schaefer,5811054.17,Business,Yes,Large transaction amount,Personal transfer
+496,1928,356778.50,2020-03-04T18:01:57.094Z,Withdrawal,India,China,Lindgren, Grady and Hintz,Stroman - MacGyver,9902153.88,Business,Yes,Large transaction amount,Personal transfer
+497,1256,797084.98,2022-03-26T05:57:17.913Z,Withdrawal,Australia,India,Langworth Group,Koss, Rowe and Hamill,5912144.37,Business,Yes,Large transaction amount,Business payment
+498,9760,738841.14,2021-04-13T13:39:04.100Z,Withdrawal,Germany,India,Brakus - DuBuque,Koss LLC,9019990.70,Individual,Yes,Large transaction amount,Personal transfer
+499,9476,728507.16,2024-11-26T05:37:52.747Z,Deposit,Australia,Canada,Rodriguez - Kuhic,Casper - Kuhic,8643396.62,Business,Yes,Large transaction amount,Personal transfer
+500,8590,555832.25,2020-12-21T15:48:29.396Z,Deposit,UK,India,Dickinson, Franecki and Hilll,Mills, Hirthe and Prohaska,426939.35,Individual,Yes,Large transaction amount,Business payment
+501,6852,566361.52,2024-03-13T16:11:35.875Z,Withdrawal,China,UK,Nikolaus, Parisian and Krajcik,Roob, Sawayn and Abbott,1754016.39,Individual,Yes,Large transaction amount,Personal transfer
+502,4475,365343.49,2021-09-23T19:29:32.911Z,Transfer,Germany,Germany,Ratke, Jones and Willms,Bradtke - Jacobson,4740073.99,Business,Yes,Large transaction amount,Business payment
+503,8712,239756.57,2022-07-11T11:23:12.052Z,Deposit,USA,India,Kshlerin, Strosin and Aufderhar,Cormier Group,6681363.30,Individual,Yes,Large transaction amount,Personal transfer
+504,6011,390650.04,2024-06-09T21:12:26.786Z,Deposit,UK,China,Waelchi - Erdman,Mills - Hickle,4027742.44,Business,Yes,Large transaction amount,Business payment
+505,2801,759413.72,2020-12-23T07:10:58.224Z,Deposit,Japan,UK,Greenfelder Group,Muller Group,4008869.89,Business,Yes,Large transaction amount,Personal transfer
+506,4822,342556.13,2023-04-20T07:02:45.903Z,Withdrawal,Germany,China,Bernier Group,Lesch, Rowe and Hyatt,9239773.33,Individual,Yes,Large transaction amount,Business payment
+507,7567,933497.22,2022-12-27T19:07:20.860Z,Withdrawal,China,UK,McKenzie, Olson and Toy,Quigley - Champlin,8474321.81,Business,Yes,Large transaction amount,Business payment
+508,3402,788537.19,2023-02-13T14:49:16.561Z,Withdrawal,Canada,Russia,Kirlin - Kuhlman,Raynor Inc,5392599.46,Business,Yes,Large transaction amount,Business payment
+509,4685,167134.64,2021-11-02T05:07:41.001Z,Deposit,India,Canada,Bernier - Kuhic,Haag - Daniel,8985006.79,Individual,Yes,Large transaction amount,Loan repayment
+510,4335,723252.21,2021-08-25T19:47:47.019Z,Deposit,Japan,Canada,Murazik - Goyette,Harris LLC,8771990.03,Business,Yes,Large transaction amount,Loan repayment
+511,3110,896291.98,2021-05-21T12:18:00.083Z,Deposit,Germany,Germany,Considine - Windler,Yost LLC,9969451.73,Individual,Yes,Large transaction amount,Loan repayment
+512,7690,990648.52,2023-09-09T13:51:15.001Z,Deposit,UK,India,McDermott, Hoppe and Stiedemann,Muller Inc,4777600.04,Business,Yes,Large transaction amount,Business payment
+513,5125,972127.91,2021-09-11T13:22:52.440Z,Deposit,UK,Australia,Reichel, O'Hara and Krajcik,Bergstrom LLC,3397444.67,Business,Yes,Large transaction amount,Business payment
+514,4030,957126.66,2021-01-04T00:35:29.791Z,Transfer,USA,China,Witting and Sons,Feil LLC,4910751.53,Business,Yes,Large transaction amount,Loan repayment
+515,6515,254549.59,2024-10-12T18:53:12.655Z,Deposit,Germany,China,Stoltenberg - Erdman,Gaylord - Daugherty,2194982.93,Individual,Yes,Large transaction amount,Business payment
+516,4991,131438.84,2024-11-01T11:06:20.762Z,Withdrawal,Germany,Japan,Stamm, Simonis and Adams,Bernier, Murray and Osinski,5400268.15,Individual,Yes,Large transaction amount,Business payment
+517,9699,382379.76,2024-08-25T04:36:27.303Z,Transfer,Russia,Japan,Rolfson - Konopelski,Boyer LLC,7135172.88,Business,Yes,Large transaction amount,Business payment
+518,7643,642399.66,2023-03-18T05:16:59.442Z,Deposit,Canada,USA,Jast Inc,Gleason, Wuckert and Pagac,7741406.99,Business,Yes,Large transaction amount,Personal transfer
+519,9326,194251.02,2023-05-30T13:15:15.073Z,Deposit,USA,China,Flatley, Ryan and Rodriguez,Hane and Sons,5054315.71,Individual,Yes,Large transaction amount,Personal transfer
+520,5693,727016.91,2022-04-14T23:44:43.933Z,Transfer,Australia,Australia,Ruecker - Leuschke,Mills, Sawayn and Fritsch,8647353.54,Business,Yes,Large transaction amount,Loan repayment
+521,2663,709404.17,2024-01-18T12:47:25.623Z,Transfer,Australia,Canada,Parker, Glover and Douglas,Dooley - Armstrong,2871251.36,Business,Yes,Large transaction amount,Business payment
+522,4388,769437.26,2024-08-01T02:48:40.064Z,Withdrawal,Australia,Australia,Kertzmann - Hegmann,Kreiger - Raynor,7010599.25,Business,Yes,Large transaction amount,Personal transfer
+523,4292,241648.52,2023-09-15T13:38:45.493Z,Transfer,India,USA,Huels - Wuckert,Beier Group,3552398.04,Individual,Yes,Large transaction amount,Business payment
+524,2502,189507.44,2021-08-17T15:41:42.885Z,Transfer,Russia,Japan,Wyman - Kovacek,Schroeder - Hermann,3192870.96,Individual,Yes,Large transaction amount,Loan repayment
+525,4365,511384.85,2020-03-11T01:08:43.330Z,Withdrawal,India,USA,Bayer - Gerlach,Towne Inc,7138289.47,Individual,Yes,Large transaction amount,Business payment
+526,1962,666093.04,2023-03-07T12:59:05.350Z,Withdrawal,Russia,UK,Schultz, Daugherty and Hudson,Renner - Johnson,2080299.30,Business,Yes,Large transaction amount,Personal transfer
+527,5691,166741.08,2025-01-04T04:39:28.581Z,Deposit,Australia,China,Hintz, Shanahan and Davis,Mills - Miller,7527334.60,Business,Yes,Large transaction amount,Business payment
+528,3898,545662.06,2023-05-19T18:47:49.080Z,Transfer,India,India,Blick and Sons,Fahey LLC,2180492.32,Individual,Yes,Large transaction amount,Loan repayment
+529,5826,370501.86,2020-11-10T12:06:20.211Z,Transfer,UK,China,Doyle - O'Hara,Klein Inc,1704588.06,Business,Yes,Large transaction amount,Business payment
+530,7764,32664.35,2020-07-01T00:14:27.158Z,Withdrawal,Australia,Australia,Thiel - Mueller,Vandervort Inc,795558.90,Individual,No,,Loan repayment
+531,9007,493803.35,2022-07-16T14:19:32.602Z,Transfer,Australia,Australia,Quigley - Leannon,Buckridge LLC,5170958.90,Business,Yes,Large transaction amount,Loan repayment
+532,2028,655965.70,2023-03-23T15:37:00.687Z,Transfer,India,India,Oberbrunner, Herzog and Fahey,Zulauf, Funk and Upton,3545298.98,Individual,Yes,Large transaction amount,Loan repayment
+533,6449,718059.52,2022-11-11T15:45:05.013Z,Deposit,UK,Japan,Dickens LLC,Grimes, Tremblay and Witting,9812160.08,Business,Yes,Large transaction amount,Business payment
+534,6271,815850.93,2020-10-07T21:59:57.974Z,Transfer,China,Australia,Durgan - White,Dickinson - Vandervort,4591031.98,Individual,Yes,Large transaction amount,Loan repayment
+535,9605,298721.66,2022-02-09T22:35:33.235Z,Transfer,Australia,India,Barton, Schmeler and Armstrong,Wolff - Boyer,9462058.27,Business,Yes,Large transaction amount,Loan repayment
+536,4275,988248.75,2023-06-05T12:29:35.220Z,Transfer,Canada,China,Runolfsdottir - Streich,Block Group,1587857.49,Business,Yes,Large transaction amount,Personal transfer
+537,9962,619298.78,2022-12-30T09:11:11.341Z,Withdrawal,China,China,McGlynn, Ziemann and Christiansen,Macejkovic - Sporer,6471734.48,Business,Yes,Large transaction amount,Personal transfer
+538,9038,236176.07,2020-04-08T00:46:47.727Z,Transfer,Australia,Germany,Doyle and Sons,Ankunding, Prosacco and MacGyver,6835687.58,Individual,Yes,Large transaction amount,Loan repayment
+539,5058,290428.85,2022-05-17T22:33:45.705Z,Transfer,Australia,India,Mertz - Aufderhar,Hahn - Schimmel,9502772.21,Individual,Yes,Large transaction amount,Personal transfer
+540,3147,885106.18,2023-08-08T18:14:39.106Z,Withdrawal,India,Canada,Parisian - Gislason,Harber - O'Connell,1089102.01,Business,Yes,Large transaction amount,Loan repayment
+541,6529,205342.21,2021-11-01T23:34:14.987Z,Deposit,Russia,China,Jones Inc,Schimmel, King and Goyette,9729429.87,Business,Yes,Large transaction amount,Business payment
+542,7582,783631.71,2021-07-22T01:18:19.769Z,Deposit,Australia,China,Schumm - Hartmann,Parker Group,9718548.30,Business,Yes,Large transaction amount,Business payment
+543,1112,765351.51,2020-11-20T01:32:23.192Z,Deposit,UK,Japan,Swift, Streich and Jacobi,Marvin, Weissnat and Quigley,876969.33,Individual,Yes,Large transaction amount,Business payment
+544,4789,896413.87,2021-10-09T22:10:48.410Z,Withdrawal,Japan,China,Towne, Mohr and Schimmel,McGlynn, Hilll and Durgan,3300386.71,Individual,Yes,Large transaction amount,Personal transfer
+545,2016,374994.00,2020-10-29T18:14:07.872Z,Withdrawal,Canada,Australia,Durgan - Rodriguez,Kunde - Corwin,4157052.58,Individual,Yes,Large transaction amount,Business payment
+546,2695,266858.74,2021-05-09T17:23:06.490Z,Withdrawal,Russia,Russia,Nitzsche - Jenkins,Ruecker - Rodriguez,9557167.14,Business,Yes,Large transaction amount,Loan repayment
+547,3490,124231.47,2024-04-14T19:00:29.950Z,Deposit,Canada,India,Johnson - Von,Bode LLC,8856292.14,Individual,Yes,Large transaction amount,Personal transfer
+548,3375,881979.16,2020-10-25T01:38:42.309Z,Transfer,Japan,USA,Grant - Wuckert,Kemmer - Kutch,7048384.51,Individual,Yes,Large transaction amount,Business payment
+549,5295,728545.06,2021-05-11T20:23:15.435Z,Withdrawal,USA,UK,Barrows, Goodwin and Lubowitz,Hyatt, Shields and Grimes,1241102.03,Individual,Yes,Large transaction amount,Loan repayment
+550,6743,55195.60,2022-12-23T19:11:25.444Z,Deposit,Russia,China,Reichert - O'Hara,Welch LLC,1286309.43,Business,Yes,Large transaction amount,Business payment
+551,1091,885808.41,2021-05-08T21:14:25.180Z,Deposit,India,Russia,Pacocha Inc,Rohan LLC,1987523.96,Business,Yes,Large transaction amount,Loan repayment
+552,9022,469627.87,2022-12-03T08:41:07.694Z,Deposit,Australia,Australia,Roberts, Kirlin and Jones,Klein, Williamson and Gorczany,1431958.51,Business,Yes,Large transaction amount,Personal transfer
+553,4114,544174.25,2020-09-16T13:04:54.773Z,Withdrawal,China,Canada,Bahringer - Hane,Monahan Inc,1075909.54,Individual,Yes,Large transaction amount,Loan repayment
+554,1021,751945.33,2020-04-09T01:15:15.210Z,Withdrawal,Japan,Japan,Klein - Klocko,Braun - Tillman,2728502.62,Individual,Yes,Large transaction amount,Personal transfer
+555,3890,511432.31,2024-04-19T20:20:33.344Z,Withdrawal,Russia,Canada,Schaefer and Sons,Waters LLC,5420544.97,Individual,Yes,Large transaction amount,Loan repayment
+556,2598,757522.75,2024-05-20T19:59:04.128Z,Transfer,Russia,UK,Stark - Gislason,Nienow, Mills and Heaney,8519273.93,Business,Yes,Large transaction amount,Business payment
+557,2996,504831.10,2021-03-27T07:18:26.868Z,Withdrawal,China,USA,Will and Sons,Mueller LLC,5922346.90,Individual,Yes,Large transaction amount,Loan repayment
+558,8100,989973.55,2023-03-27T02:26:43.070Z,Deposit,USA,Australia,Buckridge - Rosenbaum,Will and Sons,5502928.00,Individual,Yes,Large transaction amount,Personal transfer
+559,3125,260430.58,2020-06-25T19:57:29.528Z,Deposit,India,USA,Kuhlman, Champlin and Cormier,Crooks - Ledner,3342624.73,Individual,Yes,Large transaction amount,Personal transfer
+560,8136,83063.81,2020-06-06T10:15:33.304Z,Deposit,India,Australia,McGlynn, Morar and Bashirian,Schmitt - Champlin,4977142.85,Individual,Yes,Large transaction amount,Business payment
+561,7430,852291.98,2022-02-11T13:48:08.970Z,Deposit,Russia,India,Herman - Little,Thompson and Sons,1773206.20,Individual,Yes,Large transaction amount,Business payment
+562,4256,119533.96,2023-12-10T03:47:53.046Z,Deposit,India,Australia,Kirlin, Effertz and Marquardt,Hettinger Group,5432172.86,Business,Yes,Large transaction amount,Business payment
+563,3594,728108.26,2020-11-11T02:35:33.408Z,Transfer,Australia,China,Huels and Sons,Leffler - McKenzie,107845.78,Business,Yes,Large transaction amount,Business payment
+564,9485,830079.37,2021-12-11T12:48:13.679Z,Deposit,Germany,China,Ward, Brekke and Lubowitz,Nader - Bartoletti,5110244.65,Individual,Yes,Large transaction amount,Business payment
+565,1710,479551.43,2024-01-15T13:44:53.256Z,Deposit,Russia,Australia,Shanahan, Fay and Dare,Tromp - Murray,128455.09,Business,Yes,Large transaction amount,Business payment
+566,9489,102750.77,2021-04-18T15:48:37.891Z,Transfer,Japan,UK,McLaughlin - Schneider,Simonis, O'Kon and Conroy,377864.61,Business,Yes,Large transaction amount,Loan repayment
+567,4344,83202.34,2020-10-19T05:14:46.735Z,Withdrawal,China,Canada,Bayer - Kuvalis,Kohler and Sons,526558.60,Business,Yes,Large transaction amount,Business payment
+568,8481,358023.30,2022-07-21T01:23:41.966Z,Withdrawal,UK,Russia,Denesik, Kuhn and Rosenbaum,Wolff - Mayert,347721.50,Individual,Yes,Large transaction amount,Business payment
+569,2599,436552.48,2023-04-12T13:30:19.903Z,Withdrawal,UK,USA,Parisian - Reichert,Murray, Little and Murray,8517283.43,Business,Yes,Large transaction amount,Personal transfer
+570,9558,994299.15,2022-08-24T16:45:19.181Z,Transfer,UK,Germany,Bergnaum, Donnelly and Williamson,Murphy, Miller and Collier,6599493.33,Business,Yes,Large transaction amount,Loan repayment
+571,4932,110361.21,2024-10-09T19:28:50.929Z,Deposit,Germany,Japan,Wilkinson Group,Parisian and Sons,3168365.50,Individual,Yes,Large transaction amount,Personal transfer
+572,3675,162228.75,2024-01-14T21:14:03.112Z,Withdrawal,China,UK,Reinger, Green and Legros,Smitham, Predovic and Beier,3162543.43,Business,Yes,Large transaction amount,Personal transfer
+573,9258,57174.03,2021-02-27T08:34:46.492Z,Withdrawal,Germany,Japan,Langworth - Kuvalis,Dooley, Abernathy and Hansen,6691186.57,Business,Yes,Large transaction amount,Personal transfer
+574,5978,485071.86,2023-03-04T08:01:14.485Z,Transfer,China,Australia,Anderson LLC,Zemlak Group,9321591.90,Individual,Yes,Large transaction amount,Personal transfer
+575,3804,842886.84,2024-04-03T16:53:11.365Z,Transfer,Russia,Australia,Hammes, Hane and Goodwin,Powlowski - Christiansen,8665811.47,Individual,Yes,Large transaction amount,Business payment
+576,4729,979591.02,2022-06-28T18:01:06.968Z,Withdrawal,China,India,Larkin and Sons,Cormier - Ziemann,5383944.53,Business,Yes,Large transaction amount,Personal transfer
+577,6289,241694.79,2023-12-24T23:53:58.566Z,Withdrawal,Japan,Canada,Welch - Hermann,Von, Mertz and Halvorson,1806537.34,Individual,Yes,Large transaction amount,Personal transfer
+578,7693,97975.81,2024-09-18T17:27:44.628Z,Deposit,Germany,China,Ortiz - Zieme,Langosh, Gusikowski and Koelpin,3147264.51,Business,Yes,Large transaction amount,Personal transfer
+579,8681,990236.46,2020-04-03T04:16:31.343Z,Withdrawal,USA,China,Jenkins - Dach,Lueilwitz Inc,986562.17,Individual,Yes,Large transaction amount,Business payment
+580,3106,993433.50,2024-01-12T02:01:57.713Z,Withdrawal,USA,Australia,Mosciski LLC,Weissnat, Homenick and Lubowitz,5490370.90,Individual,Yes,Large transaction amount,Business payment
+581,5852,96267.83,2022-11-10T04:33:08.440Z,Withdrawal,Australia,Japan,Brekke Group,Stoltenberg and Sons,7412235.59,Individual,Yes,Large transaction amount,Loan repayment
+582,9458,485811.31,2020-11-01T12:44:26.382Z,Withdrawal,Japan,UK,Strosin - Beer,Gleason Inc,7029437.58,Individual,Yes,Large transaction amount,Business payment
+583,8324,68925.06,2022-04-14T14:35:37.929Z,Transfer,USA,USA,Lang and Sons,Nitzsche LLC,8614114.12,Business,Yes,Large transaction amount,Loan repayment
+584,1327,458591.31,2020-05-27T17:27:44.228Z,Withdrawal,India,China,Gibson, Dietrich and Maggio,Halvorson, Grimes and Gusikowski,8108110.49,Business,Yes,Large transaction amount,Business payment
+585,4773,649265.34,2024-12-21T14:20:47.319Z,Transfer,Germany,Japan,Stanton LLC,Borer, Kunze and Rolfson,8994679.48,Business,Yes,Large transaction amount,Personal transfer
+586,9463,649954.56,2020-12-24T00:55:02.523Z,Transfer,Canada,USA,Prohaska Group,Satterfield Inc,2675654.03,Business,Yes,Large transaction amount,Business payment
+587,2429,412199.17,2024-02-11T02:24:34.118Z,Transfer,Australia,Australia,Christiansen, Conn and Buckridge,Marks - Stanton,1282774.24,Business,Yes,Large transaction amount,Personal transfer
+588,6686,87057.41,2022-01-23T14:34:30.597Z,Withdrawal,Canada,China,Fisher - Beatty,Roob - Emard,3571293.82,Individual,Yes,Large transaction amount,Business payment
+589,3947,948245.29,2024-07-20T12:38:34.122Z,Transfer,Russia,China,Barton, Hackett and Nolan,Torphy Inc,4798100.08,Individual,Yes,Large transaction amount,Personal transfer
+590,1500,331797.93,2023-09-12T23:35:23.547Z,Deposit,UK,China,Hackett Inc,Schneider LLC,4396843.19,Business,Yes,Large transaction amount,Loan repayment
+591,9956,786844.72,2020-11-20T04:34:00.160Z,Transfer,Japan,Russia,Ryan Inc,Lubowitz LLC,9273542.64,Individual,Yes,Large transaction amount,Business payment
+592,3187,538928.63,2020-04-23T15:36:04.286Z,Deposit,India,China,Hand, Vandervort and Kshlerin,Kovacek - Denesik,1613535.93,Individual,Yes,Large transaction amount,Personal transfer
+593,6855,645276.83,2021-12-06T11:38:59.480Z,Withdrawal,China,Russia,Johnston Group,Cummerata - Marks,7972960.56,Individual,Yes,Large transaction amount,Personal transfer
+594,7595,229170.79,2022-08-11T10:32:12.997Z,Withdrawal,China,India,Hammes - Fritsch,Labadie - Schinner,4769084.91,Individual,Yes,Large transaction amount,Loan repayment
+595,4173,349785.64,2022-09-22T02:02:36.993Z,Deposit,India,Canada,Steuber - Schumm,Kohler - Harber,1616623.14,Individual,Yes,Large transaction amount,Personal transfer
+596,3567,128064.04,2022-11-24T05:39:18.280Z,Withdrawal,Canada,Japan,Wolf and Sons,Fadel Inc,6879023.22,Individual,Yes,Large transaction amount,Personal transfer
+597,5815,906914.10,2020-03-29T21:12:33.458Z,Withdrawal,Canada,Australia,Corkery - Cartwright,Howell - Veum,9710872.44,Individual,Yes,Large transaction amount,Business payment
+598,9378,190412.32,2022-10-16T19:09:48.827Z,Withdrawal,UK,China,Torp - Cole,Greenfelder - Pfeffer,6799773.19,Business,Yes,Large transaction amount,Loan repayment
+599,2831,451841.15,2023-09-08T20:20:57.966Z,Deposit,UK,China,Stroman and Sons,Quigley, Stamm and Emmerich,145868.54,Individual,Yes,Large transaction amount,Business payment
+600,1193,189139.49,2022-04-09T20:19:53.426Z,Deposit,Canada,USA,Runte Inc,McCullough, Hauck and Donnelly,9792668.47,Individual,Yes,Large transaction amount,Loan repayment
+601,5164,378995.46,2021-12-14T12:30:14.466Z,Transfer,India,China,Moen Group,Schiller, Nicolas and Koelpin,8938113.33,Business,Yes,Large transaction amount,Business payment
+602,2529,991822.66,2024-11-27T20:34:07.305Z,Withdrawal,Russia,Canada,Kassulke - Wiza,Denesik Inc,6085583.37,Business,Yes,Large transaction amount,Loan repayment
+603,2400,751974.38,2024-10-04T11:48:24.149Z,Transfer,UK,Germany,Reichel and Sons,Ankunding - Hegmann,8740324.28,Business,Yes,Large transaction amount,Personal transfer
+604,3291,773506.23,2024-12-06T18:01:06.816Z,Deposit,Russia,Russia,Grady and Sons,Keeling LLC,5011046.57,Business,Yes,Large transaction amount,Personal transfer
+605,9370,435821.35,2020-08-19T11:17:55.339Z,Deposit,Russia,Japan,Lang, Considine and Bechtelar,Haley, Boehm and Bashirian,7764824.04,Business,Yes,Large transaction amount,Business payment
+606,5541,327704.60,2023-11-23T16:47:16.257Z,Deposit,India,China,Armstrong Group,Waters - Swift,3014622.19,Business,Yes,Large transaction amount,Business payment
+607,3601,831324.94,2021-04-25T23:00:20.408Z,Deposit,Canada,Canada,Cartwright, Gislason and Baumbach,Streich - Brown,5552380.95,Business,Yes,Large transaction amount,Loan repayment
+608,8508,57387.31,2025-01-28T04:57:35.722Z,Transfer,Russia,India,Mayert - Smith,Conn Group,1307055.60,Business,Yes,Large transaction amount,Loan repayment
+609,5125,607012.60,2021-04-13T00:06:42.154Z,Withdrawal,Russia,China,Hessel and Sons,Kulas - D'Amore,8858646.37,Individual,Yes,Large transaction amount,Personal transfer
+610,8298,260874.56,2020-11-16T06:25:22.211Z,Transfer,Germany,USA,Hyatt, Herzog and Wisozk,Dibbert - Kassulke,4998685.86,Individual,Yes,Large transaction amount,Personal transfer
+611,3203,823871.49,2023-06-29T07:54:31.823Z,Deposit,UK,Canada,Hoppe LLC,Kling Inc,8570917.03,Business,Yes,Large transaction amount,Personal transfer
+612,5050,454081.61,2021-11-09T14:54:05.313Z,Deposit,Australia,Germany,Witting - Bernier,Bogan and Sons,8533061.39,Individual,Yes,Large transaction amount,Business payment
+613,8806,660963.07,2020-06-09T18:47:20.015Z,Withdrawal,Japan,USA,Murphy, Stark and Barrows,Bahringer - Armstrong,4494650.40,Individual,Yes,Large transaction amount,Business payment
+614,7373,272578.48,2020-05-21T19:03:32.767Z,Withdrawal,USA,India,Bednar, Gorczany and Schimmel,Gottlieb - Bins,4805840.94,Individual,Yes,Large transaction amount,Business payment
+615,6459,377075.31,2023-05-21T22:10:47.234Z,Deposit,Canada,Japan,Cronin and Sons,Swaniawski, Vandervort and Green,1610980.13,Business,Yes,Large transaction amount,Loan repayment
+616,8572,190008.14,2021-01-25T12:48:33.794Z,Withdrawal,China,China,Zieme - Marks,Langworth, Welch and Lockman,9214826.31,Individual,Yes,Large transaction amount,Loan repayment
+617,8930,69992.99,2020-11-21T06:23:44.160Z,Deposit,Canada,Australia,Quitzon Inc,Jones, Conroy and Ebert,694735.66,Business,Yes,Large transaction amount,Loan repayment
+618,1533,384587.12,2022-10-01T10:57:27.239Z,Transfer,Canada,Japan,Klocko Group,Roob - McKenzie,5956960.82,Individual,Yes,Large transaction amount,Loan repayment
+619,1811,433476.20,2023-01-19T10:52:18.787Z,Withdrawal,Australia,China,Goyette, Schuster and Witting,Schultz, Haag and Hand,2090760.39,Individual,Yes,Large transaction amount,Business payment
+620,4684,157111.46,2022-05-13T20:31:31.278Z,Deposit,India,Australia,Spencer LLC,McCullough - Steuber,2987706.71,Business,Yes,Large transaction amount,Business payment
+621,4172,921309.80,2020-05-24T12:08:04.736Z,Transfer,China,UK,Feeney - Kohler,Witting, Rosenbaum and Zieme,9570984.12,Individual,Yes,Large transaction amount,Personal transfer
+622,8717,967310.32,2024-05-15T23:39:31.025Z,Withdrawal,Germany,Australia,Streich Inc,McDermott - Feest,4036524.71,Business,Yes,Large transaction amount,Loan repayment
+623,1207,592651.03,2020-12-29T14:28:17.578Z,Transfer,Canada,China,Kemmer, Wolff and Schamberger,Macejkovic Group,7827419.60,Business,Yes,Large transaction amount,Personal transfer
+624,5523,652601.27,2022-06-27T21:58:36.424Z,Deposit,India,Canada,Bayer LLC,Vandervort, Hickle and Ratke,4761661.58,Individual,Yes,Large transaction amount,Loan repayment
+625,3585,665325.49,2021-07-09T03:01:39.925Z,Withdrawal,UK,Germany,Simonis, Gibson and Schaden,Pagac, Yost and Lakin,9951340.49,Individual,Yes,Large transaction amount,Personal transfer
+626,3781,273476.18,2024-08-10T12:11:27.208Z,Deposit,India,Canada,Berge Inc,Schinner, Hoeger and McDermott,3510598.01,Individual,Yes,Large transaction amount,Business payment
+627,8240,91179.19,2022-08-21T06:42:05.431Z,Deposit,Canada,India,Rowe, Marvin and Fritsch,Howe, Runolfsdottir and Heidenreich,7289016.17,Business,Yes,Large transaction amount,Personal transfer
+628,7424,268208.56,2022-12-15T00:00:00.637Z,Transfer,China,UK,Lesch - Rau,Schoen - Gaylord,9164393.14,Individual,Yes,Large transaction amount,Business payment
+629,4692,4326.02,2023-05-31T01:21:15.844Z,Deposit,Australia,Australia,Reichel, Runte and Rohan,Runolfsdottir - O'Hara,4709407.87,Individual,No,,Business payment
+630,7228,358931.59,2022-06-21T13:41:42.177Z,Withdrawal,Canada,Australia,Johns - Torp,Wehner - Lang,9427176.75,Business,Yes,Large transaction amount,Loan repayment
+631,7410,353532.58,2022-11-25T19:14:01.520Z,Transfer,UK,China,Douglas, McLaughlin and Langworth,Frami, Gutkowski and Fay,3610751.62,Individual,Yes,Large transaction amount,Personal transfer
+632,3346,62785.24,2024-11-16T02:41:05.808Z,Deposit,Australia,China,Klocko, Swift and Johnson,Stroman - Schumm,537223.72,Individual,Yes,Large transaction amount,Loan repayment
+633,8962,441196.23,2023-05-10T07:30:26.062Z,Transfer,Russia,UK,Waelchi, Pouros and Mayert,Kertzmann Inc,9770233.78,Individual,Yes,Large transaction amount,Business payment
+634,6439,866681.55,2021-10-15T18:53:47.669Z,Withdrawal,China,Canada,Gottlieb, Hoppe and Volkman,Homenick LLC,8068805.47,Individual,Yes,Large transaction amount,Personal transfer
+635,5923,75510.83,2023-03-02T07:38:43.408Z,Withdrawal,Canada,Australia,Boehm - Mante,Kshlerin, Baumbach and Pfeffer,3241100.77,Business,Yes,Large transaction amount,Personal transfer
+636,7036,620990.62,2023-07-19T02:14:04.857Z,Withdrawal,Canada,Russia,Bruen - Marquardt,Shields - Grady,156000.34,Individual,Yes,Large transaction amount,Loan repayment
+637,5399,300201.53,2024-04-07T18:02:36.907Z,Withdrawal,Canada,Canada,Sipes LLC,Cassin, Mraz and Hermann,938599.16,Business,Yes,Large transaction amount,Loan repayment
+638,8319,793204.37,2021-09-08T20:16:44.331Z,Withdrawal,USA,Canada,Harber Group,Lind, Price and Stehr,3625952.37,Business,Yes,Large transaction amount,Personal transfer
+639,1484,97740.58,2021-11-19T09:23:07.267Z,Transfer,China,Japan,Dach - Ryan,Pagac, Satterfield and Grady,4805349.20,Business,Yes,Large transaction amount,Loan repayment
+640,5006,198620.61,2025-02-26T17:48:26.069Z,Withdrawal,Canada,Canada,Hudson and Sons,Cremin LLC,9967385.64,Individual,Yes,Large transaction amount,Business payment
+641,4216,839626.22,2023-06-08T06:17:00.688Z,Withdrawal,USA,Canada,Runolfsdottir - Adams,Bernhard - Herzog,5535118.23,Individual,Yes,Large transaction amount,Loan repayment
+642,5194,661498.56,2020-12-22T09:49:50.321Z,Withdrawal,UK,UK,Orn - Gibson,Raynor - Stanton,310485.49,Individual,Yes,Large transaction amount,Loan repayment
+643,7602,955036.67,2022-09-24T14:56:18.911Z,Transfer,Germany,China,Yundt, Wiegand and Collier,Fay - Marks,2899234.74,Business,Yes,Large transaction amount,Personal transfer
+644,9866,975519.54,2023-02-09T19:07:35.332Z,Transfer,India,Australia,Walter - Kunze,Cassin and Sons,2551299.96,Business,Yes,Large transaction amount,Loan repayment
+645,7781,73791.07,2020-11-27T13:26:57.241Z,Withdrawal,Japan,India,Hamill LLC,Jakubowski - Marvin,9930557.06,Individual,Yes,Large transaction amount,Business payment
+646,4857,125829.89,2021-02-13T22:46:41.623Z,Transfer,Russia,Canada,Hudson - Dietrich,Cronin Inc,574597.88,Individual,Yes,Large transaction amount,Loan repayment
+647,1302,860296.96,2023-02-18T04:20:04.216Z,Deposit,India,Canada,Heller - Toy,Leuschke LLC,3621102.59,Business,Yes,Large transaction amount,Loan repayment
+648,7288,300566.91,2023-04-23T10:52:48.867Z,Deposit,UK,Canada,Cruickshank - Jakubowski,Barrows, Tremblay and Lebsack,4830438.13,Business,Yes,Large transaction amount,Loan repayment
+649,5499,410645.75,2020-08-19T19:36:44.446Z,Withdrawal,Australia,Germany,Smitham, Luettgen and Miller,Greenholt - Mante,2726776.23,Business,Yes,Large transaction amount,Loan repayment
+650,7004,901075.05,2020-05-16T16:43:45.883Z,Withdrawal,Germany,Australia,Vandervort Inc,Harber - Simonis,5851032.31,Individual,Yes,Large transaction amount,Business payment
+651,1405,323490.50,2023-02-18T21:16:08.100Z,Withdrawal,Canada,China,Fritsch and Sons,Hirthe LLC,5931496.80,Individual,Yes,Large transaction amount,Business payment
+652,4303,544206.26,2023-01-14T12:12:01.569Z,Transfer,USA,India,Flatley - Marvin,Reilly - Rau,4600764.82,Individual,Yes,Large transaction amount,Business payment
+653,8002,759933.60,2024-10-14T20:57:49.271Z,Withdrawal,UK,Australia,Jerde Group,Reynolds - Tillman,5619574.15,Business,Yes,Large transaction amount,Business payment
+654,1889,910940.35,2023-06-05T03:25:50.531Z,Deposit,Canada,Australia,Greenfelder, Yost and Nikolaus,Jacobi, Bode and Schmitt,8566688.12,Individual,Yes,Large transaction amount,Business payment
+655,6232,782765.82,2022-07-16T05:18:55.037Z,Deposit,Germany,Russia,Carter - Rau,Crona - Turcotte,2866093.91,Business,Yes,Large transaction amount,Personal transfer
+656,6262,998975.10,2022-04-20T04:06:14.389Z,Withdrawal,USA,India,Anderson, Tillman and Denesik,Muller, Gerlach and Williamson,543975.99,Individual,Yes,Large transaction amount,Loan repayment
+657,6248,507517.46,2022-04-16T04:05:07.719Z,Withdrawal,Australia,China,Hettinger - Homenick,Hirthe - Runolfsson,6292144.80,Individual,Yes,Large transaction amount,Business payment
+658,9168,948016.75,2021-11-20T07:15:51.211Z,Deposit,UK,Australia,Dietrich - Hartmann,Moore, McDermott and Schuster,8474006.40,Business,Yes,Large transaction amount,Personal transfer
+659,4033,35667.23,2022-01-13T20:14:52.668Z,Transfer,Germany,USA,Harris - Nader,Hagenes, Price and Glover,6163323.79,Individual,Yes,Large cross-border transfer,Personal transfer
+660,2557,452895.58,2022-07-04T14:24:43.938Z,Withdrawal,Germany,India,Kozey LLC,Kovacek Group,4715243.99,Individual,Yes,Large transaction amount,Loan repayment
+661,1693,746257.60,2021-04-14T02:07:51.436Z,Withdrawal,Germany,Russia,Blanda, Gorczany and Hand,Rau Inc,4348869.10,Business,Yes,Large transaction amount,Personal transfer
+662,6048,458014.58,2022-12-05T17:51:34.425Z,Transfer,India,USA,Dickinson Inc,Fritsch - Ullrich,3047374.29,Business,Yes,Large transaction amount,Loan repayment
+663,5850,520648.18,2022-03-13T10:00:39.309Z,Deposit,Canada,China,Bruen - Grimes,Waelchi, Weber and Weber,6223803.57,Business,Yes,Large transaction amount,Business payment
+664,3878,835798.57,2024-08-22T08:43:31.121Z,Transfer,Russia,USA,Runolfsdottir - Greenfelder,Doyle and Sons,8519956.87,Business,Yes,Large transaction amount,Personal transfer
+665,5479,389590.34,2021-09-11T21:41:31.938Z,Withdrawal,India,Germany,Gaylord, Hirthe and Wyman,West, Spencer and McLaughlin,8431237.54,Business,Yes,Large transaction amount,Personal transfer
+666,6883,301699.56,2024-12-23T03:06:59.977Z,Withdrawal,Japan,USA,Auer - Conroy,O'Connell Group,2142711.89,Business,Yes,Large transaction amount,Loan repayment
+667,5608,894663.69,2024-04-29T20:58:39.179Z,Transfer,Germany,Canada,Hermann - Steuber,Adams, Champlin and Denesik,5698175.29,Business,Yes,Large transaction amount,Loan repayment
+668,6696,819074.68,2022-09-02T20:41:46.871Z,Transfer,Russia,Canada,Keeling, Jenkins and Terry,Bauch - Wolff,6704978.03,Business,Yes,Large transaction amount,Business payment
+669,6235,947710.32,2020-09-30T08:23:24.372Z,Transfer,Australia,Australia,Botsford and Sons,Morar LLC,8524217.23,Individual,Yes,Large transaction amount,Business payment
+670,8287,604088.98,2020-03-13T06:18:45.006Z,Transfer,USA,Japan,Macejkovic Group,Kertzmann - Toy,9264327.69,Business,Yes,Large transaction amount,Business payment
+671,2257,397642.93,2021-09-07T11:51:35.868Z,Withdrawal,China,Canada,Donnelly - Schaden,Baumbach, Lind and Tillman,4195933.38,Business,Yes,Large transaction amount,Business payment
+672,3764,647605.52,2024-08-17T01:44:30.267Z,Deposit,India,Japan,Hickle - Wilderman,Steuber, Pollich and Boyle,1534821.07,Individual,Yes,Large transaction amount,Business payment
+673,9641,185380.18,2024-05-03T16:41:25.292Z,Deposit,Japan,Canada,Grant, Daniel and Goodwin,Orn Group,7909291.73,Individual,Yes,Large transaction amount,Personal transfer
+674,8546,711020.61,2022-10-12T09:16:47.694Z,Withdrawal,Russia,UK,Crist, Lang and Herman,Altenwerth - Kessler,79589.09,Individual,Yes,Large transaction amount,Personal transfer
+675,7149,937966.04,2023-07-18T07:34:13.835Z,Transfer,China,Germany,Barrows LLC,Paucek - Lebsack,7643167.22,Individual,Yes,Large transaction amount,Personal transfer
+676,6950,383531.26,2021-06-12T23:43:19.479Z,Transfer,Germany,China,Kuphal, Klocko and Cremin,Walsh Inc,3899143.86,Individual,Yes,Large transaction amount,Loan repayment
+677,1416,276414.42,2021-07-11T14:55:04.353Z,Deposit,China,Canada,Spencer, Hackett and Parker,Osinski, Dooley and Reinger,8444003.00,Individual,Yes,Large transaction amount,Loan repayment
+678,4544,724388.67,2024-03-03T17:03:59.071Z,Withdrawal,UK,Canada,Baumbach and Sons,Rodriguez Group,442224.91,Individual,Yes,Large transaction amount,Loan repayment
+679,7912,256897.62,2021-10-23T20:48:33.402Z,Withdrawal,China,India,Hamill Inc,Satterfield, Bartell and Ruecker,2850968.04,Business,Yes,Large transaction amount,Loan repayment
+680,8685,957269.46,2022-10-03T23:03:35.807Z,Deposit,China,UK,Halvorson, Green and Ortiz,Douglas - Jones,2527226.43,Business,Yes,Large transaction amount,Loan repayment
+681,4792,515972.46,2021-05-08T21:28:09.281Z,Deposit,India,Canada,Metz Group,Altenwerth - Douglas,4320277.16,Individual,Yes,Large transaction amount,Business payment
+682,7155,817345.99,2021-09-28T14:57:11.363Z,Deposit,UK,Germany,Hartmann and Sons,Daniel - Wiegand,8517794.23,Business,Yes,Large transaction amount,Personal transfer
+683,9915,287318.14,2020-12-19T08:05:00.451Z,Transfer,Japan,Japan,Rempel, Medhurst and Powlowski,Runolfsdottir, Kozey and Abshire,6210614.16,Business,Yes,Large transaction amount,Loan repayment
+684,3472,581055.59,2021-07-13T15:42:49.727Z,Deposit,UK,India,Anderson - Pacocha,Schowalter - Streich,9416085.65,Individual,Yes,Large transaction amount,Loan repayment
+685,1263,448623.23,2024-05-07T04:37:33.135Z,Withdrawal,USA,Russia,Pouros - Nicolas,Bergstrom - Gottlieb,5425922.81,Business,Yes,Large transaction amount,Personal transfer
+686,5743,353549.12,2024-09-13T10:45:18.294Z,Withdrawal,Russia,Japan,Mann Group,Hilll, Nikolaus and Weimann,6147810.05,Individual,Yes,Large transaction amount,Loan repayment
+687,3178,373533.21,2021-04-16T17:41:28.151Z,Deposit,USA,Australia,Kovacek Group,Kemmer, Bergnaum and Carroll,61272.42,Business,Yes,Large transaction amount,Personal transfer
+688,3170,897692.71,2021-01-15T07:20:17.105Z,Deposit,UK,Russia,Pagac - Kihn,Stokes Inc,906253.48,Business,Yes,Large transaction amount,Personal transfer
+689,9139,665629.26,2021-01-25T17:05:29.111Z,Transfer,China,Russia,Bradtke - Koss,Mann - Yost,7712340.01,Individual,Yes,Large transaction amount,Loan repayment
+690,3314,28117.65,2020-04-08T06:04:51.901Z,Deposit,Japan,Canada,Hoeger - Champlin,Simonis LLC,2096107.79,Business,No,,Personal transfer
+691,7425,484824.44,2022-05-14T08:50:25.987Z,Deposit,Japan,Canada,Schaden Group,Kuphal Inc,4846327.28,Individual,Yes,Large transaction amount,Loan repayment
+692,2511,715796.98,2020-08-27T22:35:06.247Z,Transfer,Russia,Canada,Rosenbaum - Kshlerin,Graham - O'Connell,3496767.37,Individual,Yes,Large transaction amount,Personal transfer
+693,2588,554993.31,2023-04-06T00:09:58.646Z,Deposit,India,Russia,Streich and Sons,Boyle - Lehner,8921418.52,Individual,Yes,Large transaction amount,Business payment
+694,7538,8648.60,2024-04-15T20:35:40.454Z,Withdrawal,UK,China,Kuhic and Sons,Marquardt, McKenzie and Russel,7924488.24,Business,No,,Loan repayment
+695,1540,593899.35,2024-07-22T01:18:57.717Z,Deposit,USA,Germany,Hudson and Sons,Carter, Kuhn and Becker,2392449.95,Individual,Yes,Large transaction amount,Loan repayment
+696,8178,334102.00,2022-06-18T23:44:39.325Z,Withdrawal,Germany,USA,Crona, Conroy and Bayer,Runolfsson, Hansen and Hegmann,5312176.91,Business,Yes,Large transaction amount,Business payment
+697,3995,790851.71,2020-12-25T23:14:06.160Z,Deposit,Australia,Canada,Roberts Inc,Powlowski Group,6836503.57,Individual,Yes,Large transaction amount,Business payment
+698,2860,800063.43,2020-04-07T08:00:58.868Z,Transfer,UK,USA,Leannon LLC,Stoltenberg - Crooks,460178.56,Individual,Yes,Large transaction amount,Personal transfer
+699,7133,505724.59,2022-12-27T04:44:10.256Z,Deposit,USA,UK,Carroll Group,Lind - Rempel,311675.02,Business,Yes,Large transaction amount,Loan repayment
+700,7922,126994.83,2021-09-05T16:14:19.309Z,Deposit,Canada,Canada,McCullough, Stanton and Lueilwitz,Leffler LLC,337888.39,Business,Yes,Large transaction amount,Loan repayment
+701,8780,805195.16,2023-12-04T18:02:15.252Z,Deposit,UK,Canada,Hansen - Oberbrunner,Mertz, Robel and Johnson,7636173.25,Individual,Yes,Large transaction amount,Personal transfer
+702,7146,840910.90,2024-11-04T14:34:43.841Z,Deposit,Russia,Australia,Schmitt - Bednar,Collins, Barrows and Metz,7827672.83,Individual,Yes,Large transaction amount,Personal transfer
+703,4487,55481.83,2020-12-17T11:56:01.512Z,Deposit,USA,Canada,Schiller - DuBuque,McGlynn - Stiedemann,2325099.27,Individual,Yes,Large transaction amount,Loan repayment
+704,4203,970281.73,2024-10-16T19:24:09.087Z,Transfer,UK,UK,Powlowski, Stark and Gottlieb,Mraz, Ziemann and Block,3873815.90,Business,Yes,Large transaction amount,Loan repayment
+705,6751,43452.84,2024-02-20T20:55:51.916Z,Deposit,Australia,India,Satterfield, Kreiger and Emard,Medhurst, King and Pfannerstill,4484484.64,Business,No,,Personal transfer
+706,3103,84767.38,2023-05-25T18:00:43.149Z,Transfer,Canada,Canada,Spencer, Abernathy and Christiansen,Bernier, Hermiston and Lakin,1695529.01,Individual,Yes,Large transaction amount,Business payment
+707,5299,918923.43,2021-06-28T19:35:55.713Z,Withdrawal,Russia,Australia,Abshire, Wunsch and Feil,Tillman LLC,2897296.45,Business,Yes,Large transaction amount,Business payment
+708,1297,757247.46,2022-05-26T23:56:07.187Z,Transfer,India,Russia,Dibbert - Ziemann,Spencer Inc,1268890.90,Individual,Yes,Large transaction amount,Loan repayment
+709,6742,725439.49,2022-02-21T14:14:29.666Z,Withdrawal,Canada,USA,Gutmann, Schmidt and Renner,Kuphal LLC,1871743.51,Individual,Yes,Large transaction amount,Business payment
+710,7439,200021.90,2024-10-30T00:36:55.838Z,Transfer,China,Japan,Lynch Inc,Lynch, Wisozk and Heller,3069886.54,Business,Yes,Large transaction amount,Business payment
+711,6141,125982.98,2022-10-03T04:56:31.376Z,Withdrawal,USA,China,Runte - Prosacco,Sanford and Sons,7855855.02,Individual,Yes,Large transaction amount,Loan repayment
+712,3817,493947.93,2021-08-08T00:16:23.983Z,Withdrawal,UK,Russia,Stracke - Bailey,Boehm LLC,5402035.75,Business,Yes,Large transaction amount,Loan repayment
+713,1602,852236.99,2023-12-23T01:22:13.122Z,Withdrawal,China,UK,Keebler and Sons,Zieme, Christiansen and Stamm,134901.59,Individual,Yes,Large transaction amount,Business payment
+714,8431,599187.66,2023-12-07T16:12:56.257Z,Deposit,USA,Australia,Moen - Waters,Emmerich, Beier and Pouros,9021704.44,Business,Yes,Large transaction amount,Personal transfer
+715,6618,483323.32,2024-07-31T20:46:35.905Z,Withdrawal,UK,Germany,Batz, Huel and Ernser,Schimmel - Brakus,894706.48,Business,Yes,Large transaction amount,Loan repayment
+716,4788,410321.22,2024-03-08T21:57:35.468Z,Withdrawal,India,Australia,Dicki and Sons,Williamson and Sons,1179631.66,Business,Yes,Large transaction amount,Personal transfer
+717,4464,857370.89,2021-05-12T07:16:09.883Z,Transfer,Canada,Russia,Roberts, Kreiger and Ratke,Parisian and Sons,3488201.98,Individual,Yes,Large transaction amount,Business payment
+718,2112,981552.75,2020-05-27T00:40:05.816Z,Withdrawal,Canada,India,Turner Inc,Rogahn Inc,1330245.49,Individual,Yes,Large transaction amount,Personal transfer
+719,9179,89048.09,2024-01-05T05:32:02.684Z,Deposit,Japan,Japan,Towne, Lowe and Bogisich,Wolf - Murazik,1341519.91,Business,Yes,Large transaction amount,Loan repayment
+720,2211,914371.51,2020-06-23T03:27:35.475Z,Transfer,UK,Japan,Rath Group,Treutel LLC,9347583.47,Business,Yes,Large transaction amount,Loan repayment
+721,2047,788599.18,2020-06-03T09:31:45.282Z,Deposit,Australia,Australia,Barton Inc,Mosciski - Fahey,7698425.64,Individual,Yes,Large transaction amount,Personal transfer
+722,2265,116203.73,2021-11-13T15:41:00.600Z,Deposit,India,USA,Cassin - Cartwright,Gerhold LLC,9213668.39,Business,Yes,Large transaction amount,Business payment
+723,6989,133499.81,2024-10-20T06:43:32.477Z,Deposit,Japan,Germany,Borer, Thiel and Quigley,Schoen Inc,4503560.48,Business,Yes,Large transaction amount,Business payment
+724,5771,210479.99,2024-01-23T12:12:48.368Z,Withdrawal,UK,UK,Romaguera LLC,Oberbrunner, Walter and Bergnaum,4059959.33,Individual,Yes,Large transaction amount,Loan repayment
+725,9550,983821.78,2021-05-19T00:15:04.903Z,Withdrawal,USA,Russia,Johns Group,Feil Group,8073367.84,Business,Yes,Large transaction amount,Business payment
+726,8452,169350.15,2023-01-03T15:07:27.052Z,Transfer,Germany,Russia,Purdy, Nicolas and Gottlieb,Hansen, Kovacek and Wiegand,5149821.61,Individual,Yes,Large transaction amount,Personal transfer
+727,4013,434111.82,2024-11-18T13:04:01.417Z,Transfer,Russia,China,Johnston, Lehner and Lehner,Haley Group,9450908.19,Individual,Yes,Large transaction amount,Personal transfer
+728,3210,291863.54,2021-01-27T02:06:13.598Z,Deposit,Germany,USA,Rosenbaum Group,Rath, Daniel and Wehner,8284224.06,Individual,Yes,Large transaction amount,Business payment
+729,2884,28086.52,2023-03-30T21:13:02.116Z,Withdrawal,Russia,Japan,Williamson, Kertzmann and Jacobi,Gottlieb LLC,1481148.28,Business,No,,Personal transfer
+730,6624,462413.26,2023-03-23T17:03:17.969Z,Deposit,USA,Russia,Metz, White and Conn,Satterfield and Sons,1650113.82,Business,Yes,Large transaction amount,Personal transfer
+731,7090,955408.04,2021-02-07T21:15:29.505Z,Deposit,Australia,USA,Kassulke, Kozey and Grimes,Rodriguez, Marks and O'Connell,917719.32,Business,Yes,Large transaction amount,Business payment
+732,2921,887317.78,2021-09-29T14:42:41.835Z,Transfer,UK,Canada,Kuhn LLC,Mraz - Goodwin,2196294.78,Individual,Yes,Large transaction amount,Business payment
+733,4847,413968.95,2021-05-07T09:25:01.578Z,Deposit,UK,India,Stiedemann, Cummerata and Glover,Konopelski, Marvin and Bins,5104554.08,Business,Yes,Large transaction amount,Business payment
+734,2837,389689.20,2021-01-01T01:58:15.290Z,Withdrawal,USA,Japan,Wilderman Group,Lind - Rice,1950789.03,Individual,Yes,Large transaction amount,Personal transfer
+735,6911,820067.81,2023-01-20T02:06:45.796Z,Withdrawal,UK,USA,Kohler, Huels and Schneider,Stanton - Mante,495152.18,Individual,Yes,Large transaction amount,Personal transfer
+736,1192,79796.05,2022-04-09T04:19:30.190Z,Transfer,UK,China,Hansen - Bechtelar,Morissette - Zulauf,6034393.76,Individual,Yes,Large transaction amount,Personal transfer
+737,6731,857368.69,2022-05-31T19:42:35.459Z,Transfer,Russia,Canada,Hand, Homenick and Doyle,Waters Group,734626.85,Business,Yes,Large transaction amount,Loan repayment
+738,2030,427264.91,2021-02-25T05:59:17.156Z,Withdrawal,USA,USA,Davis - Fisher,Weimann, Rippin and Pollich,944443.57,Business,Yes,Large transaction amount,Business payment
+739,2653,417611.99,2023-02-14T23:55:07.837Z,Withdrawal,USA,Japan,Lehner, Balistreri and Hickle,DuBuque - Wolff,6414201.93,Business,Yes,Large transaction amount,Personal transfer
+740,9295,810693.77,2023-01-31T20:44:37.127Z,Deposit,India,Russia,Ernser Group,Grant - Steuber,6605509.45,Business,Yes,Large transaction amount,Loan repayment
+741,9206,180045.36,2022-08-15T15:30:09.908Z,Deposit,USA,Australia,Gibson Group,Trantow LLC,6300915.24,Business,Yes,Large transaction amount,Loan repayment
+742,5155,194965.04,2020-09-01T08:43:13.717Z,Withdrawal,Australia,Australia,Treutel LLC,Yundt, Langosh and Shanahan,2392025.90,Business,Yes,Large transaction amount,Personal transfer
+743,1009,94355.82,2023-11-09T10:47:51.116Z,Deposit,India,India,Wolff and Sons,Pacocha LLC,1227734.54,Business,Yes,Large transaction amount,Business payment
+744,8742,152147.61,2023-07-13T21:33:19.474Z,Deposit,Australia,China,Lynch - Hand,Brakus - Romaguera,1069919.59,Business,Yes,Large transaction amount,Loan repayment
+745,9407,548508.13,2023-09-05T14:03:23.769Z,Transfer,Germany,USA,Robel - Lebsack,Flatley - Hessel,8120233.88,Business,Yes,Large transaction amount,Personal transfer
+746,4776,54381.78,2023-04-06T13:00:17.231Z,Withdrawal,Japan,Japan,Schuppe - Emmerich,Roob, Lindgren and Sporer,4488188.18,Business,Yes,Large transaction amount,Personal transfer
+747,3842,356164.34,2021-10-17T19:20:23.047Z,Withdrawal,Japan,USA,Flatley - Schuppe,Harvey, Stracke and Hills,9758561.34,Individual,Yes,Large transaction amount,Business payment
+748,6125,794061.56,2021-01-13T02:08:10.770Z,Deposit,Canada,Australia,White, Ledner and Kiehn,Morissette, Trantow and Koch,2737509.78,Individual,Yes,Large transaction amount,Business payment
+749,7753,667751.60,2022-04-19T03:56:09.104Z,Deposit,China,Russia,Pfeffer LLC,Hansen - Cremin,8092137.83,Individual,Yes,Large transaction amount,Business payment
+750,4803,870758.12,2020-07-21T21:34:31.538Z,Withdrawal,Russia,USA,Koss, Cruickshank and Schiller,Mosciski, Gutkowski and Weissnat,3909133.02,Individual,Yes,Large transaction amount,Loan repayment
+751,6462,188402.73,2021-09-26T17:22:41.161Z,Deposit,Canada,Australia,Johnston, Veum and Bradtke,Windler Group,788701.10,Individual,Yes,Large transaction amount,Personal transfer
+752,1654,400013.84,2022-07-03T13:35:31.644Z,Transfer,UK,USA,Emmerich and Sons,Smitham - Schmeler,8837130.21,Individual,Yes,Large transaction amount,Loan repayment
+753,1781,974967.32,2023-02-19T14:11:28.781Z,Withdrawal,USA,Japan,Schaefer - Volkman,Sauer and Sons,2764342.42,Individual,Yes,Large transaction amount,Business payment
+754,4696,590955.89,2020-10-23T11:17:03.552Z,Withdrawal,Japan,Russia,White Group,Gorczany - Strosin,9764101.32,Individual,Yes,Large transaction amount,Personal transfer
+755,1312,366773.77,2020-08-15T21:12:20.599Z,Withdrawal,Japan,Canada,O'Hara, Quigley and Schimmel,Lubowitz - Grady,6881544.69,Individual,Yes,Large transaction amount,Loan repayment
+756,2531,871112.19,2025-02-19T20:52:23.588Z,Withdrawal,Australia,UK,Nicolas - Schimmel,Hodkiewicz, Bradtke and Moen,2077792.80,Individual,Yes,Large transaction amount,Business payment
+757,8144,751297.57,2024-08-17T19:26:49.127Z,Deposit,India,Canada,Bayer - Bogan,Bradtke and Sons,3470396.92,Individual,Yes,Large transaction amount,Business payment
+758,7180,239652.30,2023-12-08T05:32:01.845Z,Deposit,Canada,Germany,Herzog, Cruickshank and Keebler,Rolfson - Cummerata,8242728.83,Business,Yes,Large transaction amount,Personal transfer
+759,8903,318553.15,2022-01-06T00:06:37.956Z,Transfer,Japan,Germany,Schmitt - Mayer,Hintz and Sons,7796843.18,Individual,Yes,Large transaction amount,Personal transfer
+760,1387,177736.19,2021-09-15T17:13:36.282Z,Deposit,USA,India,MacGyver - Quigley,Kertzmann and Sons,7698760.58,Individual,Yes,Large transaction amount,Loan repayment
+761,3889,847617.23,2021-03-11T01:01:05.260Z,Withdrawal,Japan,Japan,Koss, Gottlieb and Nicolas,Moore - Fisher,7212544.13,Business,Yes,Large transaction amount,Loan repayment
+762,8014,600301.59,2021-11-27T01:14:43.426Z,Deposit,Germany,Germany,Smitham - O'Connell,Aufderhar - Wilderman,1579546.05,Business,Yes,Large transaction amount,Personal transfer
+763,3308,776419.51,2020-04-24T18:31:05.069Z,Withdrawal,USA,Canada,Haag Group,Ratke, Towne and Stoltenberg,1504641.83,Individual,Yes,Large transaction amount,Personal transfer
+764,2049,64662.78,2023-09-01T18:35:53.383Z,Transfer,Australia,Japan,Wilderman - Kautzer,Kerluke - Thiel,2032865.73,Individual,Yes,Large transaction amount,Loan repayment
+765,6458,846288.95,2024-08-06T09:16:01.568Z,Transfer,China,Russia,DuBuque, Ledner and Braun,Romaguera and Sons,970219.36,Business,Yes,Large transaction amount,Business payment
+766,3979,47121.13,2024-11-10T09:53:34.436Z,Transfer,Germany,UK,Feil - Johnson,Jerde, Crona and Ryan,1643461.56,Individual,Yes,Large cross-border transfer,Loan repayment
+767,9596,799116.31,2024-07-24T20:53:00.560Z,Withdrawal,Australia,Germany,Farrell - Doyle,Hayes LLC,6354988.37,Business,Yes,Large transaction amount,Personal transfer
+768,9225,217782.19,2022-01-29T14:10:07.406Z,Deposit,Germany,Germany,Little Group,Willms LLC,1459853.96,Individual,Yes,Large transaction amount,Loan repayment
+769,8361,650284.85,2023-01-27T03:41:13.097Z,Withdrawal,Germany,Japan,Stanton - Kling,Schowalter Group,5491410.08,Individual,Yes,Large transaction amount,Business payment
+770,9397,714160.09,2023-10-18T11:56:12.208Z,Deposit,Australia,Japan,Hauck, Hyatt and Hettinger,Kilback, Ziemann and Mueller,3076852.96,Business,Yes,Large transaction amount,Personal transfer
+771,6570,143806.77,2020-12-17T19:18:01.659Z,Deposit,India,China,Satterfield Group,Williamson Inc,9970414.04,Individual,Yes,Large transaction amount,Personal transfer
+772,4048,372310.74,2022-09-07T01:23:43.042Z,Withdrawal,Germany,Japan,Morar - Armstrong,Wisozk Inc,8747845.71,Individual,Yes,Large transaction amount,Business payment
+773,9206,245895.09,2020-10-11T17:58:50.642Z,Transfer,Canada,UK,Carroll Inc,Klocko LLC,7935772.49,Business,Yes,Large transaction amount,Loan repayment
+774,2095,166264.12,2024-04-28T15:50:34.609Z,Withdrawal,Germany,India,Zulauf Group,White - Wisoky,783743.92,Individual,Yes,Large transaction amount,Loan repayment
+775,1588,224730.74,2022-06-15T01:34:29.634Z,Deposit,Japan,Russia,King, Windler and Christiansen,Nitzsche and Sons,8644131.74,Individual,Yes,Large transaction amount,Business payment
+776,3856,367574.64,2022-11-15T09:55:20.399Z,Deposit,Russia,India,Kovacek Inc,Hermiston, Bartell and Swaniawski,7706513.46,Individual,Yes,Large transaction amount,Personal transfer
+777,9573,848650.47,2022-01-13T16:49:42.970Z,Deposit,Germany,Australia,Bode, Stracke and Weissnat,Funk - Weissnat,467622.18,Business,Yes,Large transaction amount,Loan repayment
+778,6246,174069.86,2023-05-13T02:52:06.102Z,Deposit,Canada,USA,Jacobi - Wiegand,Murazik Inc,7158921.53,Business,Yes,Large transaction amount,Loan repayment
+779,1495,83549.96,2021-03-20T13:09:41.365Z,Withdrawal,Japan,Canada,Howell - Larkin,Reynolds, Hills and D'Amore,2279327.82,Individual,Yes,Large transaction amount,Business payment
+780,4234,834551.35,2021-07-14T09:38:40.417Z,Deposit,UK,Germany,Botsford LLC,Grady, Hand and McClure,3091107.96,Business,Yes,Large transaction amount,Loan repayment
+781,1031,6077.95,2025-02-19T22:00:25.092Z,Withdrawal,Japan,Australia,Luettgen LLC,Cruickshank Inc,6267908.02,Individual,No,,Business payment
+782,9640,526140.19,2025-02-15T20:26:51.715Z,Withdrawal,India,UK,Murray and Sons,Hickle - Hilpert,5569435.49,Individual,Yes,Large transaction amount,Business payment
+783,3043,566681.97,2024-08-22T15:57:08.601Z,Transfer,India,Germany,Treutel, Bartell and Gislason,Wintheiser - Prohaska,2604776.56,Individual,Yes,Large transaction amount,Business payment
+784,6137,611508.39,2024-06-02T00:05:13.128Z,Transfer,Japan,UK,Glover, Kilback and Upton,Collins LLC,764460.43,Business,Yes,Large transaction amount,Loan repayment
+785,2238,822678.78,2025-02-05T08:29:00.169Z,Transfer,China,India,Purdy and Sons,Leffler LLC,3541501.91,Business,Yes,Large transaction amount,Business payment
+786,5768,415112.27,2020-09-05T13:33:45.294Z,Transfer,India,Australia,Kling - Hills,Kshlerin, Wolf and Huel,4405151.30,Business,Yes,Large transaction amount,Loan repayment
+787,8091,931489.36,2024-10-15T22:04:13.282Z,Transfer,USA,Japan,Reynolds - Bednar,Hamill - Ward,965161.94,Individual,Yes,Large transaction amount,Business payment
+788,2536,945055.28,2024-01-11T06:26:33.518Z,Withdrawal,UK,Germany,King, Shields and Robel,Cole, Murazik and O'Keefe,3478309.42,Individual,Yes,Large transaction amount,Personal transfer
+789,2674,81996.23,2020-09-09T23:17:54.171Z,Transfer,Japan,Russia,Schaefer Inc,Rodriguez Inc,5472595.43,Individual,Yes,Large transaction amount,Business payment
+790,9731,277252.59,2022-08-16T16:03:06.717Z,Withdrawal,China,UK,Muller - Kshlerin,Lueilwitz and Sons,8648577.06,Business,Yes,Large transaction amount,Business payment
+791,9307,284825.33,2021-02-04T22:05:47.746Z,Deposit,Japan,Australia,Mertz - Nitzsche,Aufderhar Group,66962.09,Business,Yes,Large transaction amount,Personal transfer
+792,4537,619462.71,2024-07-02T23:28:32.592Z,Transfer,UK,USA,Rempel, Tromp and Nader,Corkery LLC,435150.78,Business,Yes,Large transaction amount,Loan repayment
+793,1595,488628.99,2024-01-18T10:56:50.552Z,Transfer,Canada,Russia,Boehm Group,Walker, Brekke and Kunze,3502220.07,Individual,Yes,Large transaction amount,Personal transfer
+794,9006,513756.56,2023-08-10T11:39:30.720Z,Transfer,Australia,Japan,Hauck, Kertzmann and Bauch,Leffler, Torp and Ziemann,3256203.83,Business,Yes,Large transaction amount,Personal transfer
+795,2332,556242.50,2023-05-31T12:45:48.047Z,Transfer,Russia,Canada,Schaefer LLC,Herzog, Considine and Schroeder,3233014.74,Individual,Yes,Large transaction amount,Business payment
+796,1127,152555.40,2023-09-14T08:25:25.465Z,Transfer,Russia,Russia,Hessel - Beatty,Williamson, Hintz and Smitham,4373655.07,Individual,Yes,Large transaction amount,Business payment
+797,5442,389668.70,2021-01-16T18:36:19.557Z,Deposit,Germany,Japan,Brown LLC,Von - Kirlin,4428023.20,Business,Yes,Large transaction amount,Loan repayment
+798,1154,341170.55,2023-01-09T11:11:54.986Z,Deposit,UK,USA,Rogahn - Kautzer,DuBuque - Marquardt,9238459.70,Business,Yes,Large transaction amount,Loan repayment
+799,4450,663481.18,2023-01-25T05:19:21.730Z,Withdrawal,Australia,Russia,Jacobi - Larson,O'Hara, Pfeffer and Rath,9237977.03,Business,Yes,Large transaction amount,Personal transfer
+800,5332,926051.11,2024-04-09T00:16:00.838Z,Transfer,Australia,Australia,Wuckert Inc,Quitzon - Herzog,4050733.56,Business,Yes,Large transaction amount,Loan repayment
+801,8707,140379.47,2020-07-07T17:50:36.206Z,Transfer,UK,Russia,Torphy - Ferry,Jenkins LLC,3095727.15,Business,Yes,Large transaction amount,Loan repayment
+802,1636,766558.45,2024-12-01T04:57:13.587Z,Withdrawal,Canada,Japan,Jast - Kunze,Yost, Kertzmann and Grimes,6677510.70,Individual,Yes,Large transaction amount,Personal transfer
+803,6711,544251.94,2022-07-06T17:38:29.862Z,Deposit,Canada,India,Prohaska - Cronin,Zulauf, Medhurst and Klocko,3737105.08,Individual,Yes,Large transaction amount,Loan repayment
+804,1711,915940.04,2024-07-04T13:13:35.982Z,Deposit,Australia,Australia,Terry - Waters,Torphy, Barrows and O'Keefe,1848816.52,Business,Yes,Large transaction amount,Personal transfer
+805,2640,42761.76,2024-03-11T20:54:24.693Z,Deposit,China,Canada,McLaughlin - Fadel,Reilly - Thiel,550463.29,Individual,No,,Business payment
+806,6320,679910.90,2021-08-22T16:49:58.663Z,Withdrawal,UK,Russia,DuBuque, Stroman and Feil,Hahn LLC,6760884.53,Individual,Yes,Large transaction amount,Loan repayment
+807,8450,116309.71,2021-06-14T11:44:56.884Z,Withdrawal,Germany,Australia,Pouros, Hermann and Wisoky,Douglas - Goodwin,4285026.85,Business,Yes,Large transaction amount,Loan repayment
+808,1362,44829.17,2024-08-20T17:47:33.545Z,Withdrawal,Russia,China,Gislason and Sons,Schumm LLC,3747142.63,Business,No,,Business payment
+809,1935,540293.44,2021-05-08T02:41:48.377Z,Transfer,China,Russia,Luettgen - Hessel,Zboncak, McLaughlin and Klein,430231.51,Business,Yes,Large transaction amount,Loan repayment
+810,1678,863653.97,2020-04-10T04:23:51.794Z,Withdrawal,UK,UK,Paucek Group,Kutch - Rodriguez,6667631.97,Individual,Yes,Large transaction amount,Personal transfer
+811,9001,747898.77,2021-02-18T20:06:40.530Z,Transfer,Russia,Australia,Lockman LLC,Pacocha Inc,6263007.86,Business,Yes,Large transaction amount,Loan repayment
+812,6263,657641.83,2023-07-24T18:33:04.338Z,Withdrawal,India,Germany,Cummings Group,Lebsack - Donnelly,1018148.89,Individual,Yes,Large transaction amount,Personal transfer
+813,5062,805806.44,2023-08-15T13:43:26.564Z,Withdrawal,Canada,Australia,Ruecker LLC,Crooks - Legros,6767140.98,Individual,Yes,Large transaction amount,Personal transfer
+814,5931,728925.54,2022-05-26T21:43:37.309Z,Deposit,Japan,Australia,Pfannerstill - Stokes,Oberbrunner Group,7584452.53,Individual,Yes,Large transaction amount,Business payment
+815,1649,768100.77,2023-11-04T05:45:42.034Z,Transfer,India,China,Collins - Hills,Connelly LLC,8870219.84,Individual,Yes,Large transaction amount,Personal transfer
+816,7183,737802.85,2023-02-28T01:10:04.465Z,Deposit,Russia,India,Jacobson Group,White and Sons,8926392.92,Business,Yes,Large transaction amount,Loan repayment
+817,6844,270597.79,2021-02-20T15:44:20.955Z,Withdrawal,Germany,China,Goldner, Wilderman and Paucek,Gleason - Stanton,2165593.90,Business,Yes,Large transaction amount,Personal transfer
+818,8687,727101.96,2023-12-19T12:00:23.487Z,Transfer,China,Russia,Bernhard - Bergnaum,Bayer Inc,7602428.07,Individual,Yes,Large transaction amount,Business payment
+819,9338,744813.73,2023-05-07T05:36:19.308Z,Deposit,China,Canada,Yundt and Sons,Stroman - Schowalter,6566916.77,Business,Yes,Large transaction amount,Loan repayment
+820,6186,807369.34,2021-05-13T01:37:18.865Z,Transfer,Germany,India,Schulist, Muller and Ernser,Wuckert, Heller and Reynolds,6130041.58,Business,Yes,Large transaction amount,Loan repayment
+821,5867,889984.47,2022-05-02T08:36:57.951Z,Deposit,Australia,Germany,Kutch, Olson and Jacobi,Kautzer, Goodwin and Considine,1048333.34,Business,Yes,Large transaction amount,Personal transfer
+822,3928,785420.90,2024-02-08T10:18:59.769Z,Withdrawal,Russia,Canada,Ullrich - Littel,Osinski LLC,1639799.94,Individual,Yes,Large transaction amount,Personal transfer
+823,2782,245614.32,2022-04-07T09:49:43.198Z,Transfer,USA,India,Rice, Thompson and Gerlach,Hyatt LLC,8536017.74,Business,Yes,Large transaction amount,Loan repayment
+824,9231,95761.11,2020-08-24T01:45:52.812Z,Transfer,Germany,India,Homenick, Williamson and Waelchi,Yost, Tromp and Feest,9558715.69,Business,Yes,Large transaction amount,Business payment
+825,6649,316909.18,2023-06-19T04:59:30.767Z,Transfer,USA,UK,Boyle, Hansen and Stoltenberg,Larkin Inc,869185.06,Business,Yes,Large transaction amount,Loan repayment
+826,6928,572146.09,2020-05-15T20:10:07.955Z,Transfer,Russia,Japan,Kuphal and Sons,Wolf - Hackett,7996127.81,Business,Yes,Large transaction amount,Personal transfer
+827,7267,341308.27,2024-10-07T22:23:49.452Z,Withdrawal,India,USA,Bosco - Gutmann,Schamberger - Ward,5369527.93,Individual,Yes,Large transaction amount,Business payment
+828,4235,497008.25,2024-03-21T01:16:49.253Z,Deposit,Australia,China,Pouros Inc,Pagac Group,9916216.43,Business,Yes,Large transaction amount,Loan repayment
+829,6822,604441.45,2024-12-31T02:48:43.306Z,Transfer,Canada,Russia,Waelchi, Bartell and O'Reilly,Hackett - Sauer,2370960.50,Individual,Yes,Large transaction amount,Business payment
+830,3187,518274.17,2023-02-13T12:36:56.321Z,Transfer,China,China,Gibson, Donnelly and Ortiz,Jast - Crona,7320688.61,Individual,Yes,Large transaction amount,Personal transfer
+831,3512,760882.91,2024-06-08T14:47:40.073Z,Transfer,India,UK,Erdman - Wolf,Reichel Group,3775025.21,Business,Yes,Large transaction amount,Loan repayment
+832,8375,249249.81,2024-01-16T04:54:59.470Z,Transfer,Russia,India,Maggio - Rowe,Kuhic and Sons,6841147.87,Business,Yes,Large transaction amount,Loan repayment
+833,9012,872499.60,2023-07-10T22:52:23.070Z,Deposit,Germany,Germany,Greenholt, Stehr and Price,Gottlieb - Walsh,2436238.33,Business,Yes,Large transaction amount,Business payment
+834,3814,833464.01,2024-10-07T03:11:05.045Z,Deposit,Canada,Russia,Kreiger, Baumbach and Cole,Torphy LLC,4799758.60,Business,Yes,Large transaction amount,Loan repayment
+835,7481,677328.24,2023-12-09T08:30:24.504Z,Transfer,Australia,UK,Cormier - Aufderhar,Howell, Zulauf and Kreiger,2512807.19,Individual,Yes,Large transaction amount,Business payment
+836,9642,80337.00,2021-03-03T22:22:17.734Z,Transfer,Canada,Russia,Champlin, Schneider and Rippin,Donnelly Inc,4569540.23,Individual,Yes,Large transaction amount,Business payment
+837,2058,350656.33,2022-09-02T10:43:45.728Z,Deposit,UK,India,Becker - Schmeler,Stokes and Sons,13589.70,Individual,Yes,Large transaction amount,Loan repayment
+838,5264,326583.00,2021-04-01T10:48:28.802Z,Deposit,Canada,Canada,Marvin - Greenfelder,Upton, Trantow and Hermann,6206586.56,Individual,Yes,Large transaction amount,Business payment
+839,6817,330152.26,2022-10-23T11:00:11.158Z,Withdrawal,India,Germany,Fadel - Turcotte,Howe, Kling and Morar,6838434.53,Individual,Yes,Large transaction amount,Personal transfer
+840,1620,962355.98,2022-03-20T04:32:47.197Z,Withdrawal,Russia,China,Daugherty, Price and Ortiz,Kutch and Sons,5276588.34,Individual,Yes,Large transaction amount,Loan repayment
+841,3663,179747.18,2024-04-02T04:47:56.028Z,Deposit,Japan,China,Boyle - Cummerata,Kertzmann - Casper,2962329.00,Business,Yes,Large transaction amount,Loan repayment
+842,8766,694150.14,2022-10-24T20:39:07.326Z,Withdrawal,Russia,China,O'Keefe - Langworth,Conroy, Will and Kulas,5554977.14,Individual,Yes,Large transaction amount,Personal transfer
+843,9489,841941.75,2022-01-01T19:44:19.434Z,Transfer,India,USA,Huel and Sons,Fahey - Cole,8283594.63,Individual,Yes,Large transaction amount,Personal transfer
+844,9182,514976.32,2023-08-29T14:37:23.436Z,Withdrawal,Japan,USA,Medhurst, Towne and Kilback,Berge, Ebert and Strosin,6254619.88,Business,Yes,Large transaction amount,Personal transfer
+845,3032,707234.50,2023-01-11T22:41:51.114Z,Withdrawal,India,USA,Kautzer and Sons,Bashirian and Sons,5168699.76,Business,Yes,Large transaction amount,Loan repayment
+846,4123,980085.66,2025-02-08T18:03:34.488Z,Deposit,China,Australia,Turcotte, Emard and Cole,Crona, Rolfson and Boyle,7733863.27,Individual,Yes,Large transaction amount,Loan repayment
+847,7100,878996.76,2020-07-18T02:39:24.438Z,Withdrawal,Japan,China,Smith, O'Hara and Koch,Ritchie LLC,4490886.01,Individual,Yes,Large transaction amount,Loan repayment
+848,8152,87721.90,2022-01-02T18:38:46.885Z,Deposit,Japan,Germany,McDermott and Sons,Tillman, Russel and Hickle,3579585.94,Individual,Yes,Large transaction amount,Loan repayment
+849,2647,423651.65,2024-11-12T18:51:29.360Z,Deposit,Germany,Australia,Fahey, Padberg and Reynolds,Johnston Inc,7996537.70,Business,Yes,Large transaction amount,Personal transfer
+850,2367,955875.78,2022-11-29T20:54:52.125Z,Transfer,India,Germany,Kautzer Inc,Kuhlman, Torp and Reynolds,7805715.75,Business,Yes,Large transaction amount,Personal transfer
+851,8000,217010.27,2025-01-16T17:07:37.744Z,Transfer,India,Germany,Runolfsdottir, Satterfield and Dickens,Ferry - Rempel,278101.13,Individual,Yes,Large transaction amount,Loan repayment
+852,8100,696985.34,2020-07-21T16:09:38.809Z,Transfer,UK,Russia,Armstrong, Mills and Watsica,Johnston, Hyatt and Kris,3773497.27,Individual,Yes,Large transaction amount,Loan repayment
+853,7824,693723.87,2022-12-03T14:27:51.468Z,Deposit,Australia,Russia,Conn - Watsica,Heaney and Sons,8574102.25,Individual,Yes,Large transaction amount,Business payment
+854,9703,902659.18,2024-10-16T22:06:12.724Z,Deposit,Canada,UK,Davis, Jones and Brakus,Kovacek - Konopelski,5133194.65,Business,Yes,Large transaction amount,Loan repayment
+855,3303,178192.80,2024-04-20T03:55:57.226Z,Deposit,Germany,China,Goodwin, Mante and Trantow,Hoppe Group,4192378.93,Business,Yes,Large transaction amount,Loan repayment
+856,6015,518051.30,2024-12-09T03:44:50.327Z,Deposit,Japan,India,Howell - Rolfson,Vandervort, Stanton and Kertzmann,3354472.07,Business,Yes,Large transaction amount,Business payment
+857,9050,332331.50,2024-06-10T22:48:24.629Z,Withdrawal,USA,UK,Kozey LLC,Stroman and Sons,3126359.51,Individual,Yes,Large transaction amount,Loan repayment
+858,4124,478769.52,2020-06-27T14:06:37.973Z,Withdrawal,UK,Canada,Balistreri Group,Berge LLC,6684784.85,Business,Yes,Large transaction amount,Personal transfer
+859,7543,887722.37,2024-07-24T01:20:39.589Z,Deposit,USA,Russia,Hegmann - Johns,Mertz and Sons,4585834.50,Individual,Yes,Large transaction amount,Loan repayment
+860,6507,938377.72,2023-03-03T13:01:51.246Z,Transfer,Canada,Germany,Gibson - Wyman,Collins, Aufderhar and Klein,5546326.08,Business,Yes,Large transaction amount,Loan repayment
+861,6683,914910.99,2021-10-09T15:48:24.590Z,Withdrawal,Japan,Germany,Williamson Inc,Bogisich - Yost,580092.16,Individual,Yes,Large transaction amount,Loan repayment
+862,6391,253593.43,2022-09-24T00:36:32.468Z,Deposit,UK,China,Jerde and Sons,Koss - Huels,1125852.13,Individual,Yes,Large transaction amount,Loan repayment
+863,5824,735580.01,2024-05-25T20:06:33.011Z,Withdrawal,UK,Germany,Wisozk, Wilkinson and Price,Rowe and Sons,9677740.59,Business,Yes,Large transaction amount,Business payment
+864,5938,17103.60,2022-01-09T06:54:11.537Z,Deposit,China,Germany,Keeling - Rutherford,Bergnaum and Sons,7334346.48,Business,No,,Loan repayment
+865,1761,554376.82,2020-09-21T01:38:34.720Z,Withdrawal,Canada,Japan,Paucek, Wolff and Bechtelar,Braun, MacGyver and Abbott,4586115.72,Individual,Yes,Large transaction amount,Personal transfer
+866,8881,546330.81,2021-03-03T02:50:44.339Z,Deposit,Russia,UK,Mayert and Sons,Grant - Hyatt,4980828.41,Individual,Yes,Large transaction amount,Loan repayment
+867,6662,798881.01,2021-03-29T12:10:52.185Z,Transfer,USA,Russia,Adams LLC,Little, Schuster and Schinner,2619894.97,Individual,Yes,Large transaction amount,Personal transfer
+868,2321,756853.48,2024-11-10T13:59:29.182Z,Transfer,Germany,UK,Rodriguez, Cremin and Schultz,McDermott Group,5086388.80,Individual,Yes,Large transaction amount,Business payment
+869,4278,139792.69,2020-12-10T09:08:44.823Z,Withdrawal,Australia,UK,Koch - Hintz,Rosenbaum, Feeney and Bogan,6739821.70,Business,Yes,Large transaction amount,Business payment
+870,4100,434568.79,2021-12-10T08:57:43.089Z,Transfer,UK,China,Lubowitz - Bogan,Klein Group,797564.53,Business,Yes,Large transaction amount,Loan repayment
+871,4602,141517.14,2021-12-26T14:59:48.033Z,Deposit,India,USA,Murray LLC,Kilback - Parker,7567631.74,Individual,Yes,Large transaction amount,Personal transfer
+872,4535,329693.18,2021-12-29T10:07:20.510Z,Deposit,Australia,China,Kohler - Dicki,Kuvalis - Barton,5066575.03,Business,Yes,Large transaction amount,Business payment
+873,5785,16214.25,2023-02-10T20:13:33.727Z,Withdrawal,China,Germany,Waters Inc,Koch LLC,8744713.39,Business,No,,Loan repayment
+874,6866,923144.50,2022-09-05T16:42:14.135Z,Deposit,Canada,Australia,Hegmann, Rutherford and Heller,Stiedemann, Considine and Cruickshank,9308402.10,Business,Yes,Large transaction amount,Personal transfer
+875,5207,633464.20,2020-03-09T11:57:23.428Z,Deposit,USA,Canada,Gulgowski, Goodwin and Langosh,Bailey LLC,7937072.44,Individual,Yes,Large transaction amount,Loan repayment
+876,5086,192643.41,2023-06-29T17:55:47.980Z,Transfer,Russia,UK,Little, Luettgen and Waelchi,Cronin LLC,2469647.06,Individual,Yes,Large transaction amount,Loan repayment
+877,2460,261209.02,2021-02-09T22:44:49.778Z,Deposit,USA,India,Huel, Torp and Bechtelar,O'Conner - Veum,4194656.07,Business,Yes,Large transaction amount,Business payment
+878,7915,521028.17,2024-11-24T18:02:42.696Z,Withdrawal,Japan,Japan,Kulas Group,Heller Inc,7718275.00,Individual,Yes,Large transaction amount,Personal transfer
+879,2544,194431.82,2024-09-09T02:44:22.284Z,Withdrawal,China,Russia,Watsica and Sons,Heaney Group,8898176.13,Business,Yes,Large transaction amount,Loan repayment
+880,5572,75690.19,2021-04-16T19:49:39.595Z,Withdrawal,Russia,Russia,Cummerata - Kunze,Collins, Harvey and Schultz,8293403.85,Business,Yes,Large transaction amount,Loan repayment
+881,2933,250917.49,2024-03-06T05:18:40.527Z,Transfer,UK,China,Terry, Homenick and Champlin,Frami - Kautzer,7565479.57,Individual,Yes,Large transaction amount,Loan repayment
+882,7793,707910.81,2023-07-29T21:05:42.711Z,Deposit,Germany,Germany,Dibbert, Olson and Brown,Mohr, Kunde and Medhurst,5655405.98,Business,Yes,Large transaction amount,Loan repayment
+883,1767,534429.53,2023-06-24T14:20:11.835Z,Transfer,Canada,Australia,Watsica and Sons,Turner - Feeney,2326996.84,Individual,Yes,Large transaction amount,Business payment
+884,3903,377743.12,2023-09-04T17:08:38.074Z,Withdrawal,Russia,Canada,Jakubowski Group,Flatley - Runolfsdottir,5460179.12,Business,Yes,Large transaction amount,Loan repayment
+885,3993,648375.94,2024-01-22T09:04:28.559Z,Transfer,Australia,India,Torphy LLC,Bode, Ziemann and Jerde,7646784.23,Business,Yes,Large transaction amount,Loan repayment
+886,2109,28527.54,2020-05-01T04:01:17.144Z,Transfer,Germany,UK,Luettgen - Waelchi,Rau - Simonis,1945356.90,Business,Yes,Large cross-border transfer,Business payment
+887,1999,311704.18,2022-02-07T18:49:51.422Z,Transfer,Australia,UK,Botsford - Weissnat,Hickle, Kihn and Walter,3044259.90,Business,Yes,Large transaction amount,Loan repayment
+888,4287,404527.54,2024-11-22T07:37:28.026Z,Deposit,USA,Japan,Morar, Johns and Kiehn,Schowalter Inc,6224600.21,Individual,Yes,Large transaction amount,Business payment
+889,1625,507644.00,2022-09-08T02:23:02.985Z,Deposit,Germany,China,Kozey and Sons,Blanda Inc,4419816.66,Business,Yes,Large transaction amount,Business payment
+890,2776,726721.20,2024-01-23T00:24:16.062Z,Deposit,USA,China,Beatty - Ratke,Feeney and Sons,1304535.85,Individual,Yes,Large transaction amount,Personal transfer
+891,4946,528160.26,2020-10-13T08:19:32.410Z,Deposit,Germany,Canada,Leffler LLC,Schneider - Kuhn,1414381.33,Business,Yes,Large transaction amount,Business payment
+892,7001,484063.07,2023-01-11T00:06:22.863Z,Withdrawal,UK,UK,Schuppe LLC,Stracke Group,8376933.15,Business,Yes,Large transaction amount,Business payment
+893,5835,561167.34,2022-12-26T23:15:02.051Z,Transfer,Germany,Australia,O'Conner - Lehner,Thiel - Torp,5511414.49,Individual,Yes,Large transaction amount,Business payment
+894,7173,495627.43,2023-09-21T13:13:43.219Z,Transfer,Canada,India,Boyle - Schuster,Hand LLC,6473123.82,Business,Yes,Large transaction amount,Personal transfer
+895,7993,503578.18,2020-09-09T19:42:10.298Z,Withdrawal,USA,Germany,Murray - Koss,Durgan, Glover and Kshlerin,2630175.65,Individual,Yes,Large transaction amount,Loan repayment
+896,6392,661643.73,2024-11-04T09:05:47.861Z,Deposit,UK,UK,Schinner - Bartell,Aufderhar LLC,9049500.26,Business,Yes,Large transaction amount,Business payment
+897,7127,466730.62,2022-08-29T01:13:53.290Z,Deposit,Canada,Japan,Hahn - Wilderman,Hudson, Jacobs and Langosh,3052803.75,Business,Yes,Large transaction amount,Loan repayment
+898,9655,510966.04,2025-02-06T23:49:31.047Z,Transfer,Germany,China,Lubowitz, Huels and Hand,Hudson, Treutel and Feil,9276263.29,Individual,Yes,Large transaction amount,Loan repayment
+899,3786,752143.08,2022-09-18T03:05:57.850Z,Transfer,Germany,Australia,Haley, Gulgowski and Lockman,Rippin - Treutel,7624538.60,Individual,Yes,Large transaction amount,Personal transfer
+900,7283,336339.94,2024-12-22T16:31:29.561Z,Withdrawal,Germany,Russia,Rippin - Block,Dach Inc,8821600.03,Business,Yes,Large transaction amount,Business payment
+901,6279,896861.09,2023-04-11T03:29:41.195Z,Deposit,USA,Australia,Kirlin Inc,Oberbrunner Group,7150109.70,Business,Yes,Large transaction amount,Personal transfer
+902,8542,278459.92,2020-10-21T15:12:31.341Z,Deposit,Australia,Australia,Lebsack and Sons,Glover, Considine and Satterfield,3710165.68,Business,Yes,Large transaction amount,Loan repayment
+903,1397,200575.05,2024-08-29T20:31:41.018Z,Withdrawal,China,UK,Swift - Hamill,Leannon - Farrell,1233244.35,Individual,Yes,Large transaction amount,Business payment
+904,1498,743726.01,2021-12-03T14:19:32.349Z,Withdrawal,China,Canada,Armstrong - Boyle,Brekke - Sauer,3715878.39,Individual,Yes,Large transaction amount,Loan repayment
+905,9610,932357.03,2021-11-28T18:08:44.931Z,Withdrawal,India,UK,Fadel - Steuber,Marks, Keeling and Emmerich,3377102.57,Individual,Yes,Large transaction amount,Loan repayment
+906,7182,720163.25,2023-10-18T23:17:43.084Z,Deposit,UK,UK,Okuneva - Mayer,Harris, Russel and Moen,4033430.05,Individual,Yes,Large transaction amount,Business payment
+907,5969,657703.89,2024-12-27T12:18:47.688Z,Withdrawal,Canada,Canada,Klocko - Wisoky,O'Kon Group,9710402.76,Individual,Yes,Large transaction amount,Business payment
+908,1906,317413.22,2023-12-31T07:18:40.620Z,Deposit,Japan,Russia,Hermiston - Ferry,Jaskolski - Hane,3492738.35,Individual,Yes,Large transaction amount,Personal transfer
+909,3031,904805.03,2023-06-24T06:17:02.434Z,Deposit,Germany,China,Sawayn - Dare,Hane, Senger and Bahringer,4013104.03,Individual,Yes,Large transaction amount,Loan repayment
+910,4512,829455.33,2022-07-17T21:42:50.321Z,Deposit,Japan,India,Simonis LLC,Schowalter - Nitzsche,5421659.57,Individual,Yes,Large transaction amount,Personal transfer
+911,3980,753766.55,2022-04-09T10:02:18.075Z,Transfer,Australia,Japan,Auer Inc,Murazik LLC,3694740.15,Individual,Yes,Large transaction amount,Personal transfer
+912,9913,331095.44,2023-09-08T11:41:57.918Z,Transfer,China,China,Bruen - Bashirian,West - Sporer,9581210.74,Business,Yes,Large transaction amount,Personal transfer
+913,5336,814991.96,2020-10-10T21:03:50.227Z,Transfer,India,Japan,Terry, Mayer and Satterfield,Smitham and Sons,1411731.55,Individual,Yes,Large transaction amount,Personal transfer
+914,5743,686830.96,2020-10-01T20:22:43.086Z,Transfer,Canada,India,Hermann, Huel and Grant,Waters, Rippin and Jast,6154882.49,Individual,Yes,Large transaction amount,Loan repayment
+915,3048,679162.38,2020-11-09T07:53:11.991Z,Deposit,USA,Canada,Goldner and Sons,Greenfelder Inc,3452235.22,Individual,Yes,Large transaction amount,Personal transfer
+916,7222,751225.84,2022-11-18T22:31:19.244Z,Transfer,China,Russia,Casper, Pacocha and Streich,Macejkovic, Abbott and Barton,6180074.31,Individual,Yes,Large transaction amount,Loan repayment
+917,5830,724610.53,2023-12-31T05:40:08.439Z,Transfer,Japan,India,Sporer, Moen and Blanda,Bednar Group,2449476.24,Business,Yes,Large transaction amount,Personal transfer
+918,3419,831418.56,2023-06-02T02:44:08.553Z,Withdrawal,USA,UK,Kris LLC,Powlowski LLC,9735595.90,Business,Yes,Large transaction amount,Loan repayment
+919,7015,973145.05,2023-08-30T18:04:19.516Z,Transfer,Australia,Germany,Wiegand, Thiel and Runolfsson,Rohan Inc,3117807.41,Individual,Yes,Large transaction amount,Loan repayment
+920,2463,494408.95,2020-07-02T20:04:54.139Z,Withdrawal,China,Canada,Kozey Group,Osinski, Huel and Wilkinson,4312969.98,Individual,Yes,Large transaction amount,Loan repayment
+921,4262,74522.78,2025-02-10T19:44:42.945Z,Deposit,Canada,USA,Walsh Inc,Mueller - Walker,441211.13,Business,Yes,Large transaction amount,Personal transfer
+922,3566,984339.30,2022-01-11T01:25:41.044Z,Deposit,USA,Canada,Jenkins, Bins and Koss,Schmitt, McCullough and Reichert,950758.29,Individual,Yes,Large transaction amount,Personal transfer
+923,6658,477657.87,2024-07-29T05:35:32.037Z,Withdrawal,UK,India,Welch, Mann and McDermott,Runte - Mosciski,3715895.71,Individual,Yes,Large transaction amount,Loan repayment
+924,6109,597859.43,2023-02-20T07:40:53.817Z,Transfer,Japan,Canada,Kiehn, Bergstrom and Herzog,Kozey LLC,4792399.18,Business,Yes,Large transaction amount,Business payment
+925,9427,331711.68,2022-01-04T17:10:54.705Z,Deposit,Russia,Russia,Goodwin, Lockman and Ondricka,Hansen and Sons,5224171.06,Business,Yes,Large transaction amount,Loan repayment
+926,2552,568155.35,2025-02-18T19:42:12.130Z,Withdrawal,Russia,Germany,Waters - Cartwright,Lehner - Fritsch,7840416.43,Business,Yes,Large transaction amount,Personal transfer
+927,7596,197235.13,2025-01-11T09:55:52.723Z,Withdrawal,Australia,Germany,Maggio and Sons,Satterfield, Torp and Roob,6027035.39,Individual,Yes,Large transaction amount,Business payment
+928,3226,593079.62,2023-09-13T23:39:03.603Z,Deposit,UK,China,O'Conner, Morar and O'Keefe,Bahringer Group,6537559.56,Business,Yes,Large transaction amount,Personal transfer
+929,5526,748297.30,2024-04-29T00:00:58.670Z,Deposit,UK,USA,Dare, Carroll and Rau,Bosco - Kautzer,4728445.13,Business,Yes,Large transaction amount,Loan repayment
+930,1810,650733.47,2023-08-03T01:40:20.640Z,Withdrawal,India,Germany,Conn and Sons,Greenfelder and Sons,5102038.42,Individual,Yes,Large transaction amount,Business payment
+931,6610,152223.04,2023-10-05T14:07:30.547Z,Transfer,Japan,China,Kub Group,Weber Inc,5556929.02,Business,Yes,Large transaction amount,Loan repayment
+932,1546,200934.44,2023-04-29T13:28:16.439Z,Deposit,China,UK,Gibson Group,Ernser Inc,4575744.27,Individual,Yes,Large transaction amount,Personal transfer
+933,2917,208836.60,2021-11-18T17:03:41.655Z,Withdrawal,Canada,Canada,O'Reilly, Kiehn and Beier,Spencer LLC,895675.69,Business,Yes,Large transaction amount,Loan repayment
+934,4306,352015.21,2023-04-28T16:57:19.080Z,Withdrawal,Russia,China,Okuneva - Conroy,Jerde - Thiel,3577897.66,Business,Yes,Large transaction amount,Loan repayment
+935,9354,831997.99,2023-12-07T18:14:44.680Z,Deposit,Russia,Germany,Lynch, Brown and McCullough,Runte, Casper and Cormier,5244986.05,Individual,Yes,Large transaction amount,Loan repayment
+936,7885,85531.48,2021-01-31T14:46:25.042Z,Deposit,India,USA,Emmerich Inc,Larkin and Sons,137599.32,Business,Yes,Large transaction amount,Business payment
+937,2668,309904.77,2021-04-08T01:11:49.546Z,Deposit,Canada,USA,Batz Inc,Dibbert and Sons,4143176.96,Individual,Yes,Large transaction amount,Loan repayment
+938,1869,308077.52,2024-05-18T02:42:48.738Z,Transfer,Germany,Japan,Champlin, Doyle and Windler,Gerhold, Feil and Fisher,9263385.62,Business,Yes,Large transaction amount,Loan repayment
+939,1938,89406.81,2020-08-27T03:40:22.206Z,Deposit,India,Canada,Lehner - Bode,Koepp - Cole,107827.78,Business,Yes,Large transaction amount,Personal transfer
+940,6762,517900.84,2023-03-19T16:16:30.638Z,Withdrawal,Japan,Australia,Gislason and Sons,Okuneva, Barrows and Boehm,8033682.49,Business,Yes,Large transaction amount,Personal transfer
+941,9792,47497.04,2024-01-11T17:08:15.499Z,Deposit,Australia,China,Macejkovic, Okuneva and Olson,Wolff - Koepp,7645209.36,Business,No,,Business payment
+942,4286,531260.12,2023-07-16T13:17:08.722Z,Withdrawal,USA,China,Gibson Inc,Yundt - Wisoky,3628867.21,Individual,Yes,Large transaction amount,Loan repayment
+943,6969,283468.15,2024-08-27T07:12:53.153Z,Deposit,China,India,Gottlieb LLC,Cummerata and Sons,348435.39,Individual,Yes,Large transaction amount,Business payment
+944,4713,754598.66,2023-10-19T07:50:06.591Z,Transfer,Japan,USA,Jerde and Sons,Mann Inc,2011254.28,Individual,Yes,Large transaction amount,Personal transfer
+945,2538,936018.66,2023-03-27T01:58:34.133Z,Withdrawal,Australia,China,Green, Herzog and Kuhn,Torphy Inc,996412.46,Individual,Yes,Large transaction amount,Loan repayment
+946,4470,783272.99,2020-11-17T06:47:35.361Z,Transfer,UK,USA,Walker Group,Dibbert and Sons,4637902.33,Individual,Yes,Large transaction amount,Business payment
+947,4853,279140.00,2020-08-21T08:48:10.054Z,Withdrawal,UK,Canada,Bins, Yost and Barrows,Goyette, Schiller and Schumm,3767587.72,Business,Yes,Large transaction amount,Personal transfer
+948,9825,118244.69,2024-11-15T16:46:24.470Z,Deposit,Australia,USA,Feeney, Vandervort and Carter,Konopelski, Paucek and Hessel,2986853.57,Business,Yes,Large transaction amount,Business payment
+949,2801,519967.87,2024-06-02T10:28:13.830Z,Withdrawal,Germany,Japan,Rippin, Hirthe and Bosco,Heathcote - Johnson,1889746.90,Business,Yes,Large transaction amount,Business payment
+950,7823,918353.42,2022-07-10T07:26:50.943Z,Deposit,Canada,UK,Wiegand - Monahan,Ryan and Sons,5145006.53,Individual,Yes,Large transaction amount,Personal transfer
+951,8399,208893.77,2022-12-13T09:07:33.039Z,Transfer,Germany,India,Pfeffer, Jacobson and Muller,Borer - Dooley,536328.72,Individual,Yes,Large transaction amount,Business payment
+952,3389,449983.26,2022-02-17T03:32:47.390Z,Deposit,Canada,China,Zieme, Howell and Mitchell,Willms, Carroll and Mraz,8911355.85,Individual,Yes,Large transaction amount,Loan repayment
+953,8531,227622.30,2024-05-06T07:47:47.213Z,Withdrawal,UK,Japan,Walsh LLC,Predovic, Senger and Labadie,450770.91,Business,Yes,Large transaction amount,Business payment
+954,7393,694216.51,2023-04-16T04:51:25.921Z,Withdrawal,China,Canada,Breitenberg LLC,Williamson - Welch,7582556.92,Business,Yes,Large transaction amount,Business payment
+955,9824,635860.91,2025-02-16T16:27:51.489Z,Withdrawal,Russia,USA,Braun - Lebsack,Welch - Schneider,2664018.11,Business,Yes,Large transaction amount,Loan repayment
+956,2034,827276.87,2021-05-22T21:56:41.751Z,Deposit,Australia,Canada,Baumbach - Smitham,Balistreri Group,6909004.30,Individual,Yes,Large transaction amount,Personal transfer
+957,7837,166542.28,2021-12-16T02:25:57.310Z,Deposit,Germany,UK,Padberg - Heaney,Olson, Corkery and Balistreri,6959644.14,Individual,Yes,Large transaction amount,Personal transfer
+958,8367,311930.21,2021-08-23T02:24:39.388Z,Withdrawal,Japan,Russia,Frami - Johnston,Harris Inc,6353517.87,Individual,Yes,Large transaction amount,Personal transfer
+959,9911,540166.73,2021-12-26T05:59:22.619Z,Deposit,UK,USA,Bruen - Padberg,Schuppe - Strosin,6207649.30,Business,Yes,Large transaction amount,Loan repayment
+960,5392,396464.36,2023-12-29T14:05:17.284Z,Transfer,Russia,Canada,Roob - Gerlach,Collins LLC,8572139.66,Individual,Yes,Large transaction amount,Personal transfer
+961,4712,850924.44,2023-05-26T23:49:25.218Z,Transfer,Australia,Russia,Smitham - Hegmann,Mills, Weimann and Bashirian,2108451.85,Business,Yes,Large transaction amount,Loan repayment
+962,9477,319781.58,2022-10-09T17:33:28.595Z,Withdrawal,Russia,Canada,Mitchell, Torphy and Ryan,Zboncak, Kozey and Cummings,9694357.10,Individual,Yes,Large transaction amount,Loan repayment
+963,5477,241719.51,2022-03-19T10:39:37.697Z,Withdrawal,Japan,Australia,Kirlin - Shields,Gleichner, Schultz and Bartell,6603039.29,Individual,Yes,Large transaction amount,Business payment
+964,4384,822584.95,2023-02-07T23:55:59.707Z,Withdrawal,Russia,China,Heathcote Group,Nienow, Gerlach and Weimann,2590837.27,Business,Yes,Large transaction amount,Business payment
+965,4294,769639.29,2020-05-15T02:08:55.390Z,Deposit,Australia,India,Ryan - Rutherford,Willms and Sons,7549382.11,Business,Yes,Large transaction amount,Business payment
+966,5295,676120.31,2023-11-09T11:37:54.421Z,Deposit,UK,China,Stoltenberg LLC,Steuber and Sons,327132.18,Individual,Yes,Large transaction amount,Personal transfer
+967,1640,749519.79,2025-02-02T17:45:57.156Z,Transfer,India,USA,Cassin, Abbott and Abbott,Ebert - Zulauf,7777475.13,Individual,Yes,Large transaction amount,Loan repayment
+968,8334,153221.79,2021-11-29T22:39:51.552Z,Withdrawal,Japan,Japan,Schaden Inc,Mayert - Schulist,7323126.12,Business,Yes,Large transaction amount,Personal transfer
+969,8899,804601.50,2025-01-27T18:32:06.123Z,Transfer,India,Germany,Haag and Sons,Hickle - Lowe,5962469.40,Individual,Yes,Large transaction amount,Business payment
+970,5806,637688.75,2021-09-29T20:07:23.947Z,Deposit,Germany,UK,Kuvalis - Heathcote,Lind, Berge and Legros,2911005.87,Business,Yes,Large transaction amount,Loan repayment
+971,7678,965128.99,2021-02-21T10:31:42.275Z,Deposit,UK,USA,Mitchell - Welch,Brakus, Conroy and Towne,9085458.96,Individual,Yes,Large transaction amount,Personal transfer
+972,9718,47840.27,2023-04-20T12:28:49.609Z,Transfer,Canada,Japan,Goodwin, Waelchi and Ziemann,Grimes - O'Reilly,7687005.89,Individual,Yes,Large cross-border transfer,Personal transfer
+973,2051,68975.24,2022-03-10T08:04:26.569Z,Deposit,Japan,Canada,Greenholt - Sipes,Mraz Group,7188413.85,Individual,Yes,Large transaction amount,Personal transfer
+974,9195,10290.78,2021-03-10T23:37:31.385Z,Deposit,India,Russia,Renner, Osinski and Mitchell,Bernhard, Witting and Bartell,2880089.43,Individual,No,,Loan repayment
+975,7042,401341.53,2022-12-28T05:38:17.789Z,Transfer,Australia,UK,Gibson Group,Bartoletti Inc,9599822.33,Individual,Yes,Large transaction amount,Business payment
+976,2870,266459.61,2023-08-10T11:02:26.203Z,Withdrawal,India,Russia,Schuppe LLC,Ward Group,4120823.80,Individual,Yes,Large transaction amount,Loan repayment
+977,7165,923194.12,2021-01-26T15:47:25.921Z,Deposit,Germany,UK,Murazik Group,Gislason LLC,6579271.14,Business,Yes,Large transaction amount,Loan repayment
+978,8660,797667.58,2022-09-08T11:14:53.080Z,Transfer,China,Australia,Marks, Kovacek and Stracke,Hirthe Inc,9412228.19,Individual,Yes,Large transaction amount,Personal transfer
+979,9049,692794.78,2020-07-24T15:30:49.206Z,Transfer,India,USA,Schaefer LLC,Morar - Waelchi,358054.25,Individual,Yes,Large transaction amount,Personal transfer
+980,5347,35143.40,2020-05-04T22:57:39.046Z,Withdrawal,Canada,India,Osinski, Gerlach and Brakus,Heaney, Upton and Conn,6989927.77,Individual,No,,Loan repayment
+981,1340,426969.56,2021-12-09T00:49:03.236Z,Withdrawal,USA,India,Kunze, Langosh and Abernathy,Waelchi and Sons,2827934.77,Business,Yes,Large transaction amount,Business payment
+982,8952,372345.28,2022-01-05T15:58:12.475Z,Withdrawal,Japan,Japan,Huel - Kessler,Stanton - Okuneva,3070768.52,Individual,Yes,Large transaction amount,Business payment
+983,6834,483382.13,2021-02-23T08:02:02.689Z,Transfer,UK,China,Gaylord - Schulist,Mills Inc,9486950.48,Business,Yes,Large transaction amount,Personal transfer
+984,8930,110216.07,2020-03-20T13:43:44.176Z,Deposit,Germany,UK,Kihn Group,Stehr and Sons,4873910.39,Individual,Yes,Large transaction amount,Personal transfer
+985,1150,178243.47,2023-04-27T06:50:19.162Z,Transfer,Germany,China,Glover - MacGyver,Fay, Mann and Bailey,4220592.17,Individual,Yes,Large transaction amount,Personal transfer
+986,2627,653118.23,2020-10-02T01:47:35.721Z,Transfer,Russia,Japan,Bashirian, Zemlak and Rolfson,Franecki, MacGyver and Ullrich,3200182.19,Individual,Yes,Large transaction amount,Business payment
+987,1763,660930.23,2022-07-24T00:14:30.369Z,Withdrawal,China,China,Klocko - Beatty,Wehner - Casper,6196517.83,Individual,Yes,Large transaction amount,Loan repayment
+988,7824,995310.60,2024-08-05T05:03:19.623Z,Deposit,India,UK,Sipes, Heller and Schuppe,Zulauf, Gulgowski and Herman,7000889.16,Business,Yes,Large transaction amount,Business payment
+989,5975,685541.87,2022-02-11T11:06:01.563Z,Transfer,Australia,India,Nader, Kuhic and Friesen,Powlowski - Jast,9411561.36,Business,Yes,Large transaction amount,Business payment
+990,4191,989907.72,2021-08-15T22:17:13.101Z,Transfer,Japan,India,Padberg and Sons,Armstrong - Hilpert,6497396.05,Business,Yes,Large transaction amount,Personal transfer
+991,3961,288483.65,2023-08-28T00:06:43.274Z,Transfer,Canada,Germany,Langworth, Boyle and Toy,Will LLC,1797448.98,Business,Yes,Large transaction amount,Personal transfer
+992,8667,717410.72,2023-05-01T15:09:11.862Z,Withdrawal,Canada,Japan,Olson Inc,Hickle, Fisher and Legros,4453182.59,Individual,Yes,Large transaction amount,Personal transfer
+993,7967,469552.01,2022-06-12T12:56:28.871Z,Transfer,UK,UK,Bahringer LLC,Buckridge Inc,4895423.89,Individual,Yes,Large transaction amount,Business payment
+994,4739,184746.03,2021-01-15T00:40:28.664Z,Withdrawal,China,India,Langosh - Collins,Connelly, Armstrong and Gulgowski,9357301.37,Individual,Yes,Large transaction amount,Personal transfer
+995,7963,206386.50,2022-07-02T17:41:56.646Z,Transfer,Canada,Germany,Miller and Sons,Hahn - Bashirian,4212666.86,Individual,Yes,Large transaction amount,Loan repayment
+996,7169,739043.97,2023-09-22T22:25:10.261Z,Withdrawal,Canada,India,Rodriguez - Block,Dicki - McCullough,9104148.62,Business,Yes,Large transaction amount,Loan repayment
+997,9452,190746.69,2020-05-27T03:29:17.170Z,Withdrawal,USA,USA,Rice - Crooks,Harris, Weimann and Balistreri,4152316.20,Individual,Yes,Large transaction amount,Business payment
+998,3997,765084.45,2023-10-28T23:51:04.286Z,Withdrawal,Canada,Germany,Steuber - Schroeder,Wintheiser Inc,7275575.16,Individual,Yes,Large transaction amount,Business payment
+999,1221,486265.90,2024-07-29T14:19:55.080Z,Deposit,Australia,Australia,Harvey, Hackett and Kuhlman,Bahringer, Maggio and Kihn,6320628.18,Individual,Yes,Large transaction amount,Business payment
+1000,1475,139553.24,2020-03-24T06:15:18.589Z,Withdrawal,USA,UK,McLaughlin Inc,Zemlak LLC,8649111.76,Individual,Yes,Large transaction amount,Business payment

@@ -1,0 +1,10 @@
+{
+  "name": "mysql-login-example",
+  "version": "1.0.0",
+  "description": "MySQL login example using Node.js",
+  "main": "mysqlExample.js",
+  "dependencies": {
+    "mysql2": "^3.6.0",
+    "readline-sync": "^1.4.10"
+  }
+}

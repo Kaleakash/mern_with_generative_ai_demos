@@ -1,0 +1,9 @@
+Scenario,Sender,Receiver,Amount,Transfer Date,Status,Error Message
+Standard Transfer,John Doe,Jane Smith,$100,13-05-2024,Successful,
+Cross-Currency Transfer,Alice Johnson,Bob Lee,€150,13-05-2024,Successful,
+Insufficient Funds,Michael Brown,Sarah Connor,$5000,13-05-2024,Failed,Transaction failed: Insufficient funds.
+Incorrect Account Details,Laura Green,INVALID_ACCOUNT,$200,13-05-2024,Failed,Transaction failed: Receiver account details incorrect.
+System Timeout,Kevin White,Rachel Adams,$750,13-05-2024,Failed,"Transaction failed: System timeout, please try again later."
+Database Unavailability,Chris Black,Donna Red,$300,13-05-2024,Failed,Transaction failed: Service temporarily unavailable due to maintenance.
+Exceeding Daily Limit,Tim Blue,Emma Yellow,"$10,000",13-05-2024,Failed,Transaction failed: Amount exceeds daily transaction limit.
+Suspicious Activity Detected,Zoe Indigo,Noah Violet,$1,13-05-2024,Failed,Transaction failed: Suspicious activity detected. Account temporarily locked.

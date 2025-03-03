@@ -1,0 +1,57 @@
+{
+  "products": [
+  
+    {
+      "id": "1",
+      "name": "Apple",
+      "price": "0.50",
+      "category": "Fruits"
+    },
+    {
+      "id": "2",
+      "name": "Banana",
+      "price": "0.30",
+      "category": "Fruits"
+    },
+    {
+      "id": "3",
+      "name": "Broccoli",
+      "price": "1.20",
+      "category": "Vegetables"
+    },
+    {
+      "id": "5",
+      "name": "Milk",
+      "price": "1.50",
+      "category": "Dairy"
+    }
+  ],
+  "users": [
+    
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "2",
+      "username": "jane_doe",
+      "email": "jane@example.com"
+    }
+  ],
+  "orders": [
+    
+    {
+      "id": "1",
+      "userId": "1",
+      "productId": "1",
+      "quantity": "2"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "productId": "3",
+      "quantity": "1"
+    }
+  ]
+}
