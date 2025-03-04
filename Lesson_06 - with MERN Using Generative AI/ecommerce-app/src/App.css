@@ -1,0 +1,19 @@
+/* src/App.css */
+.product-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 10px;
+  text-align: center;
+}
+
+.product-image {
+  max-width: 150px; /* Set the max width */
+  max-height: 150px; /* Set the max height */
+  object-fit: contain; /* Ensures the aspect ratio is maintained */
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

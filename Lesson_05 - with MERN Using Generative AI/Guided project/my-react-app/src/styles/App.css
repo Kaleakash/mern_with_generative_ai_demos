@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+
+/* App.css */
+.App {
+    text-align: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+    background-size: 400% 400%;
+    padding: 2rem;
+    font-family: 'Poppins', sans-serif;
+    animation: gradientBG 15s ease infinite;
+}
+
+@keyframes gradientBG {
+    0% { background-position: 0% 50% }
+    50% { background-position: 100% 50% }
+    100% { background-position: 0% 50% }
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+.title {
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 800;
+    margin-bottom: 2rem;
+    text-shadow: 
+        2px 2px 4px rgba(0, 0, 0, 0.3),
+        0 0 20px rgba(255, 255, 255, 0.1);
+    letter-spacing: 3px;
+    animation: titleFloat 3s ease-in-out infinite;
+}
+
+@keyframes titleFloat {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+
+.status {
+    color: #fff;
+    font-size: 1.8rem;
+    margin-bottom: 3rem;
+    padding: 1rem 2rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    display: inline-block;
+}
+
+.x-player {
+    background: linear-gradient(45deg, #00fff5, #0099ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    text-shadow: none;
+}
+
+.o-player {
+    background: linear-gradient(45deg, #ff6b6b, #ff3366);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    text-shadow: none;
+}
+
+.board {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 2rem;
+    border-radius: 25px;
+    box-shadow: 
+        0 8px 32px 0 rgba(31, 38, 135, 0.37),
+        inset 0 0 30px rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transform: perspective(1000px) rotateX(5deg);
+    transition: all 0.5s ease;
+}
+
+.board:hover {
+    transform: perspective(1000px) rotateX(0deg) scale(1.02);
+}
+
+.board-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.board-row:last-child {
+    margin-bottom: 0;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(
+        145deg,
+        rgba(255, 255, 255, 0.05),
+        rgba(0, 0, 0, 0.1)
+    );
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin: 6px;
+    font-family: 'Poppins', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    box-shadow: 
+        0 4px 15px rgba(0, 0, 0, 0.2),
+        inset 0 0 15px rgba(255, 255, 255, 0.05);
+}
+
+.square:hover {
+    background: linear-gradient(
+        145deg,
+        rgba(255, 255, 255, 0.1),
+        rgba(0, 0, 0, 0.15)
+    );
+    transform: translateY(-5px);
+    box-shadow: 
+        0 8px 25px rgba(0, 0, 0, 0.3),
+        inset 0 0 20px rgba(255, 255, 255, 0.1);
+}
+
+.square:focus {
+    outline: none;
+}
+
+.square:active {
+    transform: translateY(0);
+}
+
+.reset-button {
+    margin-top: 3rem;
+    padding: 1.2rem 3rem;
+    font-size: 1.3rem;
+    background: linear-gradient(45deg, #4CAF50, #45a049);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    box-shadow: 
+        0 4px 15px rgba(76, 175, 80, 0.3),
+        0 8px 25px rgba(0, 0, 0, 0.2);
+}
+
+.reset-button:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 
+        0 6px 20px rgba(76, 175, 80, 0.4),
+        0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.reset-button:active {
+    transform: translateY(0) scale(1);
+}
+
+@media (max-width: 600px) {
+    .title {
+        font-size: 3rem;
+    }
+    
+    .square {
+        width: 80px;
+        height: 80px;
+        font-size: 2.5rem;
+    }
+    
+    .status {
+        font-size: 1.4rem;
+    }
+}
