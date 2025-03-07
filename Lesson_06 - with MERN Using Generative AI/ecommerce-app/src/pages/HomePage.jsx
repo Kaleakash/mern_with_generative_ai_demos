@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import ProductCard from '../components/ProductCard';
 
 const HomePage = ({ addToCart }) => {
-  const [products, setProducts] = useState([]);
+  concst [products, setProducts] = useState([]);
 
   useEffect(() => {
     const fetchProducts = async () => {
